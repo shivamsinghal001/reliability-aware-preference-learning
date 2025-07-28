@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name = "RAPL"
+version = "0.0.1"
+description = "Reliability-Aware Preference Learning"
+authors = [
+     {name = "Shivam Singhal", email = "shivamsinghal@berkeley.edu"},
+]
+dynamic = ["readme"]
+dependencies = [
+    # Put dependencies here.
+]
+
+[tool.setuptools.dynamic]
+readme = {file=["README.md"], content-type="text/markdown"}
+
+
+[project.optional-dependencies]
+dev = [
+    "black",
+    "flake8",
+    "pep8-naming",
+    "mypy",
+    "pytest",
+    "pytest-timeout",
+    "isort",
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py39']
+include = '\.pyi?$'
+exclude = ''
+
+[tool.pytest.ini_options]
+timeout = 60
+testpaths = ["tests"]
+markers = []
+
+[tool.isort]
+profile = "black"
+known_first_party = ["RAPL"]
+known_third_party = ["ray", "torch"]
