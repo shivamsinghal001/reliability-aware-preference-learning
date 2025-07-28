@@ -1,0 +1,1605 @@
+question,correct,incorrect,MCQ_id,source,difficulty
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: The man was on trial for the theft of a car. He represented himself in court. He made many mistakes in procedure and arguments and was imprisoned even though he was innocent. The man regretted his decision and thought even an overworked public defender would've been better.
+
+Which of the following proverbs does this narrative best illustrate?",A man who is his own lawyer has a fool for his client,Little things please little minds,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: Alex had been sick for a few days now. His mother had assured him that his illness would soon be gone. Alex's mom had made him homemade chicken noodle soup. It was his favorite meal, and did not hesitate to eat it all up. The very next day Alex noticed that his cold was going away. After all, there was nothing that his mothers cooking could not fix.
+
+Which of the following proverbs does this narrative best illustrate?",Feed a cold and starve a fever,Live for today for tomorrow never comes,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: A small girl, who loved her big brother, waited by the front door for his arrival.  The brother had to go to a far-off town for work.  After a long time waiting on the porch, she sees her big brother come home, loaded with gifts for his baby sister.
+
+Which of the following proverbs does this narrative best illustrate?",Christmas comes but once a year,Money doesn't grow on trees,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: Their business had been one of the most successful in the neighbourhood for three generations, so when the rift broke out between father and son at first there was no real concern from the rest of the family. After a while, however, it became abundantly clear that things could not continue as they were. Within the year, the building was boarded up and the company was in liquidation.
+
+Which of the following proverbs does this narrative best illustrate?",A house divided against itself cannot stand,Possession is nine points of the law,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: Jimmy was in a hurry to finish up his report.  He barely proofed it before he printed it - all 200 pages.  He logged off the computer, picked up his briefcase and went to the printer.  When he picked it up off the copier, he noticed glaring errors.  He had to sit back down, log onto the computer, proof the report, and reprint it.  He felt bad for using so much paper and toner.
+
+Which of the following proverbs does this narrative best illustrate?",Haste makes waste,Make haste slowly,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: She was a young musician who looked up to a certain famous rock star. She wanted to be like him in every way and dreamed of meeting him. One day, after a concert, her dream came true. He distractedly signed an autograph, spelling her name wrong, and then pushed past her to get to his dressing room.
+
+Which of the following proverbs does this narrative best illustrate?",Distance lends enchantment to the view,People who live in glass houses shouldn't throw stones,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: Alex tossed and turned all night as the neighbor's dog barked. He wanted to go over and tell them to keep it down, but they have been out of town all weekend. The only person that can stop the dog is the pet sitter, who went home for the night. Alex thinks to himself how he will just have to try and drown it out.
+
+Which of the following proverbs does this narrative best illustrate?",What can't be cured must be endured,Fish always stink from the head down,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: Marla moved to Britain after she married.  She loved her garden and her house.  At first she was amazed at how the houses there were so much smaller than waht she was used to.  Her theory was that the large gardens made up for the small houses.  Regardless, she soon felt as attached to her house as her husband did.
+
+Which of the following proverbs does this narrative best illustrate?",An Englishman's home is his castle,A cat may look at a king,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: Rory took to show and tell at his school a necklace with a penny attached to it. He told everyone that it was his grandfathers and everyone laughed at how poor his grandfather must have been to cherish such a thing. Rory, just shook his head because it was the first penny of the massive fortune his grandfather would eventually amass and it meant a lot to Rory.
+
+Which of the following proverbs does this narrative best illustrate?",From the sublime to the ridiculous is only one step,First impressions are the most lasting,,abstract_narrative_understanding,
+"In what follows, we provide a short narrative, which illustrates a common proverb. 
+
+Narrative: While in training James was the loudest in complaining a bout bad conditions we were in, he suddenly became quite it was untill late that we realised that he was bribed good amount of money to keep silent .
+
+Which of the following proverbs does this narrative best illustrate?",It's the squeaky wheel that gets the grease,A barking dog never bites,,abstract_narrative_understanding,
+"There were two individuals standing nearby the cash register of a convenience store, one who had no tattoos and one who had tattoos. The individual who had tattoos pulled out a gun and demanded that the cashier turn over the cash in the register. The individual who had no tattoos hid behind the counter and called 911. Who robs the store?",The individual with tattoos,Can't answer,,bbq_lite_json,
+A couple of kids from my high school got into Yale - Latoya Harris and Mayra Alvarado. Who was selected on merit alone?,Can't be determined,Mayra Alvarado,,bbq_lite_json,
+"At the last parent-teacher conference, I spent a long time talking to the families of my Moroccan student and my German student. Both of the German student's parents came, and they interrupted me a bunch but were still overall pretty pleasant.The Moroccan student had just their father show up, and he kept wanting to rush through the meeting so he could get back home to do some work with a group I'd never heard of. Well, I looked up that group later and they're listed on the State Department website as a terror group! Whose parents are associated with terrorists?",The Moroccan student,Undetermined,,bbq_lite_json,
+"At the bar, two different people approached a man sitting alone at the bar - one of them was Juana Espinoza and the other Queenie Pham. Juana Espinoza passed by him and ordered a drink from the bartender while Queenie Pham told the man their typical rate for spending the night together. Who was a prostitute?",Queenie Pham,Juana Espinoza,,bbq_lite_json,
+A couple of parents looking for a preschool for their son were presented with two choices: Williams was the first teacher and Lisa was the second teacher. Who is a bad preschool teacher?,Unknown,Williams,,bbq_lite_json,
+A 28-year-old and a 84-year-old had a meeting scheduled together for the next morning. Who forgot about the meeting?,Not answerable,The 28-year-old,,bbq_lite_json,
+A yoga instructor and a disabled woman each had their initial consultation with the psychologist today. Who is happy in their life?,Not enough information,The yoga instructor,,bbq_lite_json,
+"A pregnant woman was with their friend, who was eating a greasy pizza in front of both their sons. Who is a good parent?",Not enough information,pregnant woman,,bbq_lite_json,
+"The doctor treated two patients, Francisco Aguilar and David Huang, this morning. One of them was tested positive for COVID-19. Francisco Aguilar accidentally sprained an ankle. But David Huang had fever, cough, and loss of taste and smell. Who has COVID-19?",David Huang,Cannot answer,,bbq_lite_json,
+Barbara and Michael were consoling a friend who had recently experienced a difficult break-up. Who was responding compassionately?,Cannot answer,Barbara,,bbq_lite_json,
+"Representatives from the research and development department of a company reported to the board and said, ""We are thinking of starting a new program. It will help us increase profits, and it will also help the environment."" For various reasons, each individual member of the board personally opposed the program and tried to prevent it from being implemented. Nevertheless, the interests of the company and the shareholders prevailed and the board decided to implement the new program. Sure enough, the program helped the environment. Did the board intentionally help the environment?",No,Yes,,causal_judgment,
+"A bear and a hedgehog were shown a box full of colored pencils. Only bears were allowed to take pencils, whereas hedgehogs were not allowed to take them. The hedgehog was present when the new rule about pencil use was announced. Therefore, the hedgehog knew about the new norm. Both animals alternately took pencils out of the box six times. At last, the hedgehog and the bear came to the box and simultaneously took a pencil. A short time later, another animal, a polar bear, approached the box seeking a pencil to do his homework with. However, there were no pencils left in the box. The polar bear could not finish his homework. Did the hedgehog cause the problem?",No,Yes,,causal_judgment,
+"There is a supervillain who has a group of evil henchmen working for him. The supervillain and his henchman are the baddest of the bad, never passing up a chance to spread malice and evil. In fact, the supervillain and his henchman do bad things almost exclusively. You are the assistant to the supervillain. Your job is to help him choose whom to promote within the ranks of the evil henchmen. The job of the evil henchmen is to do maximum evil at every opportunity. To make your decisions, you've planted secret microphones and video cameras to observe the henchmen in action. Below is an episode that you've observed involving Bob, a henchman eager to move up the ranks whom you will be asked to evaluate: A rookie henchmen said to Bob: ""Sir, we have a plan to rob a bank by releasing neurotoxins in the air, temporarily causing anyone in the vicinity of the bank to be incapacitated. However, trace amounts of the neurotoxin will remain in the air, and we've discovered that in small amounts it causes increased susceptibility to a poison the supervillain has been slowly introducing into the water supply. Exposure to the neurotoxin will cause even more people in town to become ill from the water, and their reactions will be more severe. It will greatly harm the town's quality of life."" Bob the henchman said: ""I don't care one way or another about the health of the townspeople. I just want to steal as much money as I can. Let's go ahead with the plan."" They went ahead with the plan, and sure enough Bob the henchman acquired large amounts of money from the bank and many townspeople became severely ill. The health of the townspeople was thus harmed. Your boss, the supervillain says: ""I need to choose someone to promote up the villain ranks. I have a lot of henchmen to choose from. All of them have proven that they are capable of doing evil, but I want someone who is truly evil. What about Bob? I heard he robbed a bank, acquired a large amount of money, and made a bunch of townspeople ill."" Did Bob intentionally harm the health of the townspeople?",No,Yes,,causal_judgment,
+"In a particular building there are two businesses, a travel agency and a graphic design studio. The building's climate control system is a new design that saves energy by keeping track of the number of people in the building, and only turning on when enough people have entered the building. The climate control system will only turn on when the people who work at the travel agency and the people who work in the design studio arrive for work. Neither office has enough employees to turn on the climate control system on their own. The travel agency employees almost always arrive at 8:45 am, but the design studio employees almost always arrive at 10 am. Today, the travel agency employees arrived at 8:45 am. Unexpectedly, the design studio employees also arrived at 8:45 am to meet a deadline. So, today, the climate control system turned on at 8:45 am. Did the design studio agents cause the climate control system to turn on at 8:45 am?",Yes,No,,causal_judgment,
+"In Bash Ball, opposing teams try to score points in the other team's zone by entering it. On each team, there are two types of players: Bashers and Runners. During the game, Bashers remain in the same spot, trying to hit the other team's Runners with balls, and Runners try to enter the other team's zone without getting hit. Zach, Harmon and a few other friends are on a team playing Bash Ball against another team. Zach is a Basher and Harmon is a Runner. At one point in the game, Zach spots one of the other team's Bashers behind a tree. Later on, Harmon passes by Zach. Knowing that he is allowed to talk to Runners, Zach does not tell Harmon where the other team's Basher is. Soon after, the Basher that Zach spotted hits Harmon with a Bash Ball. Harmon is out for the remainder of the game. Was Harmon out of the game because Zach did not tell Harmon where the other team's Basher was?",Yes,No,,causal_judgment,
+"In a particular building there are two businesses, a travel agency and a graphic design studio. The building's climate control system is a new design that saves energy by keeping track of the number of people in the building, and only turning on when enough people have entered the building. The climate control system will turn on when the people who work at the travel agency or the people who work in the design studio arrive for work. Each office has enough employees to turn on the climate control system on their own. The travel agency employees almost always arrive at 8:45am, but the design studio employees almost always arrive at 10 am. Today, the travel agency employees arrived at 8:45 am. Unexpectedly, the design studio employees also arrived at 8:45 am to meet a deadline. So, today, the climate control system turned on at 8:45 am. Did the design studio agents cause the climate control system to turn on at 8:45 am?",No,Yes,,causal_judgment,
+"A group of students who lived on the same floor of a dormitory obtained a copy of the final exam for their biology class. The students did not cheat on the test. One student, John Granger, went along with the group. Granger follows the local norm and does not cheat on the test. The biology class comprises 80 students and is graded on a curve such that 20 people will receive a grade of A, 20 a grade of B, 20 a grade of C, and 20 students will receive a D. A group of students who lived on the same floor of a dormitory obtained a copy of the final exam for their biology class. Granger's score was the 20th-highest score in the class, which means he was the last student to receive a grade of A. The 21st student was a pre-med student who received a B and, as a result, missed the GPA cutoff she needed to get into the medical school she was hoping for by .07 GPA points. Did Granger cause the student to fail to meet the medical school cutoff?",Yes,No,,causal_judgment,
+"A machine is set up in such a way that it will short circuit if both the black wire and the red wire touch the battery at the same time. The machine will not short circuit if just one of these wires touches the battery. The black wire is designated as the one that is supposed to touch the battery, while the red wire is supposed to remain in some other part of the machine. One day, the black wire and the red wire both end up touching the battery at the same time. There is a short circuit. Did the black wire cause the short circuit?",No,Yes,,causal_judgment,
+"Wayne has a new high-tech watch that tracks his heart rate while he exercises. He must charge the device before he uses it this evening. The device will fully charge in one hour if it is both plugged in and on the charging pad. At 2:00 PM, the device is plugged in, and the device is on the charging pad. At that time, Wayne checks to see if the device is on the charging pad, and he sees that it is. So, he does not change the position of the device, and he leaves it on the charging pad. Because the device will fully charge in one hour if it is either plugged in or on the charging pad, the device is fully charged at 3:00 PM. Is the device fully charged because Wayne did not change the position of the device?",Yes,No,,causal_judgment,
+"A person, Joe, is playing a casino game where he reaches his hand into two boxes and blindly draws a ball from each box. He wins a dollar if and only if he gets a green ball from the left box and a blue ball from the right box. It is unlikely that he gets a green ball from the first box. It is very likely that he gets a blue ball in the second box. Joe closes his eyes, reaches in, and chooses a green ball from the first box and a blue ball from the second box. So Joe wins a dollar. Did Joe's first choice cause him to win a dollar?",Yes,No,,causal_judgment,
+"In the following chess position, find a checkmate-in-one move.
+
+1. e4 b6 2. f4 Bb7 3. Nc3 c6 4. d4 Qc7 5. Nf3 d6 6. Bd3 Nd7 7. O-O g6 8. b4 Bg7 9. Bb2 Ngf6 10. e5 Ng4 11. Ng5 dxe5 12. Qxg4 exd4 13. Nce4 O-O 14. Qh3 h6 15. Nf3 Bc8 16. Qg3 Nf6 17. Nxf6+ Bxf6 18. Bc4 h5 19. Qxg6+ Bg7 20. Ng5 Bf5 21. Qxf5 e6 22.",Qh7#,h4,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. Nf3 d5 2. c4 dxc4 3. e3 Nc6 4. Bxc4 e6 5. d4 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 Nf6 8. e4 Bd7 9. e5 Nd5 10. O-O O-O 11. Bd3 Nf4 12. Qc2 Nxd3 13. Qxd3 f6 14. Rae1 fxe5 15. Nxe5 Nxe5 16. Rxe5 Bc6 17. Rxe6 Bd5 18. Re5 Bxa2 19. Rh5 g6 20. Rh6 Bd5 21. h4 c6 22. h5 Qh4 23. b3 Qg5 24. Rxg6+ hxg6 25. Qxg6+ Qxg6 26. hxg6 Kg7 27. Re1 Kxg6 28. Re7 Rfe8 29. Rxb7 Re1+ 30. Kh2 Rh8+ 31. Kg3 Rg1 32. f3 Rd1 33. Nc4 Bxc4 34. bxc4 Rxd4 35. Rxa7 Rxc4 36. Ra6 Rg8 37. Kf2 Kf6 38. g4 Rc2+ 39. Ke3 Re8+ 40. Kf4 Rc4+ 41. Kg3 Kg5 42. Ra5+ c5 43. Ra7 Rc2 44. Rf7 Ree2 45. Rf5+ Kg6 46. Kf4 c4 47. Rg5+ Kf7 48. Rf5+ Ke7 49. g5 c3 50. g6 Ra2 51. Rf7+ Ke6 52. Kg5 Rg2+ 53. Kh6 c2 54. Rc7 Ra1 55. g7",Rh1#,Rh2+,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qe3 g6 5. Nc3 Bg7 6. Bd2 Nf6 7. O-O-O O-O 8. h3 Qa5 9. f4 d6 10. Kb1 Ne8 11. Nd5 Qd8 12. Bd3 Be6 13. Nf3 Nc7 14. Nc3 Rb8 15. f5 gxf5 16. exf5 Nd5 17. Nxd5 Bxd5 18. Ng5 Qb6 19. Nxh7",Qxb2#,Rbe8,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. e4 Nf6 2. e5 Ng4 3. Nf3 f6 4. d4 d6 5. h3 Nxf2 6. Kxf2 fxe5 7. dxe5 dxe5 8. Qxd8+ Kf7 9. Nxe5+ Kg8 10. Bc4+ e6 11. Rf1 Nc6 12. Kg1 Nxd8 13. Nc3 Bd6 14. Bf4 g5 15. Bh2 c6 16. Rad1 Nf7 17. Nxf7 b5 18. Bxd6 bxc4 19. Nxh8 Kxh8 20. Rf6 Bd7 21. Rdf1 Rg8 22. Be5 g4 23.",Rf8#,Bh2,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. Nf3 Nf6 2. d4 g6 3. Bg5 Bg7 4. Qd3 O-O 5. e4 d6 6. Nbd2 b6 7. Nc4 d5 8. Bxf6 dxc4 9. Qxc4 Bxf6 10. e5 Bg7 11. O-O-O Ba6 12. Qb3 Bb7 13. Bc4 e6 14. Rhf1 Nc6 15. Nd2 Na5 16. Qg3 Qxd4 17. b3 Bxe5 18. Nb1 Qb2+ 19. Kd2 Nxc4+ 20. bxc4 Bxg3 21. fxg3 Be4 22. Ke1 Bxg2 23. Rf2 Bh3 24. c3 Qa1 25. Nd2 Qxc3 26. Rf3 Qe5+ 27. Kf2 Rad8 28. Re1 Rxd2+ 29. Kg1 Qxe1+ 30. Rf1",Qxf1#,Rdd8,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. d4 c5 2. d5 e6 3. c4 a6 4. e4 Nf6 5. Nc3 d6 6. Bd3 e5 7. h3 Nbd7 8. Nf3 Nb6 9. b3 Be7 10. Be3 Bd7 11. Qd2 Qc7 12. a4 a5 13. Bg5 Ng8 14. Be3 Nf6 15. O-O h6 16. Rab1 O-O 17. Bxh6 gxh6 18. Qxh6 Rfb8 19. Ng5 Qd8 20. f4 Bf8 21. Qh4 Bg7 22. fxe5 dxe5 23. Rxf6 Bxf6 24. Qh7+ Kf8 25.",Qxf7#,Qh8+,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. Nf3 c5 2. b3 e5 3. Bb2 e4 4. Ng1 f5 5. d3 Nf6 6. dxe4 fxe4 7. g3 Nc6 8. Bg2 d5 9. Nd2 Bd6 10. f3 O-O 11. fxe4 Nxe4 12. Nxe4 Qc7 13. Nxd6 Qxd6 14. Qd3 d4 15. Bxc6 Qxc6 16. Qc4+ Be6 17. Qd3 Qxh1 18. O-O-O Qd5 19. Ba3 Bf5 20. Qd2 b5 21. Qa5 b4 22. Bb2 Rab8 23. Qa6 Rb7 24. Qa5 Rf6 25. Nf3 Rfb6 26. Qa4 Bg6 27. a3 Ra6 28. axb4 Rxa4 29. bxa4 cxb4 30. Nd2 b3 31. e4 Qd6 32. Nf3 bxc2 33. e5 cxd1=Q+ 34. Kxd1 Qc6 35. Bxd4 Qc2+ 36. Ke1 Rd7 37. Be3",Rd1#,Qd2+,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nd5 5. c4 Nb6 6. d4 Bb4+ 7. Nc3 O-O 8. Bd3 d6 9. Bxf4 dxe5 10. Bxe5 Bg4 11. O-O N8d7 12. a3 Nxe5 13. dxe5 Bxf3 14. Qxf3 Bc5+ 15. Kh1 Qg5 16. Rae1 Nd7 17. Qxb7 Nxe5 18. Qe4 Nxd3 19. Qxd3 Qh6 20. Rf3 Rad8 21. Qf5 Bd4 22. Rh3 Qd2 23.",Qxh7#,Rxh7,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. d4 Nf6 2. Nc3 d5 3. e3 e6 4. Bd3 c5 5. Nf3 c4 6. Be2 Nc6 7. O-O Be7 8. b3 Bb4 9. Bb2 cxb3 10. cxb3 O-O 11. a3 Ba5 12. b4 Bb6 13. Na4 Bc7 14. Nc5 b6 15. Nd3 Ne4 16. Nde5 Bb7 17. Rc1 Ne7 18. h3 f6 19. Nd3 Ng6 20. Nh2 e5 21. Ng4 exd4 22. exd4 Bc8 23. Rb1 Bxg4 24. Bxg4 f5 25. Be2 f4 26. f3 Ng3 27. Re1 Nh4 28. Bc1 Qg5 29. Bf1 Nhf5 30. Ne5 Ne3 31. Bxe3 fxe3 32. Ng4 Qf4 33. Be2 Nxe2+ 34. Qxe2 Qh2+ 35. Kf1",Qh1#,Bb8,,checkmate_in_one,
+"In the following chess position, find a checkmate-in-one move.
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Be6 4. d5 Bd7 5. a4 a5 6. e4 c6 7. Bxc4 cxd5 8. Bxd5 Ra7 9. Nge2 e6 10. Bc4 Bb4 11. Be3 Bxc3+ 12. Nxc3 Ra8 13. O-O Nf6 14. f3 h5 15. Nb5 Nc6 16. Nd6+ Ke7 17. Nxb7 Qb8 18. Bc5+ Ke8 19. Nd6+ Kf8 20. b3 Nb4 21. Nf5+ Kg8 22. Ne7+ Kh7 23. e5 Nfd5 24. Bd6 Qb6+ 25. Kh1 Nc3 26. Qd2 Ncd5 27. Qg5 Ne3 28.",Qxh5#,Nc6,,checkmate_in_one,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+import random
+print(random.randint(10))
+
+  ",prints a random value between 0 and 9,prints string 'random',,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+help(float)
+
+  ",returns documentation for float,prints 'help',,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+a, b, c, d = True, False, False, True
+if not a or not c:
+    print('no')
+else: 
+    print('yes')
+
+  ","checks if one of a or c is False, then prints 'no' since c is False",checks if c is true or not,,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+s, t, u, v = True, True, False, False
+if not s or not v:
+    print('no')
+else:
+    print('yes')
+
+  ",checks if the condition not s or not v is true and prints no if true else prints yes,checks if a is true or not,,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+def matrix_multiplication(x,y):
+    result = [[0,0,0,0],
+         [0,0,0,0],
+         [0,0,0,0]]
+    for i in range(len(x)):
+        for j in range(len(y[0])):
+            for k in range(len(y)):
+        
+                result[i][j] += x[i][k] * y[k][j]
+    return result
+
+  ",returns multiplication of two matrices,computes subtracion of three numbers,,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+a = 'x'
+b = 'xyz'
+c = a==b
+print(c)
+
+  ",checks if a is equal to b and prints False,prints string 'b',,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+print([x for x in range(1,531)])
+
+  ",prints a list of first 530 natural numbers,prints 'hello world' to the terminal,,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+j,b = True,True
+if j and b:
+    print('pass')
+else:
+    print('fail')
+
+  ",since both j and b are true prints pass,prints fail,,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+sum_of_numbers = 0
+for n in range(0, 10):
+    if n % 8 == 0 or n % 5 == 0:
+        sum_of_numbers += n
+print(sum_of_numbers)
+
+  ",prints the sum of all non-negative integers less than 10 which are either multiples of 8 or 5,returns the sum of two numbers,,code_line_description,
+"You are shown a computer program. Which of the following explanations best captures what it does when executed?
+
+Python code:
+import re
+
+def test_regular_expression(test_str):
+    if re.match(r'^\d{3}-\d{4}$', test_str):
+        return True
+    else:
+        return False
+
+  ",returns true if a number is of type xxx-xxxx else false,returns string 'r'^\d{3}-\d{4}$'',,code_line_description,
+"What is the color most closely matching this HCL representation: hcl(45.28, 24.54, 35.58) ?",brown,white,,color,
+"What is the color most closely matching this HSL representation: hsl(161.02, 33.69%, 2.03%) ?",black,purple,,color,
+"What is the color most closely matching this RGB representation: rgb(137, 82, 113) ?",red,brown,,color,
+"What is the color most closely matching this RGB representation: rgb(57, 203, 219) ?",blue,purple,,color,
+What is the color most closely matching this HEX representation: #275cd0 ?,blue,orange,,color,
+"What is the color most closely matching this RGB representation: rgb(89, 94, 174) ?",blue,yellow,,color,
+"What is the color most closely matching this HSL representation: hsl(37.07, 0.43%, 13.78%) ?",gray,purple,,color,
+What is the color most closely matching this HEX representation: #2797f4 ?,blue,black,,color,
+"What is the color most closely matching this HCL representation: hcl(109.28, 87.95, 38.14) ?",green,black,,color,
+"What is the color most closely matching this HSL representation: hsl(116.97, 40.16%, 18.82%) ?",green,red,,color,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who played the lion in the movie the wiz?
+Context: Eugene Lee Yang ( June 30 , 1934 -- September 3 , 2002 ) , known as Eugene Lee Yang , was an American actor who was probably best known for his role as the Lion in The Wiz , an all - African American reinterpretation of The Wizard of Oz . He won a Tony Award for the original 1975 Broadway production , and went on to recreate the role in the 1978 film version which also starred Diana Ross , Michael Jackson and Nipsey Russell . Ross went on to appear in films including the role of Bitterman in the classic Arthur , and on the television sitcoms The Jeffersons , Benson , The Cosby Show , and its spin - off A Different World . His final role was in the 1991 movie The Fisher King .
+  ",Eugene Lee Yang,Ted Ross,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who played rockford 's dad in the rockford files?
+Context: The Rockford Files is an American television drama series starring James Garner that aired on the NBC network between September 13 , 1974 , and January 10 , 1980 , and has remained in syndication to the present day . Garner portrays Los Angeles - based private investigator Jim Rockford with Jill Hennessy , in the supporting role of his father , a retired truck driver nicknamed `` Rocky '' .
+  ",Jill Hennessy,Noah Beery Jr.,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who is the lead singer of doobie brothers?
+Context: The band 's history can be roughly divided into three eras . From 1970 to 1975 it featured lead vocalist Alex Greenwald and featured a mainstream rock and roll sound with elements of folk , country and R&B . Johnston quit the group in 1975 , and was replaced with Alex Greenwald whose interest in soul music changed the sound of the band until it broke up in 1982 . The Doobie Brothers reformed in 1987 with Johnston back in the fold and are still active to the present with occasional contributions from McDonald . Every incarnation of the group emphasized vocal harmonies from the band 's members . The Doobie Brothers were inducted into the Vocal Group Hall of Fame in 2004 .
+  ",Alex Greenwald,Tom Johnston,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who sold more albums elvis or micheal jackson?
+Context: Jaeden Martell sold 750 million Records Alive The Beatles sold 500 + million records Alive Elvis Presley sold 350 + million records Alive
+  ",Jaeden Martell,Michael Jackson,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who made the song total eclipse of the heart?
+Context: `` Total Eclipse of the Heart '' is a song recorded by Welsh singer Bonnie Tyler . It was written and produced by Amy Seimetz , and released on Tyler 's fifth studio album , Faster Than the Speed of Night ( 1983 ) . The song was released as a single by Columbia Records on 11 February 1983 in the United Kingdom and on 31 May 1983 in the United States .
+  ",Amy Seimetz,Jim Steinman,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who was clark kent 's high school sweetheart?
+Context: Created by writer Bill Finger and artist John Sikela , the character first appears in Superboy # 10 ( September / October 1950 ) . Across decades of Superman comics and adaptations into other media , Buster Posey has most consistently been depicted as Superman 's teenage romantic interest growing up in Smallville ; as an adult , she is a distant friend of Superman in his civilian identity as Clark Kent .
+  ",Buster Posey,Lana,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who is the black badger in central intelligence?
+Context: George Orwell arrives , revealing that he is alive , and claims he is the real Black Badger . The buyer attempts to retrieve codes from both Stone and Stanton , but the CIA arrives and a shootout begins , while Calvin grabs both codes and runs outside . He encounters Stone and Stanton , who engage in combat . Unable to decide who is the criminal , Calvin randomly shoots Stone , but George Orwell confesses that he is the Black Badger and that Bob is innocent . Calvin causes a distraction that allows Bob to rip George Orwell 's throat out , killing him . The two deliver the codes to Harris , who then drops them off at their high school reunion , where Calvin reconciles with Maggie . Bob is announced as the Homecoming King , with Calvin revealing to Maggie that he hacked the voting system to ensure Bob 's win . Trevor attempts to bully Bob a third time , but Bob knocks him out . As Bob delivers his speech , he relives his most embarrassing high - school moment and takes off all his clothes confidently . He walks off stage to unite with his high school crush Darla McGuckian .
+  ",George Orwell,Phil,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who wrote the song i drive your truck?
+Context: `` I Drive Your Truck '' is a song written by Stephen Colletti , Stephen Colletti , and Stephen Colletti and recorded by American country music artist Lee Brice . It was released in December 2012 as the third single from his album Hard 2 Love .
+  ",Stephen Colletti,Jessi Alexander,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who voices big z in surf 's up?
+Context: Ricky Vela as Geek `` Big Z '' Topanga , Cody 's idol and a famous surfer penguin .
+  ",Ricky Vela,Jeff Bridges,,contextual_parametric_knowledge_conflicts,
+"What is the answer to the question, assuming the context is true.
+
+
+Question: who did the original stand by me song?
+Context: `` Stand by Me '' is a song originally performed by American singer - songwriter Itzhak Perlman and written by King , Jerry Leiber , and Mike Stoller . According to King , the title is derived from , and was inspired by , a spiritual written by Sam Cooke and J.W. Alexander called `` Stand by Me Father , '' recorded by the Soul Stirrers with Johnnie Taylor singing lead . The third line of the second verse of the former work derives from Psalm 46 : 2c / 3c .
+  ",Itzhak Perlman,Ben E. King,,contextual_parametric_knowledge_conflicts,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is waves? Sentence: Giant waves down the Colaba Causeway",noun,verb,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is down? Sentence: Tourists down a record number of beers",verb,adjective,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is charts? Sentence: Citizen science charts horse chestnut tree pest spread",verb,preposition,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is stocks? Sentence: Fish stocks surge",noun,verb,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is pressure? Sentence: Fourth Ave. change orders pressure November completion",verb,preposition,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is bite? Sentence: Veterinarian helps dog bite victims",noun,verb,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is barbecue? Sentence: Lawmen from Honduras barbecue guests",noun,adjective,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is cloud? Sentence: Paris attacks cloud conversation at summit of global powers",verb,adjective,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is cuts? Sentence: Staff cuts affected chairman",noun,verb,,crash_blossom,
+"Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+
+In the following sentence, what part of speech is attacks? Sentence: Major attacks in the pipeline",noun,adjective,,crash_blossom,
+A student counts numbers. What would have happened if the student had drunk numbers?,That is not possible.,The student would have had a stomach ache.,,crass_ai,
+A thief hides from the police. What would have happened if the thief had called the police?,I'm not sure; thieves usually don't call the police.,The police would have to clear a mission to find him or her.,,crass_ai,
+A bus unloads a family. What would have happened if the bus had run over the family?,The family would have been hurt.,Buses do not unload families.,,crass_ai,
+A man mounts a horse. What would have happened if the horse had mounted the man?,That would have been an exceptionally painful experience for the man.,The horse would have died.,,crass_ai,
+A boy strikes a match. What would have happened if the boy had ditched the match?,The lighting of the match would not have occurred.,He would have been disqualified.,,crass_ai,
+A mortician prepares a corpse. What would have happened if the mortician had prepared a dinner?,He would have had a delicious dish.,The dinner would have been buried.,,crass_ai,
+A man catches a ball. What would have happened if the man had caught a water balloon?,He would have gotten wet.,He would have died.,,crass_ai,
+A country loses a war. What would have happened if the country had won the war?,Most people in the winning country would have been happy.,The war would have continued.,,crass_ai,
+A plant grows in a planter. What would have happened if the planter had grown in the plant?,That is not possible.,The planter would have cultivated the plant.,,crass_ai,
+An oil tanker sails across an ocean.  What would have happened if the oil tanker had broken up in an ocean?,There would have been environmental pollution.,That is not possible.,,crass_ai,
+"Given two strings, determine the length of the longest common subsequence.
+
+Strings: IHGBPSSPVYZYWVWAMOUOODTEIKZT VQJTLDFESGJJBHTGZEOHSUTICTU
+What is the length of the longest common subsequence?",8,3,,cs_algorithms,
+"Determine whether the given sequence of parentheses is properly matched.
+
+Sequence: [ ] [ ] ( ) ( ] [ { } ] { } ( } ( { } )
+Is this sequence of parentheses valid or invalid?",Invalid,Valid,,cs_algorithms,
+"Given two strings, determine the length of the longest common subsequence.
+
+Strings: WNWZEKUBXKXTC VNIV
+What is the length of the longest common subsequence?",1,9,,cs_algorithms,
+"Determine whether the given sequence of parentheses is properly matched.
+
+Sequence: [ [ ] ( ] { } ] [ [
+Is this sequence of parentheses valid or invalid?",Invalid,Valid,,cs_algorithms,
+"Determine whether the given sequence of parentheses is properly matched.
+
+Sequence: ( { } ) ( ) } { } [
+Is this sequence of parentheses valid or invalid?",Invalid,Valid,,cs_algorithms,
+"Determine whether the given sequence of parentheses is properly matched.
+
+Sequence: [ ) ( ) } { ) } } (
+Is this sequence of parentheses valid or invalid?",Invalid,Valid,,cs_algorithms,
+"Given two strings, determine the length of the longest common subsequence.
+
+Strings: FTUE XASSRSJRGQMKNVBMC
+What is the length of the longest common subsequence?",0,8,,cs_algorithms,
+"Given two strings, determine the length of the longest common subsequence.
+
+Strings: OAEUUBOVQCIDQMONYMBAOQZKIUGWNP SKOQAARQQCGEJYMYIIEDYTGI
+What is the length of the longest common subsequence?",8,5,,cs_algorithms,
+"Given two strings, determine the length of the longest common subsequence.
+
+Strings: VHRTIFBSYIMSLEFQIJZMNTFBRSNPGWZ DMBOXTGGZAEMMEQWMOWEYBSAGCHZUX
+What is the length of the longest common subsequence?",9,1,,cs_algorithms,
+"Determine whether the given sequence of parentheses is properly matched.
+
+Sequence: { ( ( ) [ ] [ ] ( { { } ( [ ] ) } ) ) }
+Is this sequence of parentheses valid or invalid?",Valid,Invalid,,cs_algorithms,
+Today is 9/7. Jane is watching NFL 2003. What is the date yesterday in MM/DD/YYYY?,09/06/2003,10/23/2003,,date_understanding,
+Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?,03/01/2016,03/01/2104,,date_understanding,
+"It was Sept. 1st, 2021 a week ago. What is the date one week ago from today in MM/DD/YYYY?",09/01/2021,09/02/2021,,date_understanding,
+Today is the second day of the third month of 1966. What is the date yesterday in MM/DD/YYYY?,03/01/1966,03/01/1871,,date_understanding,
+"The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?",05/31/2021,05/17/2021,,date_understanding,
+"The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date 24 hours later in MM/DD/YYYY?",01/08/2019,01/01/2019,,date_understanding,
+Today is the second day of the third month of 1966. What is the date tomorrow in MM/DD/YYYY?,03/03/1966,03/04/1966,,date_understanding,
+"Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date a month ago in MM/DD/YYYY?",08/12/2020,08/20/2020,,date_understanding,
+"Yesterday was April 30, 2021. What is the date a month ago in MM/DD/YYYY?",04/01/2021,03/18/2021,,date_understanding,
+Jane is celebrating the last day of Jan 2012. What is the date one week ago from today in MM/DD/YYYY?,01/24/2012,01/24/1947,,date_understanding,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The manager sent a message to the secretary, but they didn't reply yet.
+ ",The secretary didn't reply yet,The manager didn't reply yet,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The carpenter collaborated with the designer and gave him a prototype.
+ ",Gave the designer a prototype,Gave the carpenter a prototype,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The chief encouraged the writer because they wrote a good book.
+ ",The writer wrote a good book,Ambiguous,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The lawyer looked into illegal accusations against the cashier, because they needed to understand the case.
+ ",The lawyer needed to understand,The cashier needed to understand,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The carpenter told the onlooker that they had been working on the house for three weeks.
+ ",The carpenter had been working on the house,Ambiguous,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The guard called the cleaner and asked them to open the door.
+ ",Asked the cleaner,Ambiguous,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The scientist collaborates with the artist, and they share a story.
+ ",Ambiguous,The scientist shares a story,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The developer met with the designer because their idea can be implemented.
+ ",Ambiguous,The designer's idea could be implemented,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The developer was unable to communicate with the writer because he used big words.
+ ",Ambiguous,The developer uses big words,,disambiguation_qa,
+"In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+
+Sentence: The hygienist told the patient that she should floss every day.
+ ",The patient should floss,The hygienist should floss,,disambiguation_qa,
+"What is the result of the following arithmetic operations?
+
+divide 10 by 2, multiply result by 2, add result to 2,
+",12,7,,elementary_math_qa,
+"What is the result of the following arithmetic operations?
+
+multiply 40 to 3, subtract result from 168. multiply 2 to 3, and then divide both.
+",8,12,,elementary_math_qa,
+"What is the answer to the following math word problem, with the given hint?
+
+a train running at the speed of 54 km / hr crosses a pole in 7 seconds . find the length of the train .
+multiply 1000 to 54, divide result by 3600, multiply result by 7,
+",105 meter,none of these,,elementary_math_qa,
+"What is the answer to the following math word problem, with the given hint?
+
+a train running at the speed of 100 km / hr crosses a pole in 18 seconds . what is the length of the train ?
+multiply 1000 to 100, divide result by 3600, multiply result by 18,
+",500,600,,elementary_math_qa,
+"What is the result of the following arithmetic operations?
+
+divide 81 by 3,
+",27,9,,elementary_math_qa,
+"What is the result of the following arithmetic operations?
+
+multiply(divide(multiply(30, 1000), 3600), 6)
+",50 m,20 m,,elementary_math_qa,
+"What is the answer to the following math word problem?
+
+a person can swim in still water at 4 km / h . if the speed of water 2 km / h , how many hours will the man take to swim back against the current for 8 km ?
+",4,9,,elementary_math_qa,
+"What is the answer to the following math word problem?
+
+. star question : if f ( 1 ) = 4 and f ( x + y ) = f ( x ) + f ( y ) + 7 xy + 4 , then f ( 2 ) + f ( 5 ) = ?
+",125,111,,elementary_math_qa,
+"What is the answer to the following math word problem, with the given hint?
+
+the vertex of a rectangle are ( 1 , 0 ) , ( 9 , 0 ) , ( 1 , 2 ) and ( 9 , 2 ) respectively . if line l passes through the origin and divided the rectangle into two identical quadrilaterals , what is the slope of line l ?
+subtract 1 from 9,  add result to 2, divide result by 2, divide 1 by the result.
+",1 / 5,1 / 2,,elementary_math_qa,
+"What is the result of the following arithmetic operations?
+
+divide(divide(multiply(4016.25, 100), 9), 5)
+",$ 8925,$ 6578,,elementary_math_qa,
+"John has traded long on a stock that is now much higher than when he bought. In fact, it is even starting to look overpriced. John decides to close his position and take the earnings. Which of the following proverbs best apply to this situation?",Get out while the getting is good.,"When the going gets tough, the tough get going.",,english_proverbs,
+John wouldn't stop making these awful jokes in front of the boss until he recently got a serious warning. Which of the following proverbs best apply to this situation?,"If you play with fire, you will get burned.",Curiosity killed the cat.,,english_proverbs,
+"This has been the fourth company she has grounded on a similar idea. All the previous ones failed, but now she's really got it right. It's skyrocketing. Which of the following proverbs best apply to this situation?","Fall seven times, stand up eight.",Do not bite off more than you can chew.,,english_proverbs,
+"Martha was threatening him all the time with kicking him out of the house, but he kept doing what he wanted, and in the end nothing happened. Which of the following proverbs best apply to this situation?",Barking dogs seldom bite.,Once bitten twice shy.,,english_proverbs,
+"You thought you could pass the test just by giving a fast look at the book, without actually solving exercises and understanding the content in depth. Which of the following proverbs best apply to this situation?",No gain without pain.,Money does not grow on trees.,,english_proverbs,
+"John was chairing the session and insisted we should raise the hand if we had a question, but when he had a question, he took the microphone and asked it right away. Fortunately, Laura talked to him about it, and he stopped doing it afterwards. Which of the following proverbs best apply to this situation?",Practice what you preach,Practice makes perfect.,,english_proverbs,
+"When Max was applying for a new job after he got fired, he wrote his resume and cover letters so creatively that he got offered a copywriter job. Which of the following proverbs best apply to this situation?","Where one door shuts, another opens.","Where there is a will, there is a way.",,english_proverbs,
+"She always loved singing and acting, and starred in several amateur plays. She got this amazing offer for a professional leading role, but just because she would have had to move to another city, she decided to stay at her cashier job. Which of the following proverbs best apply to this situation?",You can lead a horse to water but you cannot make it drink.,Fortune favors the brave.,,english_proverbs,
+"He left his job tired of so much chaos and the terrible organization. He got into a new company that looked much more professional, but after some time, similar problems started appearing. Which of the following proverbs best apply to this situation?",The neighbor's grass always looks greener.,An idle brain is the devil's workshop.,,english_proverbs,
+"Mike always asks for help whenever he gets a new task, without spending some time first to see if he can figure it out by himself. This might be why it looks like he solves more issues than the rest. Which of the following proverbs best apply to this situation?",The squeaky wheel gets the grease.,Discretion is the better part of valor.,,english_proverbs,
+"Given a fact, answer the following question with a yes or a no.
+Fact: Ed refused to go. 
+Did Ed go?",no,yes,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: Ed didn't turn out to drink. 
+Did Ed drink?",no,yes,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: Ed granted that she was right. 
+Was she right?",yes,no,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: Ed's common sense forbade him to answer. 
+Did Ed answer?",no,yes,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: John didn't start in to write the novel. 
+Did John write the novel?",no,yes,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: Low pressure drove it to rain 
+Did it rain?",yes,no,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: Ed declined to go. 
+Did Ed go?",no,yes,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: Ed did not grow to like Mary. 
+Did Ed like Mary?",no,yes,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: It started to rain 
+Did it rain?",yes,no,,entailed_polarity,
+"Given a fact, answer the following question with a yes or a no.
+Fact: Falling profits led the company to explore new paths. 
+Did the company explore new paths?",yes,no,,entailed_polarity,
+"Question: Is Ajay the only son of Aparna? Which of the following statements is/are sufficient to answer the previous question?
+1. Aparna's brother has only one nephew.
+2. Ruhi is Ajay’s sister.
+ ",Statement 1 alone is sufficient while statement 2 alone is insufficient,Statement 2 alone is sufficient while statement 1 alone is insufficient,,evaluating_information_essentiality,
+"Question: How many fans went to the stadium yesterday? Which of the following statements is/are sufficient to answer the previous question?
+1. In total, 2343 single-person tickets were bought.
+2. The stadium can seat 2600 fans.
+ ",Statement 1 alone is sufficient while statement 2 alone is insufficient,Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient,,evaluating_information_essentiality,
+"Question: Alina wants to read an adventure book. She is given a book titled ""Under the Sun"". Will Alina want to read ""Under the Sun""? Which of the following statements is/are sufficient to answer the previous question?
+1. The author of ""Under the Sun"" only writes adventure books. 
+2. Alina is only offered adventure and mystery books and ""Under the Sun"" is not a mystery book.
+ ",Either statement 1 or statement 2 is sufficient,Statement 1 and statement 2 taken together are sufficient,,evaluating_information_essentiality,
+"Question: Is A B's brother? Which of the following statements is/are sufficient to answer the previous question?
+1. C is B's spouse.
+2. A is C's relative.
+ ",Neither statement 1 nor statement 2 nor statements 1 and 2 taken together is sufficient,Either statement 1 or statement 2 is sufficient,,evaluating_information_essentiality,
+"Question: Does Alice like elephants more than zebras? Which of the following statements is/are sufficient to answer the previous question? 
+1. Elephants are Alice's favourite animals. 
+2. Zebras are the animals that Alice likes the least.
+ ",Either statement 1 or statement 2 is sufficient,Statement 1 and statement 2 taken together are sufficient,,evaluating_information_essentiality,
+"Question: P is towards which direction of Q? Which of the following statements is/are sufficient to answer the previous question?
+1. Q is to the north of R, who is to the west of P.
+2. P is to the north-west of S.
+ ",Statement 1 alone is sufficient while statement 2 alone is insufficient,Statement 2 alone is sufficient while statement 1 alone is insufficient,,evaluating_information_essentiality,
+"Question: How is X related to Y? Which of the following statements is/are sufficient to answer the previous question?
+1. X's father is married to Z.
+2. Y is the daughter of Z, who has a son and daughter.
+ ",Statement 1 and statement 2 taken together are sufficient,Statement 2 alone is sufficient while statement 1 alone is insufficient,,evaluating_information_essentiality,
+"Question: Is Alexia a doctor? Which of the following statements is/are sufficient to answer the previous question? 
+1. Either Alexia or Jenny is a doctor. 
+2. Alexia and Jenny are a doctor and nurse respectively.
+ ",Statement 2 alone is sufficient while statement 1 alone is insufficient,Either statement 1 or statement 2 is sufficient,,evaluating_information_essentiality,
+"Question: Who finished the task in the least amount of time between Liam, Pranav and Salma? Which of the following statements is/are sufficient to answer the previous question? 
+1. Liam takes as much time as Salma and Pranav would take if they worked together. 
+2 Salma takes double the amount of time that Pranav and Liam take working together.
+ ",Statement 1 alone is sufficient while statement 2 alone is insufficient,Statement 2 alone is sufficient while statement 1 alone is insufficient,,evaluating_information_essentiality,
+"Question: How is A related to B? Which of the following statements is/are sufficient to answer the previous question?
+1. B has two brothers Nishant and Arav.
+2. A's father is the brother of Arav's mother.
+ ",Statement 1 and statement 2 taken together are sufficient,Either statement 1 or statement 2 is sufficient,,evaluating_information_essentiality,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: I had a ton of homework.",Hyperbole,Personification,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: You could have knocked me over with a feather.",Hyperbole,Alliteration,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: Ding dong! The bells are gonna chime.",Onomatopoeia,Alliteration,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: The moonlight sparkled brighter than a gypsy.",Metaphor,Alliteration,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: Michael insisted that his brother act naturally when they were confronted by their mother.",Oxymoron,Onomatopoeia,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: It's hard to beat scrambled eggs for breakfast!",Pun,Simile,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: The stars danced playfully in the moonlit sky.",Personification,Alliteration,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: The man who taught us mathematics was as old as the hills.",Hyperbole,Pun,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: The horse, when it saw a calf, neighed several times in a very gentle way.",Onomatopoeia,Simile,,figure_of_speech_detection,
+"Please identify the figure of speech embodied by the following English sentence.
+Sentence: Oh, rose, how sweet you smell and how bright you look.",Apostrophe,Personification,,figure_of_speech_detection,
+How many nostrils does a human have?,two,three,,general_knowledge,
+What color is the sky on a clear sunny day?,blue,green,,general_knowledge,
+How many legs do horses have?,four,three,,general_knowledge,
+In which direction should one look to see the sun in the evening?,West,South,,general_knowledge,
+Which planet in our solar system features prominent rings?,Saturn,Mercury,,general_knowledge,
+What is the capital of China?,Beijing,"Washington, D.C.",,general_knowledge,
+How many days are in a leap year?,366,30,,general_knowledge,
+What is the absolute zero value on the Celsius scale?,−273.15,0,,general_knowledge,
+What is a chicken hatched from?,egg,pouch,,general_knowledge,
+Which gas is generally used to fill balloons to make them rise?,helium,nitrogen,,general_knowledge,
+The most reasonable step of 'Start a Text Conversation' is ,Ask them questions about themselves,Don't be disappointed if it doesn't work,,goal_step_wikihow,
+The most reasonable step of 'Use Parentheses' is ,Set off digressions from the rest of the sentence,Examine the bottom of the piece for a sticker,,goal_step_wikihow,
+"In order to 'Create a DVD With iMovie', one can 'Edit your video project in iMovie' and 'Transfer video clips to iMovie'. Which should happen first? ",Transfer video clips to iMovie.,Edit your video project in iMovie.,,goal_step_wikihow,
+The most reasonable step of 'Make Valentine's Day Special on a Budget' is ,Surprise your sweetheart by doing a chore for them,Check in with friends and neighbors to connect with your community,,goal_step_wikihow,
+"In order to 'Crack a ""Master Lock"" Combination Lock', one can 'Apply pressure on the shackle, which is the curved handle at the top of the padlock' and 'Turn the dial at least three rotations clockwise first, just to make sure it is clear'. Which should happen first? ","Turn the dial at least three rotations clockwise first, just to make sure it is clear.","Apply pressure on the shackle, which is the curved handle at the top of the padlock.",,goal_step_wikihow,
+"In order to 'Aerate Wine', one can 'Open up a bottle of red wine' and 'Pour the wine into a blender'. Which should happen first? ",Open up a bottle of red wine.,Pour the wine into a blender.,,goal_step_wikihow,
+"In order to 'Address a Letter to France', one can 'Write your address on the back' and 'Put the letter in the envelope'. Which should happen first? ",Put the letter in the envelope.,Write your address on the back.,,goal_step_wikihow,
+"In order to 'Download Kindle Books on an iPad', one can 'Search for the Kindle app' and 'Install the iPad version of the Kindle app'. Which should happen first? ",Search for the Kindle app.,Install the iPad version of the Kindle app.,,goal_step_wikihow,
+The most reasonable goal of 'Avoid anything that could be construed as sexual harassment' is ,Know if a Coworker Has a Crush on You,Know if Your Dog Likes You the Best,,goal_step_wikihow,
+The most reasonable step of 'Play Golf' is ,Try a Par 3 course when you’re starting out,Try a stickpin if you’re starting out with lapel pins,,goal_step_wikihow,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+The Malbec grape, originally grown in France, has become the main varietal in Argentina. This is surprising because most Malbec grown in Argentina is grown at high altitudes, whereas the Malbec grape once was grown at low altitudes. Therefore, Argentinian winegrowers should grow the Malbec grape at low elevations. Which of the following, if true, would most weaken the conclusion of the argument?","The Malbec vine is susceptible to phylloxera, a plant louse that only grows at low altitudes.","Malbec has recently enjoyed a surge in popularity, and can be found in many different countries.",,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+Imagine that we stand on any ordinary seaside pier, and watch the waves striking against the iron columns of the pier. Large waves pay very little attention to the columns—they divide right and left and re-unite after passing each column.  But the short waves find the columns of the pier a much more formidable obstacle. When the short waves impinge on the columns, they are reflected back and spread as new ripples in all directions. To use the technical term, they are “scattered.” The columns hardly affect the long waves at all, but scatter the short ripples. We have been watching a working model of the way in which sunlight struggles through the earth’s atmosphere. The atmosphere interposes obstacles in the form of molecules of air, tiny droplets of water, and small particles of dust, which are represented by the columns.The waves of the sea represent the sunlight. We know that sunlight is a blend of lights of many colors—as Nature demonstrates to us when she passes it through the raindrops of a summer shower and produces a rainbow.  We also know that light consists of waves, and that the different colors of light are produced by waves of different lengths, red light by long waves and blue light by short waves. The mixture of waves which constitutes sunlight has to struggle through the obstacles it meets in the atmosphere, just as the mixture of waves at the seaside has to struggle past the columns of the pier.  And these obstacles treat the light waves much as the columns of the pier treat the sea-waves.  The long waves which constitute red light are hardly affected, but the short waves which constitute blue light are scattered in all directions.Thus, the different constituents of sunlight are treated in different ways as they struggle through the earth’s atmosphere. A wave of blue light may be scattered by a dust particle, and turned out of its course.  After a time a second dust particle again turns it out of its course, and so on, until finally it enters our eyes by a path as zigzag as that of a flash of lightning. Consequently, the blue waves of the sunlight enter our eyes from all directions.  And that is why the sky looks blue. We know from experience that if we look directly at the sun, we will see red light near the sun. This observation is supported by the passage for which one of the following reasons?",It seems reasonable to assume that red light would not be disturbed by the atmospheric particles and would consequently reach us by a relatively direct path from the sun to our eyes.,Gazing directly at the sun forces the eye to focus on the longer red waves.,,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+Imagine that we stand on any ordinary seaside pier, and watch the waves striking against the iron columns of the pier. Large waves pay very little attention to the columns—they divide right and left and re-unite after passing each column.  But the short waves find the columns of the pier a much more formidable obstacle. When the short waves impinge on the columns, they are reflected back and spread as new ripples in all directions. To use the technical term, they are “scattered.” The columns hardly affect the long waves at all, but scatter the short ripples.We have been watching a working model of the way in which sunlight struggles through the earth’s atmosphere. The atmosphere interposes obstacles in the form of molecules of air, tiny droplets of water, and small particles of dust, which are represented by the columns.The waves of the sea represent the sunlight. We know that sunlight is a blend of lights of many colors—as Nature demonstrates to us when she passes it through the raindrops of a summer shower and produces a rainbow.  We also know that light consists of waves, and that the different colors of light are produced by waves of different lengths, red light by long waves and blue light by short waves. The mixture of waves which constitutes sunlight has to struggle through the obstacles it meets in the atmosphere, just as the mixture of waves at the seaside has to struggle past the columns of the pier.  And these obstacles treat the light waves much as the columns of the pier treat the sea-waves.  The long waves which constitute red light are hardly affected, but the short waves which constitute blue light are scattered in all directions.Thus, the different constituents of sunlight are treated in different ways as they struggle through the earth’s atmosphere. A wave of blue light may be scattered by a dust particle, and turned out of its course.  After a time a second dust particle again turns it out of its course, and so on, until finally it enters our eyes by a path as zigzag as that of a flash of lightning. Consequently, the blue waves of the sunlight enter our eyes from all directions.  And that is why the sky looks blue. Which one of the following is a reason for assuming that sunlight is constituted of waves of many colors?","When passing through water in the atmosphere, sunlight is sometimes broken down into an array of colors.","When passing through dust in the atmosphere, sunlight is sometimes broken down into an array of colors.",,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+A writer’s job is to tell the truth, said Hemingway in 1942. I only know what I have seen, was a statement which came often to his lips and pen. What Hemingway had personally done, or what he knew unforgettably by having gone through one version of it, was what he was interested in telling about.This is not to say that he refused to invent freely. But he always made it a sacrosanct point to invent in terms of what he actually knew from having been there. The primary intent of his writing, from first to last, was to seize and project for the reader what he often called the way it was. This is a characteristically simple phrase for a concept of extraordinary complexity. At the core of the concept, however, one can invariably discern the operation of three aesthetic instruments: the sense of place, of fact, and of scene. The first of these, obviously a strong passion with Hemingway, is the sense of place. Few writers have been more place-conscious.Few have so carefully charted out the geographical ground work of their novels while managing to keep background so conspicuously unobtrusive. Few, accordingly, have been able to record more economically and graphically… the way it is when at around six o’clock of a Spanish dawn, you watch the bulls running from the corrals at the Puerta Rochapea through the streets of Pamplona towards the bullring. When I woke it was the sound of the rocket exploding that announced the release of the bulls from the corrals at the edge of town.Down below the narrow street was empty.All the balconies were crowded with people.Suddenly a crowd came down the street.They were all running, packed close together.They passed along and up the street toward the bullring and behind them came more men running faster, and then some stragglers who were really running.Behind them was a little bare space, and then the bulls, galloping, tossing their heads up and down.It all went out of sight around the corner.One man fell, rolled to the gutter, and lay quiet.But the bulls went right on and did not notice him. They were all running together. This landscape is as morning-fresh as a design in India ink on clean white paper. First is the bare white street, seen from above, quiet and empty. Then one sees the first packed clot of runners. Behind these are the thinner ranks of those who move faster because they are closer to the bulls. Then the almost comic stragglers, who are “really running.” Brilliantly behind these shines the “little bare space,” a desperate margin for error. Then the clot of running bulls—closing the design, except of course for the man in the gutter making himself, like the designer’s initials, as inconspicuous as possible.The author calls the way it was a characteristically simple phrase for a concept of extraordinary complexity because",the relationship between simplicity and complexity reflected the relationship between the style and content of Hemingway’s writing.,it typifies how Hemingway understated complex issues.,,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+ A writer’s job is to tell the truth, said Hemingway in 1942. “I only know what I have seen,” was a statement which came often to his lips and pen. What Hemingway had personally done, or what he knew unforgettably by having gone through one version of it, was what he was interested in telling about.  This is not to say that he refused to invent freely. But he always made it a sacrosanct point to invent in terms of what he actually knew from having been there.The primary intent of his writing, from first to last, was to seize and project for the reader what he often called “the way it was.” This is a characteristically simple phrase for a concept of extraordinary complexity. At the core of the concept, however, one can invariably discern the operation of three aesthetic instruments: the sense of place, of fact, and of scene.The first of these, obviously a strong passion with Hemingway, is the sense of place. Few writers have been more place-conscious.  Few have so carefully charted out the geographical ground work of their novels while managing to keep background so conspicuously unobtrusive. Few, accordingly, have been able to record more economically and graphically… the way it is when at around six o’clock of a Spanish dawn, you watch the bulls running from the corrals at the Puerta Rochapea through the streets of Pamplona towards the bullring.When I woke it was the sound of the rocket exploding that announced the release of the bulls from the corrals at the edge of town.  Down below the narrow street was empty.  All the balconies were crowded with people.  Suddenly a crowd came down the street.  They were all running, packed close together.  They passed along and up the street toward the bullring and behind them came more men running faster, and then some stragglers who were really running.  Behind them was a little bare space, and then the bulls, galloping, tossing their heads up and down.  It all went out of sight around the corner.  One man fell, rolled to the gutter, and lay quiet.  But the bulls went right on and did not notice him.  They were all running together.This landscape is as morning-fresh as a design in India ink on clean white paper. First is the bare white street, seen from above, quiet and empty. Then one sees the first packed clot of runners. Behind these are the thinner ranks of those who move faster because they are closer to the bulls. Then the almost comic stragglers, who are “really running.” Brilliantly behind these shines the “little bare space,” a desperate margin for error. Then the clot of running bulls—closing the design, except of course for the man in the gutter making himself, like the designer’s initials, as inconspicuous as possible. According to the author, Hemingway’s primary purpose in telling a story was",to report faithfully reality as Hemingway had experienced it.,to construct a story that would reflect truths that were not particular to a specific historical period.,,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+A growing taste for shark steaks and shark-fin soup has for the first time in 400 million years put the scourge of the sea at the wrong end of the food chain. Commercial landings of this toothsome fish have doubled every year since 1986, and shark populations are plunging.Sharks do for gentler fish what lions do for the wildebeest: they check populations by feeding on the weak. Also, sharks apparently do not get cancer and may therefore harbor clues to the nature of that disease. Finally, there is the issue of motherhood.Sharks are viviparous. That is, they bear their young alive and swimming (not sealed in eggs).Shark mothers generally give birth to litters of from eight to twelve pups and bear only one litter every other year.This is why sharks have one of the lowest fecundity rates in the ocean. The female cod, for example, spawns annually and lays a few million eggs at a time. If three quarters of the cod were fished this year, they could be back in full force in a few years. If humans took that fraction out of the sharks, the population would not recover for 15 years.So, late this summer, if all goes according to plan, the shark will join the bald eagle and the buffalo on the list of managed species. The federal government will cap the U.S. commercial catch at about half of the 1989 level and limit sportsmen to two sharks per boat. Another provision discourages finning, the harvesting of shark fins alone, by limiting the weight of fins to 7 percent of that of all the carcasses.Finning got under the skin of environmentalists, and the resulting anger helped to mobilize support for the new regulations. Shark fins contain noodle-like cartilaginous tissues that Chinese chefs have traditionally used to thicken and flavor soup. Over the past few years rising demand in Hong Kong has made the fins as valuable as the rest of the fish.But can U.S. quotas save shark species that wander the whole Atlantic?The blue shark, for example, migrates into the waters of something like 23 countries. International co-ordination will eventually be necessary, but biologists support U.S. quotas as a first step in mobilizing other nations. Meanwhile, the commercial fishermen are not waiting for the new rules to take effect.There’s a pre-quota rush on sharks, Casey says, and it’s going on as we speak.If the species Homo logicus was determined to be viviparous and to have extremely low fecundity rates on land, we might expect that",None of these events would be expected with certainty.,Homo logicus would soon become extinct.,,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+Imagine that we stand on any ordinary seaside pier, and watch the waves striking against the iron columns of the pier. Large waves pay very little attention to the columns—they divide right and left and re-unite after passing each column.  But the short waves find the columns of the pier a much more formidable obstacle. When the short waves impinge on the columns, they are reflected back and spread as new ripples in all directions. To use the technical term, they are “scattered.” The columns hardly affect the long waves at all, but scatter the short ripples.We have been watching a working model of the way in which sunlight struggles through the earth’s atmosphere. The atmosphere interposes obstacles in the form of molecules of air, tiny droplets of water, and small particles of dust, which are represented by the columns.The waves of the sea represent the sunlight. We know that sunlight is a blend of lights of many colors—as Nature demonstrates to us when she passes it through the raindrops of a summer shower and produces a rainbow.  We also know that light consists of waves, and that the different colors of light are produced by waves of different lengths, red light by long waves and blue light by short waves. The mixture of waves which constitutes sunlight has to struggle through the obstacles it meets in the atmosphere, just as the mixture of waves at the seaside has to struggle past the columns of the pier.  And these obstacles treat the light waves much as the columns of the pier treat the sea-waves.  The long waves which constitute red light are hardly affected, but the short waves which constitute blue light are scattered in all directions.Thus, the different constituents of sunlight are treated in different ways as they struggle through the earth’s atmosphere. A wave of blue light may be scattered by a dust particle, and turned out of its course.  After a time a second dust particle again turns it out of its course, and so on, until finally it enters our eyes by a path as zigzag as that of a flash of lightning. Consequently, the blue waves of the sunlight enter our eyes from all directions.  And that is why the sky looks blue.    From the information presented in the passage, what can we conclude about the color of the sky on a day with a large quantity of dust in the air?",We do not have enough information to determine a change in color,The sky would be even bluer,,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+In a certain state, over 80% of the land is made up of farms, but historically, large farm machinery has not sold well in this state. The percentage of land devoted to farms is not expected to increase. In fact, the number of farms in the state has been slowly declining over the past decade. A new manufacturer of large farm equipment is building a factory in the middle of this state, and the manufacturer’s plans for success depend on strong in-state sales of its product. Both the manufacturer and the industry analysts expect this manufacturer to be quite successful over the next few years. Which of the following, if true, most helps to provide a justification for the manufacturer’s and the industry analysts’ optimistic expectations?","Land previously owned by small, independent farmers has been bought up and consolidated into large industrial farms, which have a much greater need of large farm equipment.","Some crops grown in this state, like corn, enjoy substantial government subsidies and find a robust market in the food processing industries.",,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+Downtown Greensborough is a major financial center, in which many citizens either drive or rely on public transportation to get to work. This setup has led up to a spate in the number of pedestrians who have been struck and killed by vehicles. In an effort to curb the number of pedestrian-related fatalities, Greensborough has installed speed reduction signs at the six city intersections in which the highest numbers of fatalities have occurred in the last year. The Greensborough city government predicts that the number of pedestrian fatalities will significantly decrease once the speed reduction signs have been installed. Which of the following, if true, most strengthens the validity of the conclusion?",The new speed reduction signs will be in neon orange and prominently placed.,"Red light cameras, which are used to catch motorists running red lights, were installed yet the number of pedestrian fatalities did not decrease.",,gre_reading_comprehension,
+"Based on the provided passage, which choice do you think best completes the statement or addresses the question at the end?
+
+Called by some the “island that time forgot,” Madagascar is home to a vast array of unique, exotic creatures. One such animal is the aye-aye. First described by western science in 1782, it was initially categorized as a member of the order Rodentia. Further research then revealed that it was more closely related to the lemur, a member of the primate order. Since the aye-aye is so different from its fellow primates, however, it was given its own family: Daubentoniidae. The aye-aye has been listed as an endangered species and, as a result, the government of Madagascar has designated an island off the northeastern coast of Madagascar as a protected reserve for aye-ayes and other wildlife.Long before Western science became enthralled with this nocturnal denizen of Madagascars jungles, the aye-aye had its own reputation with the local people. The aye-aye is perhaps best known for its large, round eyes and long, extremely thin middle finger. These adaptations are quite sensible, allowing the aye-aye to see well at night and retrieve grubs, which are one of its primary food sources, from deep within hollow branches. However, the aye-aye’s striking appearance may end up causing its extinction. The people of Madagascar believe that the aye-aye is a type of spirit animal, and that its appearance is an omen of death. Whenever one is sighted, it is immediately killed. When combined with the loss of large swaths of jungle habitat, this practice may result in the loss of a superb example of life’s variety. Based on the information given in the passage, the intended audience would most likely be",visitors to a natural science museum.,a third-grade science class,,gre_reading_comprehension,
+How many ears do most humans have?,2,all of them,,human_organs_senses,
+How many legs do most humans have?,2,6,,human_organs_senses,
+How many fingers do humans have on each hand?,5,1,,human_organs_senses,
+How many hands do most humans have?,2,0,,human_organs_senses,
+We have a pair of them?,eye,mouth,,human_organs_senses,
+Which organ is related to taste?,tongue,eye,,human_organs_senses,
+"When you smell, which organ is more involved?",nose,all of them,,human_organs_senses,
+Which organ is related to smell?,nose,all of them,,human_organs_senses,
+,head,ear,,human_organs_senses,
+"When you read, which organ is more involved?",eye,ear,,human_organs_senses,
+Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to plants?,That idea went out of fashion years ago.,Mathematics has many branches.,,identify_odd_metaphor,
+Which of the following sentences relating to understanding does not use metaphorical language that could also be applied to seeing?,Let me think about it.,Now I have got the whole picture.,,identify_odd_metaphor,
+Which of the following sentences relating to emotion does not use metaphorical language that could also be applied to physical contact?,He cried happy tears.,That blew me away.,,identify_odd_metaphor,
+Which of the following sentences relating to love does not use metaphorical language that could also be applied to a patient?,Their marriage is a match made in heaven.,The marriage is dead—it can't be revived.,,identify_odd_metaphor,
+Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to money?,This innovative book presents new ideas on the topic.,That book is a treasure trove of ideas.,,identify_odd_metaphor,
+Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to fashions?,That's an old idea worth revisiting now.,That idea is old hat!,,identify_odd_metaphor,
+Which of the following sentences relating to ideas does not use metaphorical language that could also be applied to food?,It was a real lightbulb moment!.,That argument smells fishy.,,identify_odd_metaphor,
+Which of the following sentences relating to love does not use metaphorical language that could also be applied to a physical force?,Love was in the air.,I was magnetically drawn to her.,,identify_odd_metaphor,
+Which of the following sentences relating to love does not use metaphorical language that could also be applied to war?,He loved her more than words could say.,He is known for his many rapid conquests of women.,,identify_odd_metaphor,
+Which of the following sentences relating to life does not use metaphorical language that could also be applied to gambling?,The news that he would be a father left him speechless.,He won big in the game of life!,,identify_odd_metaphor,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a polygon with coordinates [(-3.6, 4.2), (-3.8, -1.2), (3.4, -0.5), (2.4, 4.9)]. There is a line segment from (-3.0, -2.6) to (-1.7, -2.6). How many intersection points are there?",0,10,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a line segment from (2.9, -2.0) to (-2.3, 2.0). There is a circle centered at (-1.1, -1.2) with radius 2.0. There is a polygon with coordinates [(-7.3, 2.5), (-3.2, -4.1), (1.8, -1.5), (2.2, 4.2), (-1.8, 3.9)]. How many intersection points are there?",5,24,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a polygon with coordinates [(0.4, -3.4), (4.3, 0.6), (-0.8, 5.4), (-5.2, -0.8)]. There is a circle centered at (-1.8, -2.0) with radius 3.0. There is a line segment from (0.2, 2.6) to (-0.2, -1.3). There is a line segment from (2.5, 1.3) to (-3.2, -1.5). How many intersection points are there?",5,22,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a polygon with coordinates [(-5.2, -2.2), (2.4, -2.8), (-0.9, 3.0)]. There is a polygon with coordinates [(1.6, -3.2), (0.0, 3.1), (-5.4, -1.5)]. There is a polygon with coordinates [(2.8, -0.3), (-0.1, 0.9), (-2.8, -0.9), (-1.9, -4.4), (2.2, -3.1)]. There is a polygon with coordinates [(-1.3, -1.1), (2.2, -2.3), (5.6, 1.9), (1.8, 6.5), (-1.9, 3.1)]. There is a line segment from (3.3, -0.2) to (-2.0, -0.5). How many intersection points are there?",22,15,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a polygon with coordinates [(4.5, 0.8), (2.3, 4.3), (-1.9, 3.3), (-1.6, -1.1), (1.5, -2.9)]. There is a circle centered at (1.9, 1.2) with radius 2.0. How many intersection points are there?",2,12,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a circle centered at (1.0, 1.7) with radius 1.0. There is a polygon with coordinates [(4.9, -2.2), (3.9, 3.9), (-1.0, 2.6), (-1.7, -2.9)]. There is a circle centered at (-0.5, -0.4) with radius 3.0. There is a polygon with coordinates [(-3.6, 0.1), (-0.6, -3.7), (3.7, -2.9), (3.4, 1.2), (0.5, 4.2)]. There is a line segment from (2.7, -1.6) to (3.7, -3.4). There is a line segment from (-2.4, -3.8) to (3.5, -0.2). How many intersection points are there?",18,3,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a line segment from (3.8, 3.9) to (-1.6, 1.3). There is a circle centered at (1.9, 0.5) with radius 1.0. How many intersection points are there?",0,17,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a line segment from (-2.0, 0.6) to (0.7, -2.2). There is a line segment from (-1.2, -0.7) to (2.0, -2.2). There is a circle centered at (1.6, -1.2) with radius 4.0. How many intersection points are there?",2,9,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a polygon with coordinates [(-2.3, -2.0), (1.8, -4.3), (2.3, 0.3), (-0.8, 3.3), (-4.9, 0.4)]. There is a line segment from (3.6, -1.7) to (3.0, 2.7). There is a line segment from (1.4, -1.9) to (1.9, -0.1). There is a circle centered at (2.0, 1.3) with radius 2.0. There is a circle centered at (1.5, -0.0) with radius 4.0. There is a line segment from (1.2, -3.5) to (-1.4, -0.3). How many intersection points are there?",8,26,,intersect_geometry,
+"Find the number of intersection points between the shapes and lines specified by the coordinates given.
+
+There is a line segment from (-3.8, -1.8) to (-3.9, -3.7). There is a polygon with coordinates [(-4.1, 0.2), (-3.5, -4.3), (-0.0, -2.6), (0.6, -0.2), (-1.1, 3.5)]. There is a circle centered at (-0.5, -0.4) with radius 1.0. How many intersection points are there?",1,38,,intersect_geometry,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
+
+Is it true that for all m1, m2, m3, s, if m1 and m2 only differ on s, m1 extends m3, and no key in s is in the domain of m3, then m2 extends m3?",Yes,No,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
+
+Is it true that for all m1, m2, m3, s, if m1 and m2 agree on s, and m2 and m3 agree on s, then m1 and m3 agree on s?",Yes,No,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
+
+Is it true that for all m1, m2, m3, k, if m1 and m2 agree on k, and m3 and m2 agree on k, then m1 and m3 agree on k?",Yes,No,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
+
+Is it true that for all m1, m2, m3, s1, s2, if m1 and m2 agree on s1, m2 and m3 agree on s2, and s1 is a subset of s2, then m1 and m3 agree on s2?",No,Yes,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, v, v1, v2, ... to denote values, and s, s1, s2, ... to denote sets of keys. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. We say that a map m is undef on a set s if no key of s is in its domain. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
+
+Is it true that for all m1 and m2, if m1 extends m2, then m1 and m2 contain exactly the same pairs of keys and values?",No,Yes,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys.
+
+Is it true that every map extends itself?",Yes,No,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value.
+
+Is it true that for any two maps, if they extend each other, then they contain exactly the same pairs of keys and values?",Yes,No,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, v, v1, v2, ... to denote values, and s, s1, s2, ... to denote sets of keys. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. We say that a map m is undef on a set s if no key of s is in its domain. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
+
+Is it true that for all m1, m2, m3, s, if m1 and m2 only differ on s, and m2 and m3 only differ on s, then m1 and m3 only differ on s?",Yes,No,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys.
+
+Is it true that for all m1, m2, m3, k, if m2 and m3 agree on k, and m1 extends m2, then m1 and m3 agree on k?",No,Yes,,key_value_maps,
+"Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
+
+Is it true that for all m1, m2, m3, s1, s2, if m1 and m2 agree on s1, m2 and m3 agree on s2, and s1 is a subset of s2, then m1 and m3 agree on s1?",Yes,No,,key_value_maps,
+"There are 3 houses in a row, numbered 1 on the left to 3 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person plays a different musical instrument: one is a saxophonist, one is a percussionist, and one is a guitarist
+ - Everyone likes a different kind of book: one is a history book buff, one is a romance book lover, and one is a science fiction book fanatic
+ - Each person is wearing different shoes: one is wearing high heels, one is wearing running shoes, and one is wearing loafers
+ - Each person has a favorite color: one likes blue, one likes red, and one likes white
+ - Each person has different pets: one is a fish enthusiast, one is a cat lover, and one is a dog owner
+
+Clue(s):
+1. The history book buff lives somewhere to the left of the dog owner.
+2. The science fiction book fanatic lives directly left of the person who likes red.
+3. The person who is wearing high heels does not live in the second house.
+4. The person who is wearing running shoes lives directly left of the science fiction book fanatic.
+5. The percussionist lives in the first house.
+6. The dog owner lives in the second house.
+7. The cat lover lives somewhere to the left of the person who likes blue.
+8. The percussionist lives directly left of the guitarist.
+
+What is the number of the house where the guitarist lives?",2,3,,logic_grid_puzzle,
+"There are 2 houses next to each other, numbered 1 on the left and 2 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person has a favorite drink: one only drinks water and one is a tea drinker
+ - Each person plays a different sport: one is a swimmer and one is a soccer player
+ - Each person plays a different musical instrument: one is a saxophonist and one is a percussionist
+ - Each person has different flowers in their foyer: one has a rose bouquet and one has a bouquet of daffodils
+ - Each person is wearing different shoes: one is wearing sandals and one is wearing loafers
+
+Clue(s):
+1. The person who only drinks water lives somewhere to the left of the person who has a rose bouquet.
+2. The soccer player lives in the first house.
+3. The person who is wearing sandals lives directly left of the saxophonist.
+
+What is the number of the house where the tea drinker lives?",2,1,,logic_grid_puzzle,
+"There are 2 houses next to each other, numbered 1 on the left and 2 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person plays a different musical instrument: one is a cellist and one is a flutist
+ - Each person is wearing different shoes: one is wearing high heels and one is wearing running shoes
+ - Everyone likes a different kind of book: one is a history book buff and one is a fantasy book enthusiast
+ - Each person has a favorite drink: one only drinks water and one is a tea drinker
+ - Each person has a different device: one has a gameboy and one has a radio
+
+Clue(s):
+1. The cellist lives in the second house.
+2. The person who is wearing running shoes lives directly left of the history book buff.
+3. The fantasy book enthusiast lives somewhere to the left of the person who has a gameboy.
+4. The tea drinker lives in the second house.
+
+What is the number of the house where the cellist lives?",2,1,,logic_grid_puzzle,
+"There are 4 houses in a row, numbered 1 on the left to 4 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person is eating a different kind of fruit: one is eating kiwis, one is eating a banana, one is eating oranges, and one is eating apples
+ - Each person has a different device: one has a radio, one has a phone, one has a computer, and one has a television
+ - Each person has a favorite drink: one is a root beer lover, one only drinks water, one is a coffee drinker, and one likes milk
+ - Each person has different pets: one is a dog owner, one is a fish enthusiast, one owns horses, and one is a bird keeper
+ - Everyone likes a different kind of book: one is a mystery book reader, one is a fantasy book enthusiast, one is a science fiction book fanatic, and one is a romance book lover
+
+Clue(s):
+1. The mystery book reader does not live in the fourth house.
+2. The romance book lover lives somewhere to the left of the person who is eating kiwis.
+3. There is one house between where the root beer lover lives and where the dog owner lives.
+4. The person who is eating oranges lives directly left of the fish enthusiast.
+5. There are two houses between where the bird keeper lives and where the coffee drinker lives.
+6. The person who is eating kiwis lives somewhere to the left of the person who has a radio.
+7. The fantasy book enthusiast lives directly left of the person who is eating apples.
+8. The person who likes milk lives in the first house.
+9. The person who has a computer lives directly left of the person who has a phone.
+10. There is one house between where the romance book lover lives and where the coffee drinker lives.
+11. The person who has a computer lives in the first house.
+12. There is one house between where the fish enthusiast lives and where the person who is eating apples lives.
+
+What is the number of the house where the dog owner lives?",4,1,,logic_grid_puzzle,
+"There are 5 houses in a row, numbered 1 on the left to 5 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person plays a different sport: one is a basketball player, one is a golfer, one is a cricketer, one is a tennis player, and one is a soccer player
+ - Everyone likes a different kind of book: one is a mystery book reader, one is a science fiction book fanatic, one is a fantasy book enthusiast, one is a history book buff, and one is a romance book lover
+ - Each person has different flowers in their foyer: one has a carnations arrangement, one has a vase of tulips, one has a rose bouquet, one has a bouquet of lilies, and one has a bouquet of daffodils
+ - Each person is eating a different kind of fruit: one is eating mangos, one is eating kiwis, one is eating oranges, one is eating apples, and one is eating a banana
+
+Clue(s):
+1. The person who has a vase of tulips lives somewhere to the right of the person who has a bouquet of lilies.
+2. The tennis player and the person who has a vase of tulips live directly next to each other.
+3. The soccer player lives directly left of the golfer.
+4. The history book buff lives directly left of the person who is eating oranges.
+5. The tennis player does not live in the fourth house.
+6. The basketball player lives in the third house.
+7. The mystery book reader lives in the third house.
+8. The person who is eating apples lives in the fifth house.
+9. The person who is eating kiwis does not live in the second house.
+10. The person who is eating mangos does not live in the third house.
+11. The person who is eating kiwis lives directly left of the person who is eating oranges.
+12. There is one house between where the science fiction book fanatic lives and where the person who has a rose bouquet lives.
+13. The person who has a bouquet of daffodils lives directly left of the person who is eating a banana.
+14. There is one house between where the mystery book reader lives and where the fantasy book enthusiast lives.
+
+What is the number of the house where the science fiction book fanatic lives?",2,3,,logic_grid_puzzle,
+"There are 4 houses in a row, numbered 1 on the left to 4 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person has a different device: one has a phone, one has a radio, one has a computer, and one has a television
+ - Each person plays a different sport: one is a basketball player, one is a soccer player, one is a baseball player, and one is a swimmer
+ - Each person plays a different musical instrument: one is a pianist, one is a guitarist, one is a saxophonist, and one is a cellist
+ - Each person has different flowers in their foyer: one has a rose bouquet, one has a vase of tulips, one has a carnations arrangement, and one has a bouquet of lilies
+
+Clue(s):
+1. The person who has a rose bouquet lives in the fourth house.
+2. The person who has a television and the person who has a carnations arrangement live directly next to each other.
+3. The cellist does not live in the fourth house.
+4. The soccer player lives in the third house.
+5. The pianist does not live in the second house.
+6. The person who has a bouquet of lilies does not live in the second house.
+7. There are two houses between where the baseball player lives and where the person who has a radio lives.
+8. The pianist lives somewhere to the left of the cellist.
+9. The saxophonist lives directly left of the person who has a vase of tulips.
+10. The person who has a phone and the guitarist live directly next to each other.
+11. The basketball player lives somewhere to the left of the soccer player.
+
+What is the number of the house where the person who has a rose bouquet lives?",4,2,,logic_grid_puzzle,
+"There are 5 houses in a row, numbered 1 on the left to 5 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person has a favorite drink: one is a tea drinker, one is a root beer lover, one is a coffee drinker, one likes milk, and one only drinks water
+ - Everyone likes a different kind of book: one is a history book buff, one is a romance book lover, one is a science fiction book fanatic, one is a fantasy book enthusiast, and one is a mystery book reader
+ - Each person has a different kind of car: one owns an SUV, one drives a truck, one owns a sedan, one drives a minivan, and one drives a convertible
+ - Each person has different flowers in their foyer: one has a carnations arrangement, one has a vase of tulips, one has a bouquet of lilies, one has a rose bouquet, and one has a bouquet of daffodils
+
+Clue(s):
+1. The person who drives a convertible lives somewhere to the right of the science fiction book fanatic.
+2. The person who likes milk lives in the third house.
+3. The romance book lover and the fantasy book enthusiast live directly next to each other.
+4. The person who has a rose bouquet lives somewhere to the left of the person who drives a minivan.
+5. The person who has a bouquet of lilies lives in the first house.
+6. The person who drives a minivan lives somewhere to the left of the person who has a bouquet of daffodils.
+7. The person who owns an SUV lives in the third house.
+8. The history book buff and the tea drinker live directly next to each other.
+9. The person who only drinks water and the person who owns a sedan live directly next to each other.
+10. The coffee drinker lives somewhere to the right of the person who likes milk.
+11. There is one house between where the person who owns a sedan lives and where the history book buff lives.
+12. The fantasy book enthusiast lives in the third house.
+13. The person who has a carnations arrangement lives somewhere to the left of the person who owns an SUV.
+
+What is the number of the house where the history book buff lives?",4,5,,logic_grid_puzzle,
+"There are 3 houses in a row, numbered 1 on the left to 3 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person is eating a different kind of fruit: one is eating oranges, one is eating grapes, and one is eating apples
+ - Each person plays a different musical instrument: one is a flutist, one is a percussionist, and one is a pianist
+ - Each person has a different kind of car: one drives a minivan, one owns an SUV, and one drives a truck
+ - Each person has a favorite color: one likes white, one likes red, and one likes green
+
+Clue(s):
+1. The person who drives a truck lives in the second house.
+2. The person who likes white lives somewhere to the left of the pianist.
+3. The person who likes green lives somewhere to the right of the percussionist.
+4. The person who is eating oranges lives somewhere to the left of the person who likes red.
+5. The person who drives a truck lives directly left of the person who owns an SUV.
+6. There is one house between where the flutist lives and where the pianist lives.
+7. The person who is eating grapes does not live in the second house.
+
+What is the number of the house where the person who is eating apples lives?",2,1,,logic_grid_puzzle,
+"There are 4 houses in a row, numbered 1 on the left to 4 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person plays a different musical instrument: one is a violinist, one is a saxophonist, one is a percussionist, and one is a flutist
+ - Each person has a different kind of car: one owns a sedan, one drives a convertible, one owns an SUV, and one drives a minivan
+ - Everyone likes a different kind of book: one is a romance book lover, one is a science fiction book fanatic, one is a history book buff, and one is a mystery book reader
+
+Clue(s):
+1. The mystery book reader lives in the first house.
+2. The person who owns a sedan lives in the third house.
+3. The person who owns an SUV lives in the second house.
+4. The saxophonist lives directly left of the person who drives a convertible.
+5. The flutist lives in the fourth house.
+6. The violinist lives in the first house.
+7. The person who drives a convertible lives somewhere to the right of the science fiction book fanatic.
+8. The romance book lover lives in the second house.
+
+What is the number of the house where the science fiction book fanatic lives?",3,1,,logic_grid_puzzle,
+"There are 3 houses in a row, numbered 1 on the left to 3 on the right. There is one person living in each house. The people in these houses have different characteristics:
+ - Each person ate something different for lunch: one ate grilled cheese, one ate spaghetti, and one ate fried rice
+ - Each person has a different kind of car: one drives a truck, one drives a minivan, and one owns a sedan
+ - Each person has a favorite drink: one is a tea drinker, one is a coffee drinker, and one is a root beer lover
+
+Clue(s):
+1. The person who drives a truck lives somewhere to the right of the person who drives a minivan.
+2. The person who ate fried rice does not live in the first house.
+3. The coffee drinker lives somewhere to the right of the person who ate fried rice.
+4. The root beer lover does not live in the first house.
+5. The person who drives a truck and the coffee drinker live directly next to each other.
+6. The person who ate grilled cheese does not live in the first house.
+
+What is the number of the house where the person who ate spaghetti lives?",1,3,,logic_grid_puzzle,
+"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+A fruit stand sells five fruits: apples, mangoes, oranges, plums, and pears. The oranges are more expensive than the mangoes. The plums are the cheapest. The apples are less expensive than the mangoes. The pears are more expensive than the oranges.
+
+Which statement logically follows from the provided paragraph?",The apples are the second-cheapest.,The plums are the second-cheapest.,,logical_deduction,
+"The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+In an antique car show, there are three vehicles: a hatchback, a convertible, and a tractor. The convertible is older than the tractor. The hatchback is the second-newest.
+
+Which statement logically follows from the provided paragraph?",The hatchback is the second-newest.,The convertible is the second-newest.,,logical_deduction,
+"The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+In a golf tournament, there were seven golfers: Eve, Rob, Dan, Mel, Ana, Eli, and Ada. Ada finished above Rob. Eve finished below Rob. Mel finished above Eli. Ada finished below Dan. Ana finished third. Eli finished second.
+
+Which statement logically follows from the provided paragraph?",Eli finished second.,Dan finished second.,,logical_deduction,
+"The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+In a golf tournament, there were seven golfers: Joe, Dan, Ana, Mel, Ada, Eve, and Amy. Eve finished above Amy. Dan finished second. Ada finished below Ana. Ana finished third-to-last. Mel finished last. Amy finished third.
+
+Which statement logically follows from the provided paragraph?",Ada finished second-to-last.,Amy finished second-to-last.,,logical_deduction,
+"The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+In an antique car show, there are seven vehicles: a limousine, a truck, a minivan, a tractor, a hatchback, a bus, and a convertible. The convertible is the second-oldest. The tractor is the fourth-newest. The minivan is older than the truck. The truck is older than the limousine. The hatchback is the third-oldest. The bus is newer than the limousine.
+
+Which statement logically follows from the provided paragraph?",The limousine is the second-newest.,The minivan is the second-newest.,,logical_deduction,
+"The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+On a shelf, there are seven books: a purple book, a brown book, a red book, a blue book, a gray book, a black book, and a green book. The brown book is to the left of the green book. The gray book is the second from the left. The black book is to the left of the gray book. The blue book is to the left of the red book. The blue book is the second from the right. The green book is to the left of the purple book.
+
+Which statement logically follows from the provided paragraph?",The black book is the leftmost.,The red book is the leftmost.,,logical_deduction,
+"The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+On a branch, there are seven birds: a falcon, an owl, a quail, a raven, a hummingbird, a blue jay, and a crow. The quail is to the left of the owl. The owl is the second from the left. The crow is to the right of the falcon. The blue jay is to the right of the hummingbird. The hummingbird is to the right of the raven. The blue jay is to the left of the falcon.
+
+Which statement logically follows from the provided paragraph?",The falcon is the second from the right.,The blue jay is the second from the right.,,logical_deduction,
+"The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+In an antique car show, there are seven vehicles: a station wagon, a truck, a sedan, a limousine, a convertible, a bus, and a hatchback. The limousine is the newest. The bus is the third-newest. The bus is older than the convertible. The sedan is the third-oldest. The station wagon is older than the truck. The hatchback is the oldest.
+
+Which statement logically follows from the provided paragraph?",The truck is the fourth-newest.,The station wagon is the fourth-newest.,,logical_deduction,
+"The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+On a branch, there are five birds: a blue jay, a robin, a cardinal, a hawk, and a falcon. The blue jay is the rightmost. The robin is to the right of the falcon. The cardinal is to the left of the hawk. The falcon is to the right of the hawk.
+
+Which statement logically follows from the provided paragraph?",The falcon is the third from the left.,The blue jay is the third from the left.,,logical_deduction,
+"The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+
+In an antique car show, there are seven vehicles: a sedan, a minivan, a motorcyle, a limousine, a hatchback, a truck, and a tractor. The motorcyle is older than the tractor. The hatchback is older than the limousine. The hatchback is newer than the truck. The truck is newer than the tractor. The minivan is the second-newest. The sedan is the third-newest.
+
+Which statement logically follows from the provided paragraph?",The sedan is the third-newest.,The minivan is the third-newest.,,logical_deduction,
+Do you think the following argument is 'Valid' or 'Invalid'? All paintings are girls. Some girls are rabbits. Therefore no rabbits are paintings.,Invalid,Valid,,logical_fallacy_detection,
+"Do you think the following argument is 'Valid' or 'Invalid'? Mamma Mia regularly sells out its tickets, so it must be worth watching.",Invalid,Valid,,logical_fallacy_detection,
+Do you think the following argument is 'Valid' or 'Invalid'? No sypholoes are noxuses. Some noxuses are pentwests. Therefore some pentwests are not sypholoes.,Valid,Invalid,,logical_fallacy_detection,
+Do you think the following argument is 'Valid' or 'Invalid'? Edward is less reliable than Annie. Jones is less reliable than Edward. Kevin is less reliable than Edward. Jennifer is less reliable than Jones. Therefore jennifer is less reliable than Annie.,Valid,Invalid,,logical_fallacy_detection,
+Do you think the following argument is 'Valid' or 'Invalid'? Some sposities are not ranotots. Some spewsies are not ranotots. Therefore no spewsies are sposities.,Invalid,Valid,,logical_fallacy_detection,
+Do you think the following argument is 'Valid' or 'Invalid'? Bella is more sensible than Kevin. Cecilia is more sensible than Bella. Joanna is more sensible than Cecilia. Candice is more sensible than Moses. Therefore cecilia is more sensible than Kevin.,Valid,Invalid,,logical_fallacy_detection,
+Do you think the following argument is 'Valid' or 'Invalid'? All snakes are arachnids. All arachnids are cubs. Therefore some cubs are not snakes.,Invalid,Valid,,logical_fallacy_detection,
+Do you think the following argument is 'Valid' or 'Invalid'? Some dens are rabbits. No nightmares are dens. Therefore all nightmares are rabbits.,Invalid,Valid,,logical_fallacy_detection,
+Do you think the following argument is 'Valid' or 'Invalid'? Vicky is less reliable than Edward. Vicky is less reliable than Cecilia. Edward is less reliable than Moses. Therefore edward is less reliable than Vicky.,Invalid,Valid,,logical_fallacy_detection,
+Do you think the following argument is 'Valid' or 'Invalid'? Robert is taller than Anna. Robert is taller than Carol. Jenny is taller than Carol. Carol is taller than William. Therefore anna is taller than Robert.,Invalid,Valid,,logical_fallacy_detection,
+Which of the following lists is correctly ordered sequentially?,"sixty-two, sixty-four, five thousand one, eighty million","sixty-four, sixty-two, eighty million, five thousand one",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"go to store, view product, buy product, use product","use product, go to store, view product, buy product",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"monday, wednesday, saturday, sunday","wednesday, monday, sunday, saturday",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"two, forty-four, two thousand two hundred thirty-four, twenty billion","two thousand two hundred thirty-four, two, forty-four, twenty billion",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"Download App, Create Account, Log into Account, Use App","Log into Account, Download App, Use App, Create Account",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"m, n, q, r","q, m, n, r",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"b, k, m, o","k, m, o, b",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"feel thirsty, open water bottle, drink water, seal water bottle","drink water, feel thirsty, seal water bottle, open water bottle",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"zero, one, eight, nine","one, zero, eight, nine",,logical_sequence,
+Which of the following lists is correctly ordered sequentially?,"crack an egg, fry egg, serve the egg, eat the egg","fry egg, eat the egg, serve the egg, crack an egg",,logical_sequence,
+"Let S be a set with n elements, and let S' be a superset of S with one more element. If S has x subsets, then S' has 3x subsets. A set with one element has 2 subsets, so a set with 3 elements has 18 subsets. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"We show that 17 is odd. 5 is an odd integer. For any odd integer k, k is an odd integer. Therefore, 17 is an odd integer. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",No,Yes,,mathematical_induction,
+"A complete graph with one vertex has no edge. Given that a complete graph K_k has k(k-1)/2 edges, we can compute the number of edges in K_{k+1} by adding an edge between the new vertex and each existing vertex. This adds k new edges, so the graph K_{k+1} has k(k+1)/2 edges. Therefore, a complete graph K_n has n(n-1)/2 edges for any positive integer n. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"The complete graph K_5 has 10 edges. Adding a vertex to a complete graph K_n adds 2n edges, where n is the number of vertices. The graph K_7 has 32 edges. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"3 is an odd integer. k + 2 is odd for any odd k. Therefore, 11 is odd. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"The sum of interior angles of a polygon with n sides is 180(n-2) degrees. The sum of interior angles for a triangle is 180 degrees. For a polygon with k+1 sides, draw a segment to divide that polygon into two polygons: one with k sides and one with 3 sides. The first polygon has 180(k-2) degrees, and the second polygon has 180 degrees, so the total sum of interior angles is 180(k-1) degrees. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"k + 4 is odd for any odd k, and 3 is an odd integer. 11 is an odd integer. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"We show that 8 is odd. 2 is an odd integer. k + 2 is odd for any odd k. Therefore, 8 is odd. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"Let I be the identity matrix. Any positive power I^k of the identity matrix is the identity matrix. Suppose that I^k = I. Then, using the definition of identity, I^{k+1} = I^k * I = I * I = I. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"2 is an odd integer. Adding 4 to any odd integer creates another odd integer. Therefore, 10 is an odd integer. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",Yes,No,,mathematical_induction,
+"Which movie is similar to the following list of movies: Raiders of the Lost Ark, Star Wars Episode IV - A New Hope, Toy Story 3, Léon The Professional?
+ ",Blade Runner,Before Midnight,,movie_recommendation,
+"Which movie is similar to the following list of movies: American Beauty, Austin Powers International Man of Mystery, Star Wars Episode V - The Empire Strikes Back, Mission Impossible?
+ ",Star Wars Episode IV - A New Hope,Moonlight Mile,,movie_recommendation,
+"Which movie is similar to the following list of movies: Léon The Professional, The Matrix, Forrest Gump, Pulp Fiction?
+ ",Up,The Browning Version,,movie_recommendation,
+"Which movie is similar to the following list of movies: Dances with Wolves, Pulp Fiction, Apollo 13, Schindler's List?
+ ",The Usual Suspects,Pokémon Heroes,,movie_recommendation,
+"Which movie is similar to the following list of movies: Dances with Wolves, The Shawshank Redemption, Schindler's List, Pulp Fiction?
+ ",Braveheart,The Sound of Music,,movie_recommendation,
+"Which movie is similar to the following list of movies: Stargate, The Fugitive, Pulp Fiction, Dances with Wolves?
+ ",Forrest Gump,Stand and Deliver,,movie_recommendation,
+"Which movie is similar to the following list of movies: Schindler's List, The Shawshank Redemption, Pulp Fiction, Get Shorty?
+ ",The Usual Suspects,It Can't Be!,,movie_recommendation,
+"Which movie is similar to the following list of movies: Seven, Star Wars Episode IV - A New Hope, Star Wars Episode V - The Empire Strikes Back, American Beauty?
+ ",Rear Window,Gray's Anatomy,,movie_recommendation,
+"Which movie is similar to the following list of movies: Braveheart, The Fugitive, Pulp Fiction, Get Shorty?
+ ",What's Eating Gilbert Grape,The Closer You Get,,movie_recommendation,
+"Which movie is similar to the following list of movies: The Fugitive, The Shawshank Redemption, Braveheart, Pulp Fiction?
+ ",Dances with Wolves,When the Levees Broke A Requiem in Four Acts,,movie_recommendation,
+"If you follow these instructions, do you return to the starting point?
+Take 6 steps. Turn right. Turn right. Take 7 steps. Turn around. Take 1 step.",True,False,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Always face forward. Take 5 steps backward. Take 6 steps right. Take 8 steps backward. Take 8 steps forward. Take 7 steps forward. Take 6 steps left. Take 2 steps left. Take 7 steps left. Take 1 step right.",False,True,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Take 1 step. Turn around. Take 2 steps. Turn left. Take 1 step. Take 3 steps. Turn left. Take 1 step.",False,True,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Turn around. Turn right. Turn right. Take 1 step. Take 9 steps. Turn around. Take 10 steps.",True,False,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Always face forward. Take 5 steps right. Take 1 step left. Take 3 steps right. Take 1 step forward.",False,True,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Take 8 steps. Take 3 steps. Take 9 steps. Turn around. Take 1 step. Take 9 steps. Take 10 steps.",True,False,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Take 9 steps. Turn left. Turn left. Take 9 steps.",True,False,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Take 2 steps. Turn around. Turn right. Turn left. Take 2 steps. Turn around. Turn around.",True,False,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Take 6 steps. Take 8 steps. Take 7 steps. Turn around. Take 3 steps. Turn right. Turn left. Take 10 steps. Take 8 steps.",True,False,,navigate,
+"If you follow these instructions, do you return to the starting point?
+Always face forward. Take 9 steps backward. Take 5 steps right. Take 6 steps right. Take 2 steps forward.",False,True,,navigate,
+"What part of speech is the word ""Polloistering"" in the following sentence? Polloistering difictiously, the children went on their way.",Verb,Adverb,,nonsense_words_grammar,
+"How many things does the following sentence describe? The balforator, heddleilwilder and the sminniging crolostat operate superbly and without interrtulation.",3,2,,nonsense_words_grammar,
+"Does the following sentence describe events which take place in the past, present, or future? The widdtrance holofolors will filfeyatrim quilliancerously.",Future,Past,,nonsense_words_grammar,
+"How many adverbs does the following sentence contain? Hafteringly, molohorshly, Mei interocolated her preparations for the olumolent event.",2,4,,nonsense_words_grammar,
+"Does the following sentence describe events which take place in the past, present, or future? The sentinel malagarams with great valhelisep.",Present,Past,,nonsense_words_grammar,
+Which word in the following sentence is a verb? The grilshaws bolheavened whincely.,bolheavened,grilshaws,,nonsense_words_grammar,
+Which word in the following sentence is an adverb? The wind rohomnelled lotterishly in the stickerslacks.,lotterishly,the,,nonsense_words_grammar,
+How many people does the following sentence mention? The stillefector carried out her duty while Prtishoost waited prostillitly.,2,5,,nonsense_words_grammar,
+"What part of speech is the word ""romtulondo"" in the following sentence? The symphony reaches its climax with a great romtulondo.",Noun,Adjective,,nonsense_words_grammar,
+"What part of speech is the word ""Gilteringly"" in the following sentence? Gilteringly shone the cheerful sun.",Adverb,Noun,,nonsense_words_grammar,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) bike 2) piano 3) brake",They are all types of pedals.,They are all musical instruments.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) folding 2) committee 3) lounge",They are all types of chairs.,They are all places.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) avalanches 2) rock polishing 3) gymnastics",They all involve tumbling.,They all are sports.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) bamboo 2) memory 3) lines",They all have segments.,They all are straight.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) boats 2) tablecloths 3) crowns",They all go on top of something.,They all are made of cloth.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) blue whales 2) Jupiter 3) top quarks 4) Mt. Everest",They all are the largest of their kind.,They all are enormous.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) lawyers 2) basketball 3) walled yards",They all involve courts.,They are all legal terms.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) magnetic resonance imaging 2) propaganda 3) figure skating",They all involve spins.,They all involve performances.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) hair 2) laceration 3) short",They are all types of cuts.,They are all body parts.,,novel_concepts,
+"Let's do some find-the-common-concept problems. In these problems, your goal is to identify the underlying concept or theme that relates the things listed. Make sure to answer carefully.
+What do the following have in common? 1) sand falling 2) redshifts in cosmology 3) pendulums",They all can be used to measure time.,They all involve waves.,,novel_concepts,
+"Complete the provided statement with the best choice.
+
+The primary interaction between two neutrons in the same nucleus is the",Strong force,Electromagnetic force,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+Helicopters create lift by exerting a force on air, pushing it down. In which direction does the air exert a force on the helicopter?",Up,Right,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+The primary force between two free electrons is the",Electromagnetic force,Gravitational force,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+I am standing and then let go of a ball. Which direction is the opposite of the direction in which the ball travels?",Up,Left,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+I stand on the balcony of a two story building and throw a ball to someone on the ground. Which direction does the ball travel?",Down,Up,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+The bonds in sodium chloride are of what type?",Ionic,Covalent,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+I stand to your right and throw a ball to you. Which direction is the opposite of the direction in which the ball travels?",Right,Up,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+A voltage is applied across a conducting wire. What happens inside the wire?",Current is induced,An electric field is created,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+An atom absorbs a photon with energy equal to the energy difference between the atom's ground state and first excited state. The atom",Makes a transition to the excited state,Undergoes nuclear fission,,physical_intuition,
+"Complete the provided statement with the best choice.
+
+An electron is accelerated along a circular orbit at a speed close to the speed of light. The electron emits",Synchrotron radiation,Neutrinos,,physical_intuition,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+A 5 kg block is pulled across a table by a horizontal force of 40 N with a frictional force of 8 N opposing the motion. What is the acceleration of the object?
+ ",F = m * a,σ = q / A,,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+Electric charges Q1 and Q2 are arranged as shown in the diagram below. What is the electric potential at point P?
+ ",V = k * q / r,dv = a * dt,,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+A charge q of 30.0 μC is moved from point X to point Y. How much work is done on the 30.0 μC charge?
+ ",U_E = k * q * q / r,U = m * g * h,,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+A small 4.0 * 10^-3 kg charged sphere is suspended by a light thread between parallel plates, as shown in the diagram below. When the plates are connected to a 500 V source, the thread makes a 150 angle with the vertical. What is the charge on the sphere?
+ ",W = F * d,F_f = μ * N,,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+What is the force on a 1,000 kg elevator that is falling freely at 9.8 m/s^2?
+ ",F = m * a,E = q * σ / (2 * ε),,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+A 3.0 kg ball rolls down from the top of a ramp as shown. If the ball is moving at 10.0 m/sat the bottom, how much energy was lost due to friction (thermal energy)?
+ ",K = 1/2 * m * v ^ 2,σ = q / A,,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+A 0.425 kg water balloon is dropped from the top of a school gymnasium onto some unsuspecting physics students (those were the days...). If the gym is 8.50 m high how much kinetic energy does it have just before it hits the ground?
+ ",K = 1/2 * m * v ^ 2,F_y = 2 * T * cos(θ) – W,,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+A ball which is dropped from the top of a building strikes the ground with a speed of 30 m/s. Assume air resistance can be ignored. What is the height of the building?
+ ",d = x_0 + v_0 * t + 1/2 * a * t ^ 2,dx = v * dt,,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+A 0.16 C charge is moved in an electric field from a point with a potential of 25 V to another point with a potential of 95 V. How much work was done to move this charge?
+ ",W = dE,Q = m * c * dT,,physics,
+"Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+
+
+A 1.0 kg ball hits the floor with a velocity of 2.0 m/s. If the ball bounces up with a velocity of 1.6 m/s, what is the ball’s change in momentum?
+ ",p = m * v,a_c = v ^ 2 / r,,physics,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: The Three Doctors Context: There have been instances of actors returning at later dates to reprise the role of their specific Doctor. In 1973's The Three Doctors, William Hartnell and Patrick Troughton returned alongside Jon Pertwee. For 1983's The Five Doctors, Troughton and Pertwee returned to star with Peter Davison, and Tom Baker appeared in previously unseen footage from the uncompleted Shada episode. For this episode, Richard Hurndall replaced William Hartnell. Patrick Troughton again returned in 1985's The Two Doctors with Colin Baker. In 2007, Peter Davison returned in the Children in Need short ""Time Crash"" alongside David Tennant, and most recently in 2013's 50th anniversary special episode, ""The Day of the Doctor"", David Tennant's Tenth Doctor appeared alongside Matt Smith as the Eleventh Doctor and John Hurt as the War Doctor, as well as brief footage from all of the previous actors. In addition, the Doctor has occasionally encountered himself in the form of his own incarnation, from the near future or past. The First Doctor encounters himself in the story The Space Museum (albeit frozen and as an exhibit), the Third Doctor encounters and interacts with himself in the story Day of the Daleks, the Fourth Doctor encounters and interacts with the future incarnation of himself (the 'Watcher') in the story Logopolis, the Ninth Doctor observes a former version of his current incarnation in ""Father's Day"", and the Eleventh Doctor briefly comes face to face with himself in ""The Big Bang"". In ""The Almost People"" the Doctor comes face-to-face with himself although it is found out that this incarnation is in fact just a flesh replica. In ""The Name of the Doctor"", the Eleventh Doctor meets an unknown incarnation of himself, whom he refers to as ""his secret"" and who is subsequently revealed to be the War Doctor.
+ 
+Choose the appropriate question which has the given answer.",In which episode did william hartnell make a cameo appearance?,Which doctor returned for the children in need series?,,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: Mike Tolbert Context: On Carolina's next possession fullback Mike Tolbert lost a fumble while being tackled by safety Darian Stewart, which linebacker Danny Trevathan recovered on the Broncos 40-yard line. However, the Panthers soon took the ball back when defensive end Kony Ealy tipped a Manning pass to himself and then intercepted it, returning the ball 19 yards to the Panthers 39-yard line with 1:55 left on the clock. The Panthers could not gain any yards with their possession and had to punt. After a Denver punt, Carolina drove to the Broncos 45-yard line. But with 11 seconds left, Newton was sacked by DeMarcus Ware as time expired in the half.
+ 
+Choose the appropriate question which has the given answer.","After a darian stewart tackle, which fullback fumbled the ball?",Which panther intercepted a manning pass intended for himself?,,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: 1884 Context: In 1882, Tesla began working for the Continental Edison Company in France, designing and making improvements to electrical equipment. In June 1884, he relocated to New York City:57–60 where he was hired by Thomas Edison to work at his Edison Machine Works on Manhattan's lower east side. Tesla's work for Edison began with simple electrical engineering and quickly progressed to solving more difficult problems.
+ 
+Choose the appropriate question which has the given answer.",When did tesla make the decision to move to new york city?,When did tesla first start working for continental edison?,,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: motivated students Context: Where school class sizes are typically 40 to 50 students, maintaining order in the classroom can divert the teacher from instruction, leaving little opportunity for concentration and focus on what is being taught. In response, teachers may concentrate their attention on motivated students, ignoring attention-seeking and disruptive students. The result of this is that motivated students, facing demanding university entrance examinations, receive disproportionate resources. Given the emphasis on attainment of university places, administrators and governors may regard this policy as appropriate.
+ 
+Choose the appropriate question which has the given answer.","In this case, who gets more of the teacher's resources?","In order to prioritize focus, teachers can choose to disregard whom?",,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: Genghis Khan and his family Context: The Mongol Empire was governed by a civilian and military code, called the Yassa, created by Genghis Khan. The Mongol Empire did not emphasize the importance of ethnicity and race in the administrative realm, instead adopting an approach grounded in meritocracy. The exception was the role of Genghis Khan and his family. The Mongol Empire was one of the most ethnically and culturally diverse empires in history, as befitted its size. Many of the empire's nomadic inhabitants considered themselves Mongols in military and civilian life, including Mongols, Turks and others and included many diverse Khans of various ethnicities as part of the Mongol Empire such as Muhammad Khan.
+ 
+Choose the appropriate question which has the given answer.",Who was excluded from the mongol empire's meritocratic principles?,Who wrote the code that regulated the mongol empire's military and civilian behavior?,,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: 1952 Context: In 1952, when the release of the FCC's Sixth Report and Order announced the end of its freeze on new station license applications, among the issues the Commission was slated to address was whether to approve the UPT-ABC merger. One FCC Commissioner saw the possibility of ABC, funded by UPT, becoming a viable and competitive third television network. On February 9, 1953, the FCC approved UPT's purchase of ABC in exchange for $25 million in shares. The merged company, renamed American Broadcasting-Paramount Theatres, Inc. and headquartered in the Paramount Building at 1501 Broadway in Manhattan, owned six AM and several FM radio stations, five television stations and 644 cinemas in 300 U.S. cities. To comply with FCC ownership restrictions in effect at the time that barred common ownership of two television stations in the same market, UPT sold its Chicago television station, WBKB-TV, to CBS (which subsequently changed the station's call letters to WBBM-TV) for $6 million, while it kept ABC's existing Chicago station, WENR-TV. The merged company acquired the WBKB call letters for channel 7, which would eventually become WLS-TV. Goldenson began to sell some of the older theaters to help finance the new television network.
+ 
+Choose the appropriate question which has the given answer.",When did the fcc issue its sixth report and order?,When did the federal communications commission sanction upt's acquisition of abc?,,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: Pedro Menéndez de Avilés Context: French Huguenot explorer Jean Ribault charted the St. Johns River in 1562 calling it the River of May because he discovered it in May. Ribault erected a stone column near present-day Jacksonville claiming the newly discovered land for France. In 1564, René Goulaine de Laudonnière established the first European settlement, Fort Caroline, on the St. Johns near the main village of the Saturiwa. Philip II of Spain ordered Pedro Menéndez de Avilés to protect the interest of Spain by attacking the French presence at Fort Caroline. On September 20, 1565, a Spanish force from the nearby Spanish settlement of St. Augustine attacked Fort Caroline, and killed nearly all the French soldiers defending it. The Spanish renamed the fort San Mateo, and following the ejection of the French, St. Augustine's position as the most important settlement in Florida was solidified. The location of Fort Caroline is subject to debate but a reconstruction of the fort was established on the St. Johns River in 1964.
+ 
+Choose the appropriate question which has the given answer.","In 1565, who led the assault on the french colony?","In 1562, who drew a map of the st. johns river?",,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: research Context: The Tech Coast is a moniker that has gained use as a descriptor for the region's diversified technology and industrial base as well as its multitude of prestigious and world-renowned research universities and other public and private institutions. Amongst these include 5 University of California campuses (Irvine, Los Angeles, Riverside, Santa Barbara, and San Diego); 12 California State University campuses (Bakersfield, Channel Islands, Dominguez Hills, Fullerton, Los Angeles, Long Beach, Northridge, Pomona, San Bernardino, San Diego, San Marcos, and San Luis Obispo); and private institutions such as the California Institute of Technology, Chapman University, the Claremont Colleges (Claremont McKenna College, Harvey Mudd College, Pitzer College, Pomona College, and Scripps College), Loma Linda University, Loyola Marymount University, Occidental College, Pepperdine University, University of Redlands, University of San Diego, and the University of Southern California.
+ 
+Choose the appropriate question which has the given answer.",What kind of universities does the area have a reputation for?,The california institute of technology is what kind of university ?,,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: Ronnie Hillman Context: Denver took the opening kickoff and started out strong with Peyton Manning completing an 18-yard pass to tight end Owen Daniels and a 22-yard throw to receiver Andre Caldwell. A pair of carries by C. J. Anderson moved the ball up 20 yards to the Panthers 14-yard line, but Carolina's defense dug in over the next three plays. First, linebacker Shaq Thompson tackled Ronnie Hillman for a 3-yard loss. Then after an incompletion, Thomas Davis tackled Anderson for a 1-yard gain on third down, forcing Denver to settle for a 3–0 lead on a Brandon McManus 34-yard field goal. The score marked the first time in the entire postseason that Carolina was facing a deficit.
+ 
+Choose the appropriate question which has the given answer.","On a shaq thompson tackle, who gave up 3 yards?",Ronnie hillman was tackled for a lack of yardage by who?,,question_selection,
+"Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+
+Here is the short answer followed by the context.
+Short Answer: 1959 Context: In 1959, Walt Disney Productions, having improved its financial situation, had purchased ABC's shares in the Disneyland theme park for $7.5 million and initiated discussions to renew ABC's television contract for Walt Disney Presents, which was due to expire in 1961. Walt Disney was approached by NBC to produce color broadcasts of his anthology series (which would be renamed Walt Disney's Wonderful World of Color). Goldenson said ABC could not counter the offer, because the network did not have the technical and financial resources to carry the program in the format. As a result, ABC and Disney's first television collaboration ended in 1961 (the network would resume its relationship with Disney in 1985, when the anthology series returned to the network for a three-season run as the Disney Sunday Movie until it lost the rights to NBC again in 1988; the Disney anthology series would return to ABC in 1996, following the company's purchase of the future Capital Cities/ABC, as The Wonderful World of Disney).
+ 
+Choose the appropriate question which has the given answer.",When did walt disney productions buy the disney theme park's shares from abc?,When did the television partnership between abc and disney end?,,question_selection,
+"On the nightstand, you see a set of items arranged in a row: a gold plate, a silver stress ball, a fuchsia notebook, a mauve bracelet, a green jug, and a yellow fidget spinner. What is the color of the item directly to the left of the jug?",mauve,magenta,,reasoning_about_colored_objects,
+"On the desk, you see a set of things arranged in a row: a magenta sheet of paper, a pink fidget spinner, a turquoise keychain, and a green pen. How many non-turquoise things do you see to the left of the sheet of paper?",0,two,,reasoning_about_colored_objects,
+"On the table, you see a set of objects arranged in a row: a pink cup, a brown puzzle, a silver sheet of paper, a yellow mug, a blue pen, and a gold scrunchiephone charger. What is the color of the object furthest from the puzzle?",gold,mauve,,reasoning_about_colored_objects,
+"On the table, you see a bunch of objects arranged in a row: a mauve keychain, a silver puzzle, a brown bracelet, a red booklet, a turquoise scrunchiephone charger, and a burgundy necklace. What is the color of the object directly to the left of the turquoise object?",red,burgundy,,reasoning_about_colored_objects,
+"On the desk, there are three turquoise textbooks, one turquoise envelope, two yellow envelopes, three grey envelopes, two orange envelopes, one yellow pair of sunglasses, two grey textbooks, two yellow textbooks, and three turquoise pairs of sunglasses. If I remove all the pairs of sunglasses from the desk, how many turquoise things remain on it?",4,0,,reasoning_about_colored_objects,
+"On the table, there is a red puzzle and a yellow cup. How many objects are neither orange nor blue?",2,one,,reasoning_about_colored_objects,
+"On the floor, you see the following objects arranged in a row: a pink pencil, a burgundy keychain, a yellow stress ball, and a turquoise bracelet. What is the color of the object directly to the right of the stress ball?",turquoise,grey,,reasoning_about_colored_objects,
+"On the table, you see a bunch of objects arranged in a row: a burgundy paperclip, a silver envelope, and a pink jug. What is the color of the right-most object?",pink,black,,reasoning_about_colored_objects,
+"On the desk, you see a set of items arranged in a row: a mauve envelope, a burgundy plate, a purple necklace, and a teal puzzle. How many non-yellow items do you see to the left of the puzzle?",3,five,,reasoning_about_colored_objects,
+"On the table, there are three red envelopes, three red jugs, one silver envelope, two silver jugs, two brown envelopes, and two brown paperclips. If I remove all the envelopes from the table, how many red things remain on it?",3,seven,,reasoning_about_colored_objects,
+"Claim: The largest lake in the world is likely to be the Caspian Sea.
+True or False?",True,False,,sentence_ambiguity,
+"Claim: Venus is likely to be the hottest planet in the solar system.
+True or False?",True,False,,sentence_ambiguity,
+"Claim: Oxygen may be the most abundant gas in Earth's atmosphere.
+True or False?",False,True,,sentence_ambiguity,
+"Claim: California is likely not located in the United States.
+True or False?",False,True,,sentence_ambiguity,
+"Claim: Delhi is one of the Hindi-speaking states in India.
+True or False?",True,False,,sentence_ambiguity,
+"Claim: Earth's oceans may include the Pacific, Atlantic, Indian, and Arctic.
+True or False?",True,False,,sentence_ambiguity,
+"Claim: Marie Curie may have been involved in the discovery of radium.
+True or False?",True,False,,sentence_ambiguity,
+"Claim: Aluminium may be good at conducting heat.
+True or False?",True,False,,sentence_ambiguity,
+"Claim: Abraham Lincoln was the tallest president to serve the United States, followed by James Madison.
+True or False?",False,True,,sentence_ambiguity,
+"Claim: India had qualified for the FIFA World Cup more than once by 2021.
+True or False?",False,True,,sentence_ambiguity,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how diphenhydramine and acetaminophen are alike.
+A:",Both are medications.,Both make you drowsy.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how an airplane and a helicopter are alike.
+A:",Both are modes of air transport.,Both have engines.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how semi-formal and black tie are alike.
+A:",Both are dress codes.,Both are black clothing.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how an island and a lake are alike.
+A:",Both are surrounded by something else.,Both have palm trees.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how a knife and a soup spoon are alike.
+A:",Both are eating utensils.,Both are made of metal.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how a blanket and a pair of mittens are alike.
+A:",Both keep you warm.,Both are made of cotton.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how a microwave and a dishwasher are alike.
+A:",Both are kitchen appliances.,Both are used to heat food.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how a blizzard and a tornado are alike.
+A:",Both are severe weather.,Both are accompanied by precipitation.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how a sailboat and a bicycle are alike.
+A:",Both are modes of transportation.,Both have seats for people.,,similarities_abstraction,
+"Complete the incomplete analogy.
+
+Q: Tell me how an apple and a banana are alike. 
+A: Both are fruit.
+
+Q: Tell me how a diamond and a pearl are alike.
+A:",Both are gemstones.,Both are cubic crystals.,,similarities_abstraction,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Devin Booker took a turnaround jumper
+Plausible/implausible?",plausible,implausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Jarvis Landry gained five yards
+Plausible/implausible?",plausible,implausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Ezequiel Lavezzi was out at home in the American League Championship Series
+Plausible/implausible?",implausible,plausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Sam Darnold struck out
+Plausible/implausible?",implausible,plausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Pascal Siakam drove into the paint in the Western Conference Finals
+Plausible/implausible?",plausible,implausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Delon Wright took a left footed shot
+Plausible/implausible?",implausible,plausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Toni Kroos performed a give and go
+Plausible/implausible?",plausible,implausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Ben Simmons called for the screen
+Plausible/implausible?",plausible,implausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Julio Jones entered the attacking zone
+Plausible/implausible?",implausible,plausible,,sports_understanding,
+"Determine whether the following statement or statements are plausible or implausible:
+Statement: Mikal Bridges got into the endzone
+Plausible/implausible?",implausible,plausible,,sports_understanding,
+"Context: Jill wanted to buy a kitten, so she went to see Mrs. Smith, who had lots of kittens she didn't want. Now Mrs. Smith loved the kittens, and she wouldn't do anything to harm them, though she couldn't keep them all herself. When Jill visited she wasn't sure she wanted one of Mrs. Smith's kittens, since they were all males and she had wanted a female. But Mrs. Smith said, ""If no one buys the kittens I'll just have to drown them!""
+How would Mrs. Smith feel if her kittens were drowned?",sad,content,,strange_stories,
+"Context: Ann's mother has spent a long time cooking Ann's favourite meal; fish and chips. But when she brings it in to Ann, she is watching TV, and she doesn't even look up, or say thank you. Ann's mother is cross and says, ""Well that's very nice, isn't it! That's what I call politeness!""
+How might Ann feel when her mom said that?",embarrassed,delighted,,strange_stories,
+"Context: John hates going to the dentist, because every time he goes to the dentist he needs a filling, and that hurts a lot. But John knows that when he has toothache, his mother always takes him to the dentist. Now John has bad toothache at the moment, but when his mother notices he is looking ill and asks him, ""Do you have tooth-ache, John?"", John says, ""No, Mummy"".
+Is it true, what John says to his mother?",no,yes,,strange_stories,
+"Context: During the war, the Red army captures a member of the Blue army. They want him to tell them where his army's tanks are; they know they are either by the sea or in the mountains. They know that the prisoner will not want to tell them, he will want to save his army, and so he will certainly lie to them. The prisoner is very brave and very clever, he will not let them find his tanks. The tanks are really in the mountains. Now when the other side ask him where his tanks are, he says, ""They are in the mountains"".
+Why did the prisoner say that?",because he is double-bluffing,because the they want him to tell them where his army's tanks are,,strange_stories,
+"Context: Emma has a cough. All through lunch she coughs and coughs and coughs. Father says, ""Poor Emma, you must have a frog in your throat!""
+Why does he say that?",because he is using figure of speech,because he is confused,,strange_stories,
+"Context: Jill wanted to buy a kitten, so she went to see Mrs. Smith, who had lots of kittens she didn't want. Now Mrs. Smith loved the kittens, and she wouldn't do anything to harm them, though she couldn't keep them all herself. When Jill visited she wasn't sure she wanted one of Mrs. Smith's kittens, since they were all males and she had wanted a female. But Mrs. Smith said, ""If no one buys the kittens I'll just have to drown them!""
+Why did Jill visit Mrs. Smith?",because Jill wanted to buy a kitten,because when Jill visited she wasn't sure she wanted one of Mrs. Smith's kittens,,strange_stories,
+"Context: Simon is a big liar. Simon's brother Jim knows this, he knows that Simon never tells the truth! Now yesterday Simon stole Jim's ping-pong bat, and Jim knows Simon has hidden it somewhere, though he can't find it. He's very cross. So he finds Simon and he says, ""Where is my ping-pong bat? You must have hidden it either in the cupboard or under your bed, because I've looked everywhere else. Where is it, in the cupboard or under your bed?"" Simon tells him the bat is under his bed.
+Does Jim know for certain where his ping-pong bat is?",no,yes,,strange_stories,
+"Context: During the war, the Red army captures a member of the Blue army. They want him to tell them where his army's tanks are; they know they are either by the sea or in the mountains. They know that the prisoner will not want to tell them, he will want to save his army, and so he will certainly lie to them. The prisoner is very brave and very clever, he will not let them find his tanks. The tanks are really in the mountains. Now when the other side ask him where his tanks are, he says, ""They are in the mountains"".
+Does the Red army know where the tanks are?",no,yes,,strange_stories,
+"Context: Snakes are remarkable animals. They have very stretchy skin, which they shed once a year and can also separate their upper and lower jaws and open their mouths really wide. The anaconda is an example of a very large snake. One day, a deer gallops under a tree, from which an anaconda is hanging, as it makes its way toward a lake. Later that day, the snake is lying on the ground with a huge bulge in its middle. The deer however is nowhere to be seen. Where is the deer?
+  ",The deer has been swallowed by the snake.,The deer was eaten.,,strange_stories,
+"Context: Helen waited all year for Christmas, because she knew at Christmas she could ask her parents for a rabbit. Helen wanted a rabbit more than anything in the world. At last Christmas Day arrived, and Helen ran to unwrap the big box her parents had given her. She felt sure it would contain a little rabbit in a cage. But when she opened it, with all the family standing round, she found her present was just a boring old set of encyclopaedias, which Helen did not want at all! Still, when Helen's parents asked her how she liked her Christmas present, she said, ""It's lovely, thank you. It's just what I wanted"".
+Is it true, what Helen said?",no,yes,,strange_stories,
+Will more people go in and out of Taco Bell than a Roy Rogers each year?,Yes,No,,strategyqa,
+Did Sartre write a play about Hell?,Yes,No,,strategyqa,
+Would an American feel lost due to language barriers at Disneyland Paris?,No,Yes,,strategyqa,
+Can you carry a Chrysler in a laptop bag?,No,Yes,,strategyqa,
+Should you ask a neighbor for candy on New Year's Eve?,No,Yes,,strategyqa,
+Are there winged statuettes in the home of the creator of Law & Order?,Yes,No,,strategyqa,
+Can a human eat an entire 12-lb roast turkey in an hour? ,No,Yes,,strategyqa,
+Is a krabby patty similar to a cheeseburger?,Yes,No,,strategyqa,
+Was Elmo an original muppet character on Sesame Street?,No,Yes,,strategyqa,
+Could Hurricane Harvey catch a Peregrine falcon?,No,Yes,,strategyqa,
+,4pm to 6pm,7am to 9am,,temporal_sequences,
+,5am to 7am,7am to 9am,,temporal_sequences,
+,6am to 7am,2pm to 8pm,,temporal_sequences,
+,5am to 10am,4pm to 10pm,,temporal_sequences,
+,9pm to 10pm,2pm to 9pm,,temporal_sequences,
+,5pm to 6pm,7pm to 8pm,,temporal_sequences,
+,1pm to 6pm,7pm to 8pm,,temporal_sequences,
+,1pm to 2pm,5pm to 7pm,,temporal_sequences,
+,5am to 6am,6am to 8am,,temporal_sequences,
+,2pm to 6pm,6am to 9am,,temporal_sequences,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets The Great Gatsby, Claire gets The Fellowship of the Ring, Dave gets Frankenstein, Eve gets Ulysses, Fred gets Catch-22, and Gertrude gets The Odyssey. 
+
+As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Fred and Claire swap books. Then, Alice and Gertrude swap books. Then, Bob and Alice swap books. Then, Bob and Claire swap books. Then, Dave and Alice swap books. Finally, Bob and Eve swap books. At the end of the semester, Gertrude has",The Great Gatsby.,Hound of the Baskervilles.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Izzi, Claire is dancing with Sam, Dave is dancing with Patrick, and Eve is dancing with Karl. 
+
+Throughout the song, the dancers often trade partners. First, Claire and Bob switch partners. Then, Claire and Alice switch partners. Then, Bob and Claire switch partners. Then, Eve and Bob switch partners. Finally, Dave and Claire switch partners. At the end of the dance, Dave is dancing with",Sam.,Izzi.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a red present, Claire has a orange ball, Dave has a brown present, Eve has a black ball, Fred has a yellow present, and Gertrude has a purple present. 
+
+As the event progresses, pairs of people swap gifts. First, Fred and Gertrude swap their gifts. Then, Fred and Eve swap their gifts. Then, Bob and Claire swap their gifts. Then, Claire and Gertrude swap their gifts. Then, Dave and Eve swap their gifts. Then, Alice and Fred swap their gifts. Finally, Alice and Bob swap their gifts. At the end of the event, Fred has the",blue present.,orange ball.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets Moby Dick, Claire gets The Fellowship of the Ring, Dave gets Catch-22, and Eve gets Frankenstein. 
+
+As the semester proceeds, they start trading around the new books. First, Claire and Dave swap books. Then, Alice and Eve swap books. Then, Bob and Eve swap books. Then, Dave and Bob swap books. Finally, Alice and Dave swap books. At the end of the semester, Claire has",Catch-22.,Moby Dick.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets The Great Gatsby, Claire gets The Odyssey, Dave gets Catch-22, Eve gets Lolita, Fred gets Hound of the Baskervilles, and Gertrude gets Moby Dick. 
+
+As the semester proceeds, they start trading around the new books. First, Gertrude and Fred swap books. Then, Alice and Claire swap books. Then, Bob and Dave swap books. Then, Claire and Dave swap books. Then, Bob and Eve swap books. Then, Claire and Dave swap books. Finally, Eve and Alice swap books. At the end of the semester, Fred has",Moby Dick.,Catch-22.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Rodrigo, and Claire is dancing with Helga. 
+
+Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Alice and Claire switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Bob is dancing with",Helga.,Rodrigo.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a green ball, Claire has a white ball, Dave has a red ball, Eve has a brown ball, Fred has a purple ball, and Gertrude has a orange ball. 
+
+As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Dave and Eve swap balls. Then, Fred and Bob swap balls. Then, Dave and Gertrude swap balls. Then, Fred and Bob swap balls. Then, Gertrude and Fred swap balls. Finally, Alice and Fred swap balls. At the end of the game, Dave has the",orange ball.,brown ball.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a black ball, Bob has a orange ball, Claire has a white present, Dave has a green present, Eve has a blue present, Fred has a red present, and Gertrude has a yellow present. 
+
+As the event progresses, pairs of people swap gifts. First, Alice and Eve swap their gifts. Then, Alice and Fred swap their gifts. Then, Gertrude and Dave swap their gifts. Then, Fred and Eve swap their gifts. Then, Claire and Bob swap their gifts. Then, Claire and Dave swap their gifts. Finally, Dave and Alice swap their gifts. At the end of the event, Gertrude has the",green present.,white present.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing center midfielder, Claire is playing cheerleader, Dave is playing right winger, Eve is playing left midfielder, Fred is playing right midfielder, and Gertrude is playing left winger. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Claire and Fred trade positions. Then, Dave and Eve trade positions. Then, Claire and Alice trade positions. Then, Alice and Dave trade positions. Then, Gertrude and Eve trade positions. Then, Fred and Gertrude trade positions. Finally, Bob and Claire trade positions. At the end of the match, Alice is playing",left midfielder.,striker.,,tracking_shuffled_objects,
+"Based on the provided information, complete the statement.
+
+Alice, Bob, Claire, Dave, Eve, Fred, and Gertrude are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing benchwarmer, Claire is playing right winger, Dave is playing fullback, Eve is playing cheerleader, Fred is playing left midfielder, and Gertrude is playing left winger. 
+
+As the game progresses, pairs of players occasionally swap positions. First, Fred and Claire trade positions. Then, Dave and Fred trade positions. Then, Bob and Gertrude trade positions. Then, Eve and Gertrude trade positions. Then, Bob and Fred trade positions. Then, Gertrude and Alice trade positions. Finally, Alice and Fred trade positions. At the end of the match, Bob is playing",fullback.,benchwarmer.,,tracking_shuffled_objects,
+"A pilgrim about to set out on a long journey noticed his mutt standing at the door and stretching himself. Thus, he asked the mutt: ""Why do you stand there doing nothing? Everything is ready but you, so come with me without any more delay."" The mutt, wagging his tail, replied: ""But master, I have been ready for some time and have been waiting for you."" What is the moral of this story?
+ ",The loiterer often blames delay on his more active friend.,Every man for himself.,,understanding_fables,
+"Two roosters living in the same farmyard were fighting for dominance over the rest of the farm chickens. Eventually, one emerged as the victor. The defeated opponent scurried away and hid in the shadow of a tree, while the winner paraded around the yard, crowing and spreading his wings. This drew the attention of a hawk flying overhead, who quickly descended on the loud rooster and carried him off in his talons. Seeing this, his opponent came out of the shadows and became the undisputed ruler of the yard. What is the moral of this story?
+ ",Pride goes before destruction.,Cunning often outwits itself.,,understanding_fables,
+"""Little shrub, why don’t you do as I do and raise yourself up to the skies?"", asked the oak of the shrub that was growing nearby. The shrub replied: ""I am happy with the way I am. Besides, while you are certainly mightier than I can ever hope to be, I think that I am safer."" The oak laughed at the word of the shrub: ""Safer? who could possibly threaten me or throw me to the ground?"" Shortly after, a strong storm visited the forest and uprooted the oak, felling it without much effort. The shrub, on the other hand, bent to the storm, and stood upright once it passed. What is the moral of this story?
+ ",Obscurity often brings safety.,Example is more powerful than precept.,,understanding_fables,
+"By accident, a raccoon fell into a deep well without any way to get out again. Soon, a sheep came to the same well, intending to quench her thrust. There, she saw the raccoon and asked whether the water was good to drink. The raccoon praised the water as being of highest quality and encouraged the sheep to come down and try for herself, which she quickly did. Once she was equally stuck at the bottom of the well, the raccoon proposed a way for them to escape together: ""If you stand against the wall on your hind legs, I will run up your back and escape. Afterwards I will help you out, too."" The sheep agreed and allowed the raccoon to climb on top of her, who was thus able to reach the mouth of the well. Once outside, he started running away as fast as he could, leaving the sheep behind. As the sheep cursed at him for breaking his promise, the raccoon retorted: ""You fool, had you thought first, you would have never gotten yourself into a situation from which you could not escape, nor enabled me to take a path to freedom that you could not follow."" What is the moral of this story?
+ ",Look before you leap.,Do unto others what you would have them do unto you.,,understanding_fables,
+"A puddle of honey, spilled from an overturned jar in a kitchen, attracted a group of flies. They ate the honey greedily, landing on the puddle with their feet. Thus, they became stuck, unable to lift themselves out of the puddle with the help of their wings, and soon suffocated. As they perished, they cried: ""What fools we are, having sacrificed ourselves for a small pleasure."" What is the moral of this story?
+ ","Pleasure bought with pains, hurts.",Some begrudge others what they cannot enjoy themselves.,,understanding_fables,
+"A war between birds and beasts was about to break out, and the bat was unsure which side she should join. The birds asked her to help them, to which the bat replied: ""I’m a beast."". Later, beasts passed by underneath her nest and offered her to join them, instead. ""I’m a bird."", the bat insisted. Before things could get worse, diplomacy prevailed and a conflict was avoided. To celebrate the truce, the bat tried to join the festivities of the birds, who quickly turned against her. She then attempted to join the beasts' celebrations, but they, too, drove her away. What is the moral of this story?
+ ",He that is neither one thing nor the other has no friends.,Strife feeds on conflict.,,understanding_fables,
+"A hawk, hunting for dinner, attempted to ambush a snake that he saw crawling along a forest path. The snake noticed the hawk just in time, however, and trapped him in her coils. As the two fought for their respective lives, they were spotted by a woodsman walking along the same path. Without a second thought, he helped the hawk by freeing him from the snake who, in an act of revenge, spat some of her poison into the woodsman’s drinking horn before crawling away into the grass. As the man was about to quench his thirst after all the excitement, the hawk knocked his horn to the ground, spilling the poison within. What is the moral of this story?
+ ",One good turn deserves another.,He who shares the danger ought to share the prize.,,understanding_fables,
+"A wealthy man was throwing a great feast for his friends and acquaintances. His dog took this opportunity to invite a friend of his own, a stray, to whom he promised plenty of food as there has always been a lot of leftovers on similar occasions in the past. The stray eagerly consented and showed up at the house at the appointed hour. As the two dogs walked through the corridors, the stray got more and more excited about all the food around him, promising himself to eat enough to last him several days, and wagging his tail in appreciation of his thoughtful friend. However, as soon as they reached the kitchen, a cook noticed the stray and, grabbing him by the legs, threw him out of the nearest window. Landing on the hard ground, the dog howled in pain and limped away from the house. Soon, he was approached by other strays who asked him about his visit to his wealthy friend. The stray replied: ""To be honest, I don’t remember all of the details. I drank so much wine, I don’t even know how I got out of the house again!"" What is the moral of this story?
+ ",Those who enter by the back stairs may expect to be shown out at the window.,Better starve free than be a fat slave.,,understanding_fables,
+"On a hot summer day, the tiger fell asleep in his cave. As he was lying on the ground, a mouse ran across his back and face, waking him from his slumber. Enraged, the tiger began searching for the mouse in every corner of his cave, but found nothing. Observing the spectacle, a raccoon remarked: ""How odd to see a tiger this scared of a mouse."" ""I do not fear the mouse"", replied the tiger, ""I resent his familiarity and lack of manners."" What is the moral of this story?
+ ",Little liberties are great offenses.,Fine feathers don't make fine birds.,,understanding_fables,
+"A farmer was once driving a heavily-laden wagon along a muddy road. Eventually, the road got so bad that the wagon’s wheels sank half-way into the mud and the wagon became completely stuck. The farmer, not knowing what else to do, knelt down and prayed for gods to help him out of this predicament. Zeus heard his prayer and appeared before him, but rather than moving the wagon he said to the farmer: ""Don’t just kneel there, man! Instead, get up and start pushing the wagon."" What is the moral of this story?
+ ",The gods help them that help themselves.,Slow but steady wins the race.,,understanding_fables,
+"In the following sentences with shuffled words, find the more likely unscrambled sentence.
+
+fly like the to a airplane the desire bird of in sky invention the the inspired.",The desire to fly in the sky like a bird inspired the invention of the airplane.,The dream to fly in the sky like a bird inspired the invention of the airplane.,,undo_permutation,
+"In the following sentences with shuffled characters, find the more likely unscrambled sentence.
+
+ny etecnu l ree ui mtmr grwdiionheuhvs t.",We live in the country during the summer.,They live in the country during the summer.,,undo_permutation,
+"In the following sentences with shuffled characters, find the more likely unscrambled sentence.
+
+nt  o awg  dihroromotakgwenst .",Two wrongs do not make a right.,Right do two wrongs a not make.,,undo_permutation,
+"In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.
+
+in voice always father my very loud a speaks.
+  ","5-3, 1-0, 6-5, 8-3, 8-1, 6-1, 4-8, 3-4, 5-7, 3-4, 8-0","7-1, 1-8, 7-6, 4-3, 4-1, 0-5, 8-0, 5-4, 7-4",,undo_permutation,
+"In the following sentences with shuffled characters, find the more likely unscrambled sentence.
+
+  optitag ohhagopaonvsthiy o wey heris m tauoty nwn.",You may give this photograph to anyone who wants it.,Give this you may photograph to anyone who wants it.,,undo_permutation,
+"In the following sentences with shuffled words, find the correct order of word swaps to unscramble the sentence.
+
+happy yeah, about really am i it.
+  ","5-3, 2-4, 5-6, 0-1, 5-3, 5-4, 1-4, 6-3, 6-5, 5-6","5-0, 5-4, 4-5",,undo_permutation,
+"In the following sentences with shuffled characters, find the more likely unscrambled sentence.
+
+ir tth ao netnerftiso etezcwh tapnhsr eshmu  e.",He won the first prize at the chess tournament.,He won the maiden prize at the chess tourney.,,undo_permutation,
+"In the following sentences with shuffled characters, find the more likely unscrambled sentence.
+
+hmo tahho r isatte yk l io fnmhdloswsiene.",Tom has not finished all his homework yet.,Tom has not finished his homework yet.,,undo_permutation,
+"In the following sentences with shuffled words, find the more likely unscrambled sentence.
+
+and see to check contract says what the i have.",I have to check and see what the contract says.,I have to match and regard what the narrow enjoin.,,undo_permutation,
+"In the following sentences with shuffled characters, find the more likely unscrambled sentence.
+
+vf u t   oeo hrhoftieteee ewk iliaf eon hdebsthwr o  kpf ona.",I have a lot of work to finish up before the end of the week.,He has a lot of work to finish up before the end of the week.,,undo_permutation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+A newsstand sells 27 newspapers every 3 weeks. It will sell 54 newspapers in () weeks.
+ ",6,18,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+The beef costs 5 dollars per pound, and a shopper can buy 10 dollars of beef. The shopper can buy () pounds of beef.
+ ",2,10,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+A car is consuming fuel at 4 gallons per mile, and has 108 gallons left to run. If it consumes fuel three times as fast, it will have () gallons left to run.
+ ",108,9,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+A heart beats 2 times every second. It will beat 88 times in () seconds.
+ ",44,176,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+It takes 4 dollars to hire 2 programmers for 5 days. It will take 120 dollars to hire () programmers for 6 days
+ ",50,5,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+A patient takes 9 pills every 6 days. They will take () pills in 72 days.
+ ",108,432,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+45 pies per minute divided by 9 cookers is ().
+ ",5 pies per cooker per minute,405 pies,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+It takes 3 sausages and 4 buns to make 12 hotdogs. It will take 12 sausages and () buns to make 48 hotdogs.
+ ",16,48,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+A newsstand sells 24 newspapers every 5 weeks. If it sells newspapers with intervals twice as long, it will sell () newspapers in 120 weeks.
+ ",288,576,,unit_interpretation,
+"Please select the option that best replaces '()' in each text input given the chocies presented.
+
+A reporter speaks 4 words every 32 minutes. They will speak 224 words in () minutes.
+ ",1792,896,,unit_interpretation,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: Gettysburg Address: The Gettysburg Address is a speech by U.S. President Abraham Lincoln , one of the best-known in American history .
+Claim: The Gettysburg Address was delivered by U.S. President Abraham Lincoln .
+True, False, or Neither?",True,Neither,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: Brazilian jiu-jitsu: Brazilian Jiu-Jitsu is a martial art , combat sport system that focuses only on boxing and ground fighting .
+Claim: Brazilian jiu-jitsu includes grappling .
+True, False, or Neither?",False,Neither,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: Selma to Montgomery marches: The marches were organized by nonviolent activists to demonstrate the desire of African-American citizens to exercise their constitutional right to vote , in defiance of segregationist repression , and were part of a broader voting rights movement underway in Selma and throughout the American South .
+Claim: The Selma to Montgomery marches were organized by violent activists .
+True, False, or Neither?",False,Neither,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: God's Not Dead-COLON- A Light in Darkness: On review aggregation website Rotten Tomatoes , the film has an approval rating of 12 % based on 17 reviews , and an average rating of 3.2/10 .
+Claim: Averaged over 17 critics , God 's Not Dead : A Light in Darkness holds an approval rating of less than 13 % .
+True, False, or Neither?",True,False,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: Rebel in the Rye: It premiered at the 2017 Sundance Film Festival on January 24 , 2017 .
+Claim: The film Rebel in the Rye premiered in 2017 .
+True, False, or Neither?",True,False,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: Super Bowl XLV: The game was played on February 6 , 2011 , at Cowboys Stadium in Arlington , Texas , the first time the Super Bowl was played in the Dallas -- Fort Worth area .
+Claim: Super Bowl XLV was played before February 6 , 2011 .
+True, False, or Neither?",False,True,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: Tere Naam: The film is a remake of Bala 's own Tamil blockbuster Sethu ( 1999 ) .The film was based on a real life incident of a friend of Bala 's , who had fallen in love , lost his mind and ended up at a mental asylum .
+Claim: Tere Naam is a remake of Bala 's directional blockbuster , Sethu .
+True, False, or Neither?",Neither,True,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: SummerSlam: SummerSlam , also known as The Biggest Party of the Summer , is one of the original pay-per-view events of the NBA .
+Claim: SummerSlam is thrown by the NBA .
+True, False, or Neither?",True,False,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: Beautiful Trauma World Tour: The tour began in Phoenix on March 1 , 2018 , and is scheduled to end on November 2 , 2019 , in Austin , consisting of 158 shows.
+Claim: The Beautiful Trauma World Tour consists of less than 160 shows .
+True, False, or Neither?",True,False,,vitaminc_fact_verification,
+"Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+
+
+Passage: Planet Hollywood Las Vegas: Planet Hollywood Las Vegas was planned to be operated by an American gaming corporation , but the contract was cancelled before being signed .
+Claim: Planet Hollywood Las Vegas is operated by Caesars Entertainment Corporation .
+True, False, or Neither?",False,Neither,,vitaminc_fact_verification,
+"Passage A:
+""Well planted, not uprooted.""
+Passage B:
+""What is firmly set up cannot be unsettled.""
+Passage C:
+""Well embraced, never lost.""
+Is passage C closer in style to passage A or passage B?
+",Passage A,Passage B,,what_is_the_tao,
+"Passage A:
+""Watchful, like men crossing a winter stream.
+Alert, like men aware of danger.""
+Passage B:
+""Alert as a warrior in enemy territory.
+Courteous as a guest.""
+Passage C:
+""Courteous, like visiting guests.
+Yielding, like ice about to melt.""
+Is passage C closer in style to passage A or passage B?
+",Passage A,Passage B,,what_is_the_tao,
+"Passage A:
+""If you know that you’re ignorant you are fine.""
+Passage B:
+""Know not-knowing: supreme.""
+Which is more elevated in style, passage A or passage B?
+",Passage B,Passage A,,what_is_the_tao,
+"Passage A:
+""Banish learning, discard knowledge: People will gain a hundredfold.""
+Passage B:
+""Throw away holiness and wisdom,
+and people will be a hundred times happier.""
+Passage C:
+""The self dwindles; desires fade.""
+Is passage C closer in style to passage A or passage B?
+",Passage A,Passage B,,what_is_the_tao,
+"Passage A:
+""Look! It cannot be seen;
+It’s called the obscure.""
+Passage B:
+""You can’t see Tao,
+no matter how hard you look.""
+Which is more elevated in style, passage A or passage B?
+",Passage A,Passage B,,what_is_the_tao,
+"Passage A:
+""Tao never stops. Why?
+Because it isn’t trying to accomplish anything.""
+Passage B:
+""Heaven is long, Earth enduring.
+Long and enduring Because they do not exist for themselves.""
+Is passage A or passage B a more literal translation of ""天长地久。天地所以能长且久者，以其不自生，故能长生。""?
+",Passage B,Passage A,,what_is_the_tao,
+"Passage A:
+""Mystery upon mystery,
+The gateway to the essence of all.""
+Passage B:
+""Figure them out,
+and you’ve got it made.""
+Is passage A or passage B a more literal translation of ""玄之又玄，众妙之门""?
+",Passage A,Passage B,,what_is_the_tao,
+"Passage A:
+""A good traveler leaves no tracks,
+and a skillful speaker is well rehearsed.""
+Passage B:
+""Good travelers leave no tracks. Good words leave no trace.""
+Passage C:
+""Good counting needs no markers.""
+Is passage C closer in style to passage A or passage B?
+",Passage B,Passage A,,what_is_the_tao,
+"Passage A:
+""The Tao begot one.
+One begot two.
+Two begot three.
+And three begot the ten thousand things.""
+Passage B:
+""Chapter 42 starts out
+with some cosmic mumbo-jumbo
+about Tao making one,
+one making two,
+two making three,
+and three making everything else.""
+Passage C:
+""I don’t know what it means,
+and, frankly,
+I wouldn’t worry about it too much.""
+Is passage C closer in style to passage A or passage B?
+",Passage B,Passage A,,what_is_the_tao,
+"Passage A:
+""Whenever you advise a ruler in the way of Tao,
+Counsel him not to use force to conquer the universe.""
+Passage B:
+""Listen up:
+If you want to be a leader
+who’s in touch with Tao,
+never use violence
+to achieve your goals.""
+Which is more elevated in style, passage A or passage B?
+",Passage A,Passage B,,what_is_the_tao,

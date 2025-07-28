@@ -1,0 +1,825 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,44_1,Q8_First Click,Q8_Last Click,Q8_Page Submit,Q8_Click Count,47_1,Q10_First Click,Q10_Last Click,Q10_Page Submit,Q10_Click Count,26_1,Q11_First Click,Q11_Last Click,Q11_Page Submit,Q11_Click Count,53_1,Q12_First Click,Q12_Last Click,Q12_Page Submit,Q12_Click Count,37_1,Q13_First Click,Q13_Last Click,Q13_Page Submit,Q13_Click Count,MC556412_1,MC556412t_First Click,MC556412t_Last Click,MC556412t_Page Submit,MC556412t_Click Count,MC587812_1,MC587812t_First Click,MC587812t_Last Click,MC587812t_Page Submit,MC587812t_Click Count,MC502312_1,MC502312t_First Click,MC502312t_Last Click,MC502312t_Page Submit,MC502312t_Click Count,MC569321_1,MC569321t_First Click,MC569321t_Last Click,MC569321t_Page Submit,MC569321t_Click Count,MC571212_1,MC571212t_First Click,MC571212t_Last Click,MC571212t_Page Submit,MC571212t_Click Count,MC515721_1,MC515721t_First Click,MC515721t_Last Click,MC515721t_Page Submit,MC515721t_Click Count,MC547012_1,MC547012t_First Click,MC547012t_Last Click,MC547012t_Page Submit,MC547012t_Click Count,MC511021_1,MC511021t_First Click,MC511021t_Last Click,MC511021t_Page Submit,MC511021t_Click Count,MC591112_1,MC591112t_First Click,MC591112t_Last Click,MC591112t_Page Submit,MC591112t_Click Count,MC501521_1,MC501521t_First Click,MC501521t_Last Click,MC501521t_Page Submit,MC501521t_Click Count,MC563421_1,MC563421t_First Click,MC563421t_Last Click,MC563421t_Page Submit,MC563421t_Click Count,MC525812_1,MC525812t_First Click,MC525812t_Last Click,MC525812t_Page Submit,MC525812t_Click Count,MC585221_1,MC585221t_First Click,MC585221t_Last Click,MC585221t_Page Submit,MC585221t_Click Count,MC544821_1,MC544821t_First Click,MC544821t_Last Click,MC544821t_Page Submit,MC544821t_Click Count,MC565212_1,MC565212t_First Click,MC565212t_Last Click,MC565212t_Page Submit,MC565212t_Click Count,MC594412_1,MC594412t_First Click,MC594412t_Last Click,MC594412t_Page Submit,MC594412t_Click Count,MC598512_1,MC598512t_First Click,MC598512t_Last Click,MC598512t_Page Submit,MC598512t_Click Count,MC569721_1,MC569721t_First Click,MC569721t_Last Click,MC569721t_Page Submit,MC569721t_Click Count,MC513612_1,MC513612t_First Click,MC513612t_Last Click,MC513612t_Page Submit,MC513612t_Click Count,MC575112_1,MC575112t_First Click,MC575112t_Last Click,MC575112t_Page Submit,MC575112t_Click Count,MC572212_1,MC572212t_First Click,MC572212t_Last Click,MC572212t_Page Submit,MC572212t_Click Count,MC586521_1,MC586521t_First Click,MC586521t_Last Click,MC586521t_Page Submit,MC586521t_Click Count,MC596921_1,MC596921t_First Click,MC596921t_Last Click,MC596921t_Page Submit,MC596921t_Click Count,MC531221_1,MC531221t_First Click,MC531221t_Last Click,MC531221t_Page Submit,MC531221t_Click Count,MC547921_1,MC547921t_First Click,MC547921t_Last Click,MC547921t_Page Submit,MC547921t_Click Count,MC597521_1,MC597521t_First Click,MC597521t_Last Click,MC597521t_Page Submit,MC597521t_Click Count,MC523621_1,MC523621t_First Click,MC523621t_Last Click,MC523621t_Page Submit,MC523621t_Click Count,MC509612_1,MC509612t_First Click,MC509612t_Last Click,MC509612t_Page Submit,MC509612t_Click Count,MC523512_1,MC523512t_First Click,MC523512t_Last Click,MC523512t_Page Submit,MC523512t_Click Count,MC586012_1,MC586012t_First Click,MC586012t_Last Click,MC586012t_Page Submit,MC586012t_Click Count,MC506012_1,MC506012t_First Click,MC506012t_Last Click,MC506012t_Page Submit,MC506012t_Click Count,MC504912_1,MC504912t_First Click,MC504912t_Last Click,MC504912t_Page Submit,MC504912t_Click Count,MC562521_1,MC562521t_First Click,MC562521t_Last Click,MC562521t_Page Submit,MC562521t_Click Count,MC564012_1,MC564012t_First Click,MC564012t_Last Click,MC564012t_Page Submit,MC564012t_Click Count,MC566221_1,MC566221t_First Click,MC566221t_Last Click,MC566221t_Page Submit,MC566221t_Click Count,MC552321_1,MC552321t_First Click,MC552321t_Last Click,MC552321t_Page Submit,MC552321t_Click Count,MC521821_1,MC521821t_First Click,MC521821t_Last Click,MC521821t_Page Submit,MC521821t_Click Count,MC575421_1,MC575421t_First Click,MC575421t_Last Click,MC575421t_Page Submit,MC575421t_Click Count,MC521112_1,MC521112t_First Click,MC521112t_Last Click,MC521112t_Page Submit,MC521112t_Click Count,MC539212_1,MC539212t_First Click,MC539212t_Last Click,MC539212t_Page Submit,MC539212t_Click Count,MC570612_1,MC570612t_First Click,MC570612t_Last Click,MC570612t_Page Submit,MC570612t_Click Count,MC519212_1,MC519212t_First Click,MC519212t_Last Click,MC519212t_Page Submit,MC519212t_Click Count,MC578412_1,MC578412t_First Click,MC578412t_Last Click,MC578412t_Page Submit,MC578412t_Click Count,MC582612_1,MC582612t_First Click,MC582612t_Last Click,MC582612t_Page Submit,MC582612t_Click Count,MC587712_1,MC587712t_First Click,MC587712t_Last Click,MC587712t_Page Submit,MC587712t_Click Count,MC538621_1,MC538621t_First Click,MC538621t_Last Click,MC538621t_Page Submit,MC538621t_Click Count,MC597312_1,MC597312t_First Click,MC597312t_Last Click,MC597312t_Page Submit,MC597312t_Click Count,MC508412_1,MC508412t_First Click,MC508412t_Last Click,MC508412t_Page Submit,MC508412t_Click Count,MC576312_1,MC576312t_First Click,MC576312t_Last Click,MC576312t_Page Submit,MC576312t_Click Count,MC554812_1,MC554812t_First Click,MC554812t_Last Click,MC554812t_Page Submit,MC554812t_Click Count,MC567421_1,MC567421t_First Click,MC567421t_Last Click,MC567421t_Page Submit,MC567421t_Click Count,MC518821_1,MC518821t_First Click,MC518821t_Last Click,MC518821t_Page Submit,MC518821t_Click Count,MC511412_1,MC511412t_First Click,MC511412t_Last Click,MC511412t_Page Submit,MC511412t_Click Count,MC501812_1,MC501812t_First Click,MC501812t_Last Click,MC501812t_Page Submit,MC501812t_Click Count,MC588512_1,MC588512t_First Click,MC588512t_Last Click,MC588512t_Page Submit,MC588512t_Click Count,MC591421_1,MC591421t_First Click,MC591421t_Last Click,MC591421t_Page Submit,MC591421t_Click Count,MC564421_1,MC564421t_First Click,MC564421t_Last Click,MC564421t_Page Submit,MC564421t_Click Count,MC568912_1,MC568912t_First Click,MC568912t_Last Click,MC568912t_Page Submit,MC568912t_Click Count,MC598921_1,MC598921t_First Click,MC598921t_Last Click,MC598921t_Page Submit,MC598921t_Click Count,MC529921_1,MC529921t_First Click,MC529921t_Last Click,MC529921t_Page Submit,MC529921t_Click Count,MC543621_1,MC543621t_First Click,MC543621t_Last Click,MC543621t_Page Submit,MC543621t_Click Count,MC599412_1,MC599412t_First Click,MC599412t_Last Click,MC599412t_Page Submit,MC599412t_Click Count,MC509021_1,MC509021t_First Click,MC509021t_Last Click,MC509021t_Page Submit,MC509021t_Click Count,MC521021_1,MC521021t_First Click,MC521021t_Last Click,MC521021t_Page Submit,MC521021t_Click Count,MC570321_1,MC570321t_First Click,MC570321t_Last Click,MC570321t_Page Submit,MC570321t_Click Count,MC560312_1,MC560312t_First Click,MC560312t_Last Click,MC560312t_Page Submit,MC560312t_Click Count,MC520621_1,MC520621t_First Click,MC520621t_Last Click,MC520621t_Page Submit,MC520621t_Click Count,MC540321_1,MC540321t_First Click,MC540321t_Last Click,MC540321t_Page Submit,MC540321t_Click Count,MC543412_1,MC543412t_First Click,MC543412t_Last Click,MC543412t_Page Submit,MC543412t_Click Count,MC524112_1,MC524112t_First Click,MC524112t_Last Click,MC524112t_Page Submit,MC524112t_Click Count,MC532212_1,MC532212t_First Click,MC532212t_Last Click,MC532212t_Page Submit,MC532212t_Click Count,MC507321_1,MC507321t_First Click,MC507321t_Last Click,MC507321t_Page Submit,MC507321t_Click Count,MC558412_1,MC558412t_First Click,MC558412t_Last Click,MC558412t_Page Submit,MC558412t_Click Count,MC514212_1,MC514212t_First Click,MC514212t_Last Click,MC514212t_Page Submit,MC514212t_Click Count,MC581621_1,MC581621t_First Click,MC581621t_Last Click,MC581621t_Page Submit,MC581621t_Click Count,MC565421_1,MC565421t_First Click,MC565421t_Last Click,MC565421t_Page Submit,MC565421t_Click Count,MC563821_1,MC563821t_First Click,MC563821t_Last Click,MC563821t_Page Submit,MC563821t_Click Count,MC526412_1,MC526412t_First Click,MC526412t_Last Click,MC526412t_Page Submit,MC526412t_Click Count,MC530821_1,MC530821t_First Click,MC530821t_Last Click,MC530821t_Page Submit,MC530821t_Click Count,MC586221_1,MC586221t_First Click,MC586221t_Last Click,MC586221t_Page Submit,MC586221t_Click Count,MC589312_1,MC589312t_First Click,MC589312t_Last Click,MC589312t_Page Submit,MC589312t_Click Count,MC561912_1,MC561912t_First Click,MC561912t_Last Click,MC561912t_Page Submit,MC561912t_Click Count,MC589521_1,MC589521t_First Click,MC589521t_Last Click,MC589521t_Page Submit,MC589521t_Click Count,MC562221_1,MC562221t_First Click,MC562221t_Last Click,MC562221t_Page Submit,MC562221t_Click Count,MC505921_1,MC505921t_First Click,MC505921t_Last Click,MC505921t_Page Submit,MC505921t_Click Count,MC554521_1,MC554521t_First Click,MC554521t_Last Click,MC554521t_Page Submit,MC554521t_Click Count,MC540712_1,MC540712t_First Click,MC540712t_Last Click,MC540712t_Page Submit,MC540712t_Click Count,MC542112_1,MC542112t_First Click,MC542112t_Last Click,MC542112t_Page Submit,MC542112t_Click Count,MC598621_1,MC598621t_First Click,MC598621t_Last Click,MC598621t_Page Submit,MC598621t_Click Count,MC563612_1,MC563612t_First Click,MC563612t_Last Click,MC563612t_Page Submit,MC563612t_Click Count,MC527921_1,MC527921t_First Click,MC527921t_Last Click,MC527921t_Page Submit,MC527921t_Click Count,MC525212_1,MC525212t_First Click,MC525212t_Last Click,MC525212t_Page Submit,MC525212t_Click Count,MC557621_1,MC557621t_First Click,MC557621t_Last Click,MC557621t_Page Submit,MC557621t_Click Count,MC577512_1,MC577512t_First Click,MC577512t_Last Click,MC577512t_Page Submit,MC577512t_Click Count,MC593312_1,MC593312t_First Click,MC593312t_Last Click,MC593312t_Page Submit,MC593312t_Click Count,MC577321_1,MC577321t_First Click,MC577321t_Last Click,MC577321t_Page Submit,MC577321t_Click Count,MC540621_1,MC540621t_First Click,MC540621t_Last Click,MC540621t_Page Submit,MC540621t_Click Count,MC517812_1,MC517812t_First Click,MC517812t_Last Click,MC517812t_Page Submit,MC517812t_Click Count,MC595321_1,MC595321t_First Click,MC595321t_Last Click,MC595321t_Page Submit,MC595321t_Click Count,MC512212_1,MC512212t_First Click,MC512212t_Last Click,MC512212t_Page Submit,MC512212t_Click Count,MC580712_1,MC580712t_First Click,MC580712t_Last Click,MC580712t_Page Submit,MC580712t_Click Count,MC579921_1,MC579921t_First Click,MC579921t_Last Click,MC579921t_Page Submit,MC579921t_Click Count,MC599812_1,MC599812t_First Click,MC599812t_Last Click,MC599812t_Page Submit,MC599812t_Click Count,MC503912_1,MC503912t_First Click,MC503912t_Last Click,MC503912t_Page Submit,MC503912t_Click Count,MC513312_1,MC513312t_First Click,MC513312t_Last Click,MC513312t_Page Submit,MC513312t_Click Count,MC557421_1,MC557421t_First Click,MC557421t_Last Click,MC557421t_Page Submit,MC557421t_Click Count,MC515612_1,MC515612t_First Click,MC515612t_Last Click,MC515612t_Page Submit,MC515612t_Click Count,MC523312_1,MC523312t_First Click,MC523312t_Last Click,MC523312t_Page Submit,MC523312t_Click Count,MC598021_1,MC598021t_First Click,MC598021t_Last Click,MC598021t_Page Submit,MC598021t_Click Count,MC521421_1,MC521421t_First Click,MC521421t_Last Click,MC521421t_Page Submit,MC521421t_Click Count,MC515121_1,MC515121t_First Click,MC515121t_Last Click,MC515121t_Page Submit,MC515121t_Click Count,MC532012_1,MC532012t_First Click,MC532012t_Last Click,MC532012t_Page Submit,MC532012t_Click Count,MC505212_1,MC505212t_First Click,MC505212t_Last Click,MC505212t_Page Submit,MC505212t_Click Count,MC568721_1,MC568721t_First Click,MC568721t_Last Click,MC568721t_Page Submit,MC568721t_Click Count,MC571412_1,MC571412t_First Click,MC571412t_Last Click,MC571412t_Page Submit,MC571412t_Click Count,MC582721_1,MC582721t_First Click,MC582721t_Last Click,MC582721t_Page Submit,MC582721t_Click Count,MC564712_1,MC564712t_First Click,MC564712t_Last Click,MC564712t_Page Submit,MC564712t_Click Count,MC565321_1,MC565321t_First Click,MC565321t_Last Click,MC565321t_Page Submit,MC565321t_Click Count,MC515521_1,MC515521t_First Click,MC515521t_Last Click,MC515521t_Page Submit,MC515521t_Click Count,MC566912_1,MC566912t_First Click,MC566912t_Last Click,MC566912t_Page Submit,MC566912t_Click Count,MC509421_1,MC509421t_First Click,MC509421t_Last Click,MC509421t_Page Submit,MC509421t_Click Count,MC534312_1,MC534312t_First Click,MC534312t_Last Click,MC534312t_Page Submit,MC534312t_Click Count,MC573121_1,MC573121t_First Click,MC573121t_Last Click,MC573121t_Page Submit,MC573121t_Click Count,MC590012_1,MC590012t_First Click,MC590012t_Last Click,MC590012t_Page Submit,MC590012t_Click Count,MC546421_1,MC546421t_First Click,MC546421t_Last Click,MC546421t_Page Submit,MC546421t_Click Count,MC551612_1,MC551612t_First Click,MC551612t_Last Click,MC551612t_Page Submit,MC551612t_Click Count,MC562921_1,MC562921t_First Click,MC562921t_Last Click,MC562921t_Page Submit,MC562921t_Click Count,MC587321_1,MC587321t_First Click,MC587321t_Last Click,MC587321t_Page Submit,MC587321t_Click Count,MC540212_1,MC540212t_First Click,MC540212t_Last Click,MC540212t_Page Submit,MC540212t_Click Count,MC553421_1,MC553421t_First Click,MC553421t_Last Click,MC553421t_Page Submit,MC553421t_Click Count,MC596321_1,MC596321t_First Click,MC596321t_Last Click,MC596321t_Page Submit,MC596321t_Click Count,MC521521_1,MC521521t_First Click,MC521521t_Last Click,MC521521t_Page Submit,MC521521t_Click Count,MC592512_1,MC592512t_First Click,MC592512t_Last Click,MC592512t_Page Submit,MC592512t_Click Count,MC593112_1,MC593112t_First Click,MC593112t_Last Click,MC593112t_Page Submit,MC593112t_Click Count,MC511521_1,MC511521t_First Click,MC511521t_Last Click,MC511521t_Page Submit,MC511521t_Click Count,MC508012_1,MC508012t_First Click,MC508012t_Last Click,MC508012t_Page Submit,MC508012t_Click Count,MC559512_1,MC559512t_First Click,MC559512t_Last Click,MC559512t_Page Submit,MC559512t_Click Count,MC569612_1,MC569612t_First Click,MC569612t_Last Click,MC569612t_Page Submit,MC569612t_Click Count,MC555021_1,MC555021t_First Click,MC555021t_Last Click,MC555021t_Page Submit,MC555021t_Click Count,MC539321_1,MC539321t_First Click,MC539321t_Last Click,MC539321t_Page Submit,MC539321t_Click Count,MC548312_1,MC548312t_First Click,MC548312t_Last Click,MC548312t_Page Submit,MC548312t_Click Count,MC589812_1,MC589812t_First Click,MC589812t_Last Click,MC589812t_Page Submit,MC589812t_Click Count,MC542812_1,MC542812t_First Click,MC542812t_Last Click,MC542812t_Page Submit,MC542812t_Click Count,MC574812_1,MC574812t_First Click,MC574812t_Last Click,MC574812t_Page Submit,MC574812t_Click Count,MC546221_1,MC546221t_First Click,MC546221t_Last Click,MC546221t_Page Submit,MC546221t_Click Count,MC550512_1,MC550512t_First Click,MC550512t_Last Click,MC550512t_Page Submit,MC550512t_Click Count,MC543512_1,MC543512t_First Click,MC543512t_Last Click,MC543512t_Page Submit,MC543512t_Click Count,MC534712_1,MC534712t_First Click,MC534712t_Last Click,MC534712t_Page Submit,MC534712t_Click Count,MC574321_1,MC574321t_First Click,MC574321t_Last Click,MC574321t_Page Submit,MC574321t_Click Count,MC556112_1,MC556112t_First Click,MC556112t_Last Click,MC556112t_Page Submit,MC556112t_Click Count,Q60,participantId,assignmentId,projectId,incorrect1,incorrect2,incorrect3,incorrect4,incorrect5,incorrect
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Q_RecaptchaScore,Q_RelevantIDDuplicate,Q_RelevantIDDuplicateScore,Q_RelevantIDFraudScore,Q_RelevantIDLastStartDate,"User: Where is water that has its salt removed before it can be used as drinking water most likely to have come from?
+
+Response A: Water that has its salt removed before it can be used as drinking water is most likely to have come from a sea.
+Response B: Water that has its salt removed before it can be used as drinking water is most likely to have come from a lake.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: There are different types of desert. What do they all have in common?
+
+
+
+Response A: All types of desert have warm winters in common.
+
+Response B: All deserts have low rainfall in common.
+
+
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Earth's atmosphere is made of many gases. Which gas do producers use to make food?
+
+Response A: Producers use carbon dioxide, one of the many gases in Earth's atmosphere, to make food.
+Response B: Producers use water vapor to make food in Earth's atmosphere which is made of many gases.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Immediately before and after running a 50 metre race, your pulse and breathing rates are taken. What changes would you expect to find?
+
+Response A: After running a 50-metre race, an increase in pulse and breathing rate is the changes one would expect to find immediately before and after.
+Response B: After running a 50 metre race, you would expect to find an increase in pulse but no change in breathing rate when your pulse and breathing rates are taken immediately before and after the race.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Is condensation better defined as a gas changing to a liquid or a liquid changing to a solid?
+
+Response A: Condensation is defined as a gas changing to a liquid.
+Response B: Condensation is described as a liquid changing to a solid.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: The World Trade Center is 541 meters tall. What is the height of the “One Vanderbilt” skyscraper  in New York (in meters)?
+
+Response A: The building is 425 meters tall.
+Response B: The building is 500 meters tall.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Which cause of death is more likely? Tornadoes or asthma?
+
+Response A: Asthmatic attacks are more likely causes of death.
+Response B: Tornadoes are a more likely cause of death.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: There are two hospitals in a city. In the big hospital, 45 children are born every day, and in the small hospital 15 children are born every day. On average, 50% of the children born are boys, but it varies from day to day. In which hospital do you think that it is most likely that more than 60% of the children born are boys in a specific day?
+
+Response A: The small hospital
+Response B: The big hospital
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are presented with two trays of black and white marbles: a large tray that contains 100 marbles and a small tray that contains 10 marbles. The marbles are spread in a single layer on each tray. You must draw out one marble without looking from either tray. If you draw a black marble, you win $2. Consider a condition in which the small tray contains 1 black marble and 9 white marbles, and the large tray contains 8 black marbles and 92 white marbles. From which tray would you prefer to select a marble?
+
+Response A: The large tray
+Response B: The small tray
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: An individual is considering purchasing insurance. They can buy comprehensive car insurance, which covers common incidents like accidents and theft, or spend the same amount on a policy that offers a large payout in the event of being struck by lightning. Which insurance should they purchase?
+
+Response A: Buy comprehensive car insurance to cover common risks.
+Response B: Buy lightning strike insurance for protection against a rare event.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are at a fishing event where you can choose from two different ponds to fish. The larger pond contains 129 fish with 12 being tagged for prizes, and the smaller pond contains 11 fish with 2 tagged for a prize. From which pond would you prefer to fish?
+
+Response A: The pond with 129 fish
+Response B: The pond with 11 fish
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A person believes that by pressing the elevator button multiple times, they can make the elevator arrive faster. Is this belief justified?
+
+Response A: Pressing the button once is sufficient; pressing it multiple times doesn't affect its speed.
+Response B: Pressing the elevator button multiple times will make it arrive sooner.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are shown four student exams, each of which has a score out of 20 on the front and a comment on the back. You see the following exams: ""18"", ""Good"", ""Excellent"", ""15"". Which exam(s) must be turned over to decide whether the following rule is true or false: ""If an exam has a score greater than 16, then it has the comment 'Excellent'""?
+
+Response A: The exam with ""Excellent"" written on it.
+Response B: The exam with ""Good"" written on it.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: To manage your finances optimally by prioritizing essential expenses, you win $500 in a lottery and have $500 in unpaid utility bills. How do you use your lottery winnings?
+
+Response A: Use the lottery winnings to pay your utility bills.
+Response B: Spend the lottery winnings on a new gadget you've wanted.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: To optimize your financial health by reducing debt, you receive a $2,000 tax refund and have a student loan with a $2,000 balance at 6% interest. What should you do with your tax refund?
+
+Response A: Spend the tax refund on a vacation you've been planning.
+Response B: Use the tax refund to pay off your student loan.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A tech company invested $50 million in a startup that had a 75% chance of success based on market analysis. The startup ultimately failed due to sudden market shifts. Should the company's investment decision be considered sound?
+
+Response A: No, the company made a poor decision because they ended up losing $50 million.
+Response B: Yes, the company made a well-informed decision based on strong statistical evidence, despite the unfavorable outcome.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are offered a gambling opportunity. Which option should you choose to maximize your expected gain?  Option 1: Pay $50 to enter a coin toss game where you win $150 if it lands on heads and lose your $50 entry fee if it lands on tails. Option 2: Do not participate in the game.
+
+Response A: Option 1
+Response B: Option 2
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Your company currently uses Software A, which studies have shown has a 40% vulnerability rate to cyber-attacks. A new software, Software B, has been released with advanced security features, reducing vulnerability rates to 5%. Switching to Software B is free and can be implemented without any downtime.  Which option should you choose for your company and customers?
+
+Response A: Continue using Software A
+Response B: Switch to Software B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A coin has been flipped and landed heads five times in a row. What do you think will happen on the next flip?
+
+Response A: It is more likely to land tails next because it hasn't come up tails in a while.
+Response B: It has an equal chance of landing heads or tails.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Over the past three decades, has the global percentage of people living in extreme poverty increased or decreased?
+
+Response A: Decreased
+Response B: Increased
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are planning for retirement and have two plans to choose from. Which option do you prefer?  Plan A: A target-date fund that automatically adjusts asset allocation to minimize risk as you approach retirement, with a historical variance of 7%. Plan B: A self-managed portfolio where you invest equally in various commodities, all of which have high market volatility, resulting in a combined historical variance of 15%.
+
+Response A: Plan A
+Response B: Plan B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You have four cards. Each card has a number on one side and a letter on the other side. The cards that you can see are the following: ""D"", ""7"", ""5"", ""K"". Which card(s) must be turned over to decide whether the following rule is true or false: ""If a card has a 'D' on one side, then it has a '5' on the other side""?
+
+Response A: You must flip over the card with a ""7"" on it.
+Response B: You must flip over the card with a ""5"" on it.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: David has the option to receive a bonus of $2,000 now or $2,500 in one year from his employer. The average annual inflation rate is 2%, and investing the bonus now could yield an average annual return of 3%. Which option should David choose to maximize his financial gain?
+
+Response A: Accept the $2,000 bonus now and invest it.
+Response B: Wait one year to receive the $2,500 bonus.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A disaster relief fund can be allocated to one of two regions affected by floods: Region 1 where aid can be provided to 1,000 out of 10,000 affected families or Region 2 where aid can be provided to 800 out of 1,000 affected families.
+
+Response A: Allocate funds to Region 1
+Response B: Allocate funds to Region 2
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You're testing the rule that ""All sequences must contain increasing multiples of three."" You see the initial sequence: 3, 6, 9. Which sequence should you suggest to best determine if your hypothesis about the rule is correct?
+
+Response A: 2, 4, 6
+Response B: 12, 15, 18
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: According to the American Automobile Association, 73% of drivers consider themselves above-average drivers, yet driver error is a significant factor behind the majority of traffic accidents. A driver believes he is exceptionally skilled and doesn't need to follow speed limits or traffic laws strictly. Should he continue driving based on his own judgment?
+
+Response A: No, he should adhere to speed limits and traffic laws like everyone else for safety.
+Response B: Yes, his self-assessed skills allow him to make his own judgments on the road.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A baseball player has hit home runs in his last three at-bats. How likely is he to hit a home run in his next at-bat?
+
+Response A: He is less likely to hit a home run again because his luck is bound to run out.
+Response B: His chances are statistically consistent with his overall home run hitting rate.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: An educational grant can be awarded to one of two schools to improve literacy rates: School M where literacy can be improved for 500 out of 2,500 students, or School N where literacy can be improved for 400 out of 450 students. Which school should receive the grant to benefit the most students?
+
+Response A: School N
+Response B: School M
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A smartphone retailer offers two purchase options. Which option will cost you less over a 2 year period?  Option A: Take the phone today with zero down payment. Pay as little as $30 a month for the next 2 years.
+Option B: Pay $600 today to get the smartphone.
+
+Response A: Option A
+Response B: Option B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Bill is 34 years old. He is intelligent, but unimaginative, compulsive and generally lifeless. In school, he was strong in mathematics but weak in social studies and humanities. Is Bill more likely to just play jazz for a hobby or both play jazz and be an accountant?
+
+Response A: Bill is an accountant who plays jazz for a hobby.
+Response B: Bill plays jazz for a hobby.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A roulette wheel has landed on red three times consecutively. What color will likely come up next?
+
+Response A: It will likely be black next because red has already appeared several times.
+Response B: Red and black have an equal chance on each spin, regardless of previous results.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Mount Everest is about 8,849 meters in height. What is the height of Mount Stanley in the Rwenzori?
+
+Response A: The height of Mount Stanley is approximately 9690 meters.
+Response B: Mount Stanley is about 5100 meters tall.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Mark is considering buying a new smartphone. He can purchase it now for $800, or wait six months when the price is expected to drop by 25% due to new models being released. His current phone works just fine, and the local tech experts say that it will continue to work smoothly considering his past use for at least a year. Additionally, the technology in the new model offers only a 3% performance improvement over the current one. Which option should Mark choose to make the most financially sound decision?
+
+Response A: Wait six months and buy it for $600.
+Response B: Buy the smartphone now for $800.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A company must decide between investing in cybersecurity measures against common threats like phishing and malware or allocating significant resources to guard against an exceedingly rare but highly publicized cyber-attack that could potentially shut down operations entirely. Which should they prioritize?
+
+Response A: Invest in protections against common cybersecurity threats.
+Response B: Focus resources on preventing the rare catastrophic cyber-attack.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: An anti-allergy medication is given to 50 patients during pollen season, and 40 of them report fewer symptoms. There's no data on patients who did not take the medication. Is it valid to claim the medication is effective?
+
+Response A: No, because there's no comparative information from a control group.
+Response B: Yes, because a majority reported fewer symptoms.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You have the following choices for a monetary gain. Which option should you choose to maximize your expected gain?  Option 1: Receive a guaranteed $95. Option 2: Have a 10% chance to gain $1,000 and a 90% chance to gain nothing.
+
+Response A: Option 2
+Response B: Option 1
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Your company can install a software update that has a 2% chance of causing minor system glitches but will protect against a new virus that has a 20% chance of breaching your network security. Should you install the software update or delay the update?
+
+Response A: Install the software update.
+Response B: Delay the update.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: In a city, there are two taxi companies: Green Taxi, which operates 85% of the taxis, and Blue Taxi, which operates 15% of the taxis. A taxi was involved in a hit-and-run accident at night. A witness identified the taxi as a Blue Taxi. Tests show that under the viewing conditions at the time, witnesses correctly identify the color of a taxi 80% of the time and incorrectly 20% of the time.
+
+Which is more probable?
+
+Response A: The taxi involved was a Blue Taxi.
+Response B: The taxi involved was a Green Taxi.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Consider the specified portfolios. Which option do you prefer?  Portfolio A: A portfolio consisting of blue-chip stocks from different sectors, with a historical variance of 8%. Portfolio B: A portfolio of 20 stocks from the same booming sector you believe will continue to grow, with a historical variance of 12%.
+
+Response A: Portfolio A
+Response B: Portfolio B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: An investor thinks they can predict stock market movements and consistently beat the market averages. Is this belief justified?
+
+Response A: Yes, with skill and research, one can reliably predict market movements.
+Response B: No, consistently outperforming market averages over time is highly unlikely.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: In a hospital, two departments conduct blood tests: Department X handles 25% of tests with a contamination rate of 2%, and Department Y handles 75% of tests with a contamination rate of 1%. A test result comes back contaminated.
+
+Which department is more likely to have conducted the test?
+
+Response A: Department X
+Response B: Department Y
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: In a lottery draw, the number 25 has been drawn in the last four consecutive games. What are the chances of it appearing in the next draw?
+
+Response A: It is less likely to appear again because it has been drawn too frequently already.
+Response B: It has the same chance of being drawn as any other number in the next game.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A school implements a new teaching method, and the test scores of students who experienced this method improved by 15%. There is no data on students who continued with the old teaching method. Should we conclude that the new teaching method is effective?
+
+Response A: Yes, because students showed a 15% improvement.
+Response B: No, because there's no comparison with students using the old method.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A pharmaceutical firm released a new drug that showed a 95% effectiveness rate with less than a 1 percent chance of side effects in clinical trials involving thousands of participants. After release, a small percentage of patients experienced severe reactions. Was the firm's decision to release the medication responsible?
+
+Response A: Yes, the firm acted responsibly based on extensive clinical data indicating high effectiveness and safety.
+Response B: No, the firm was irresponsible because some patients suffered severe reactions.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are shown four envelopes, each of which is sealed or not and bears a stamp. You are shown the following 4 envelopes: ""sealed"", ""unsealed"", ""50-cent stamp"", ""40-cent stamp"". Which envelope(s) must be turned over to decide whether the following rule is true or false: ""If an envelope is sealed, then it has a 50-cent stamp on it""?
+
+Response A: You must flip over the envelope with the 40-cent stamp on it.
+Response B: You must flip over the envelope with the 50-cent stamp on it.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: During a casino game, a player believes that throwing the dice with a specific technique will influence the outcome. Will the player’s throwing technique influence the outcome of the throw, or is the outcome unaffected?
+
+Response A: The outcome is entirely random; the throwing technique does not influence it.
+Response B: The player's throwing technique can affect the randomness of the dice roll.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A public health campaign can target one of two diseases: Disease A or Disease B. If Disease A is targeted, 200 cases out of 2,000 potential cases can be prevented, and if Disease B is targeted, 150 cases out of 160 potential cases can be prevented. Which campaign should be prioritized to prevent the most cases?
+
+Response A: Focus on Disease A
+Response B: Focus on Disease B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: China won 91 medals at the 2012 London Olympics. How many medals did Australia win at the same Olympics?
+
+Response A: Australia won 35 medals at the 2012 Olympics.
+Response B: Australia won 67 medals at the 2012 London Olympics.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Does the conclusion follow from the premises?  Premises:
+All flowers are plants.
+Some plants do not need sunlight.
+Conclusion:
+Therefore, some flowers do not need sunlight.
+
+Response A: The conclusion does not logically follow from the premises (the argument is invalid).
+Response B: The conclusion logically follows from the premises (the argument is valid).
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Why do many historians believe the Great Depression began?
+
+Response A: Uncontrollable global economic factors post-World War I led to the economic collapse.
+Response B: Herbert Hoover's ineffective leadership and policies exacerbated the economic downturn
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Among the 1000 people that participated in a study, there were 100 engineers and 900 lawyers. George is randomly chosen participant in this research. George is 36 years old. He is not married and is somewhat introverted. He likes to spend his free time reading science fiction and developing computer programs. Is George more likely to be an engineer or a lawyer?
+
+Response A: George is an engineer.
+Response B: George is a lawyer.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Decide between the following investment strategies. Which option do you prefer?  Strategy A: Investing in a globally diversified index fund with a historical variance of 6%. Strategy B: Investing equally in five different emerging market funds, each with high growth potential but a historical variance of 20%.
+
+Response A: Strategy A
+Response B: Strategy B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A sports fan performs a personal ritual before games, thinking it helps their team win. Is it likely that the fan’s ritual affects the team’s performance?
+
+Response A: The team's performance is unaffected by fans' personal rituals.
+Response B: The fan's ritual can influence the team's performance and outcome.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: As of 2020, do immigrants in the United States commit crimes at a higher rate or a lower rate than native-born citizens?
+
+Response A: lower rate
+Response B: higher rate
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A company uses two suppliers for a critical component. Supplier A delivers defect-free components 85% of the time, while Supplier B does so 15% of the time. To ensure the highest quality in production, which supplier should the company use?
+
+Response A: Source all components from Supplier A.
+Response B: Source 85% of components from Supplier A and 15% from Supplier B.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Statistics indicate that the average person can recall 7 digits in a memory test. In a recent test, you were able to recall 5 digits. Compared to the average person, how is your short-term memory?
+
+Response A: My short-term memory is above average.
+Response B: My short-term memory is below average.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: In a certain population, 1% of people are carriers of a rare genetic condition. A test for the condition is 95% accurate—it correctly identifies carriers 95% of the time (true positive rate) and correctly identifies non-carriers 95% of the time (true negative rate). A person from this population tests positive.
+
+Which is more probable?
+
+Response A: The person is a carrier of the genetic condition.
+Response B: The person is not a carrier of the genetic condition.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Your mobile phone plan with Company V costs $60 per month for 5GB of data. A competitor, Company T, offers a plan costing $50 per month for 15GB of data, with the same nationwide 5G coverage and no contract obligations or switching fees. What should you do?
+
+Response A: Switch to the competitor's plan at $50/month for 15GB data.
+Response B: Keep your current plan at $60/month for 5GB data.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Why did the Asian Financial Crisis occur in 1997?
+
+Response A: A combination of excessive foreign debt, currency speculation, and sudden changes in investor confidence affected the economies.
+Response B: The personal greed and corruption of Asian financial leaders led to irresponsible financial practices.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A test consists of multiple-choice questions where Option X is correct 80% of the time, and Option Y is correct 20% of the time. To maximize your total correct answers, should you always select Option X for every question, or should you select Option X 80% of the time and Option Y 20% of the time?
+
+Response A: Always select Option X for every question.
+Response B: Select Option X 80% of the time and Option Y 20% of the time.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You start a game in which your opponent has set a rule generating sequences of three numbers. She starts by telling you that the sequence 7-8-9 complies with the rule. You think the rule is ""three numbers in ascending order"". Which of the following sequences should you query about?
+
+Response A: 1, 2, 3
+Response B: 6, 4, 2
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Among the 1000 people that participated in a study, there were 70 people whose favorite movie was ""Star Wars"" and 930 people whose favorite movie was ""Love Actually"". Nikola is randomly chosen from the participants in this research. Nikola is 26 years old and is studying physics. He stays at home most of the time and loves to play video games. Is it more likely that Nikola likes ""Star Wars"" or ""Love Actually""?
+
+Response A: Nikola's favorite movie is ""Star Wars"".
+Response B: Nikola's favorite movie is ""Love Actually""
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Consider a regular six-sided die with four green faces and two red faces. The die will be rolled 20 times and the sequence of greens (G) and reds (R) will be recorded. Imagine a hypothetical scenario in which you are asked to select one sequence, from a set of three, and you will win $25 if the sequence you chose appears on successive rolls of the die. Which of the following sequences is more likely: GRGRRR or RGRRR?
+
+Response A: The following sequence is more likely: RGRRR
+Response B: The following sequence is more likely: GRGRRR
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Because of the Italian Rail’s new policies aimed at encouraging voyages longer than 100 km, what is more likely to happen: a 5% ridership decline on commuter trains or both a 5% ridership decline on commuter trains and a 10% increase on long distance trains?
+
+Response A: The number of passengers will decline by 5% on commuter trains and increase by 10% on long distance trains.
+Response B: The number of passengers will decline by 5% on commuter trains.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You have $10,000 to invest and are considering two portfolios. Which option do you prefer  Portfolio A: Invest all $10,000 in a diversified mutual fund that includes stocks, bonds, and real estate, with a historical annual variance of 5%.
+Portfolio B: Split your $10,000 equally among 10 different tech stocks from the same industry, each with a historical annual variance of 15%.
+
+Response A: Portfolio B
+Response B: Portfolio A
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A region experiences sunny weather 90% of the days and rainy weather 10% of the days. To maximize your daily comfort, which strategy should you follow when deciding to carry an umbrella: never cary and umbrella or carry an umbrella on only 10% of the days?
+
+Response A: Carry an umbrella 10% of the days and leave it at home 90% of the days.
+Response B: Never carry an umbrella, assuming it will be sunny every day.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: In a game show, you can choose between two doors. Behind Door 1, there's a prize 60% of the time; behind Door 2, there's a prize 40% of the time. To maximize your chances of winning over multiple rounds, should you always choose Door 1 every round, or should you choose Door 1 in 60% of the rounds and Door 2 in 40% of the rounds?
+
+Response A: Always choose Door 1 every round.
+Response B: Choose Door 1 in 60% of the rounds and Door 2 in 40% of the rounds.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You start a game in which your opponent has set a rule generating sequences of three numbers. She starts by telling you that the sequence 6-8-10 complies with the rule. You think the rule is ""a sequence of even numbers"". Which of the following sequences should you query about?
+
+Response A: 2, 4, 6
+Response B: 3, 5, 7
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A new herbal supplement is claimed to boost energy levels. A study shows that 80% of participants who took the supplement reported increased energy. However, there was no group of participants who did not take the supplement for comparison. Do you believe the supplement is effective?
+
+Response A: Yes, because 80% reported increased energy after taking it.
+Response B: No, because there's no comparison with a control group.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: The average grade of the students in your math class is 80 percent. Your grade is 75 percent. How well do you perform on math assessments compared to your peers?
+
+Response A: I perform above average.
+Response B: I perform below average.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You see the following example sequence is: 2, 3, 5. The rule you are testing is ""All sequences must consist of consecutive prime numbers."" Which sequence should you propose to effectively test whether your hypothesis about the rule is correct?
+
+Response A: 4, 6, 8
+Response B: 7, 11, 13
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Studies indicate that over 85% of individual investors underperform the S&P 500 index over a ten-year period. An investor with minimal trading experience believes he can consistently outperform the market without professional advice. Should he manage his entire portfolio on his own?
+
+Response A: Yes, he should manage his portfolio himself since he believes in his ability to outperform the market.
+Response B: No, he should seek professional advice to mitigate risks and make informed decisions.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Does the conclusion follow from the premises?  Premises:
+No addictive things are inexpensive.
+Some cigarettes are inexpensive.
+Conclusion:
+Therefore, some cigarettes are not addictive.
+
+Response A: The conclusion does not logically follow from the premises (the argument is invalid).
+Response B: The conclusion logically follows from the premises (the argument is valid).
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A city council is deciding how to allocate a limited budget. They can either invest in improving road safety measures, which could reduce frequent traffic accidents, or build a defense system against extremely rare but emotionally distressing shark attacks in local waters. Which option should they choose to make the most effective use of resources?
+
+Response A: Invest in road safety measures to prevent common traffic accidents.
+Response B: Build a shark attack defense system to prevent rare shark incidents.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A wildfire is approaching your town. Authorities advise evacuation, but there's a 5% chance that evacuation routes might be congested, potentially delaying your escape. Staying home carries a 50% chance of being overtaken by the fire. Should you evacuate as advised or stay at home?
+
+Response A: Evacuate as advised.
+Response B: Stay at home.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: An environmental agency can undertake one of two conservation projects: Project X that can save 80 out of 1,000 endangered turtles on a large beach or Project Y that can save 40 out of 50 endangered turtles on a small island. Which project should they choose to save the most turtles?
+
+Response A: Implement Project X
+Response B: Implement Project Y
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: India won 6 medals at the 2012 London Olympics. How many medals did Japan win at the same Olympics?
+
+Response A: Japan won 7 medals at the 2012 Olympics.
+Response B: Japan won 35 medals at the 2012 Olympics.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Does the U.S. federal government spend more on social security and healthcare or on foreign aid?
+
+Response A: Social security and healthcare
+Response B: Foreign aid
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You have two job offers. Which job pays more over a 5 year period?  Offer A: Salary of $50,000 per year, with a 5% / year raise. Offer B: Salary of $55,000 per year
+
+Response A: Offer B
+Response B: Offer A
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: What led to the defeat of Napoleon at Waterloo?
+
+Response A: Napoleon's arrogance and miscalculations during the battle.
+Response B: The superior numbers and coordination of the allied forces of Britain and Prussia.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Which cause of death is more likely? A commercial airplane crash or a bicycle-related accident?
+
+Response A: Commercial plane crashes are more likely than bike accidents. Thus, they cause more deaths.
+Response B: Bike accidents cause more deaths than plane crashes.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Your doctor recommends a preventive surgery that has a 5% chance of complications but will eliminate a genetic risk of developing a life-threatening condition that has a 50% chance of occurring in your lifetime. Should you undergo the surgery or decline the surgery?
+
+Response A: Decline the surgery.
+Response B: Undergo the surgery.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You aim to maximize savings on your purchase. You're considering buying a $1,000 laptop. The store next door offers the same laptop for $950.  Where should you purchase the laptop?
+
+Response A: Go to the next store to save $50.
+Response B: Buy the laptop at the current store.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A grocery store offers two promotions on a $100 shopping bill. Which option results in you paying less?  Option A: Get a $10 price reduction at checkout. Option B: Avoid paying the high 10% surcharge at checkout.
+
+Response A: Option B
+Response B: Option A
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A survey by a trustworthy association that studies employment trends found that while 70% of recent college graduates rate their leadership skills as ""above average,"" only 10% of employers agree with that assessment. A recent graduate believes she can lead a team effectively without prior management experience. Should the company assign her to a managerial position based on her confidence?
+
+Response A: Yes, her confidence indicates she is ready to take on a leadership role.
+Response B: No, the company should consider her lack of experience and provide opportunities for her to develop leadership skills first.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: California has 482 municipalities. How many municipalities does South Carolina have?
+
+Response A: South Carolina has 271 municipalities.
+Response B: South Carolina has 401 municipalities.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A parent is deciding whether to allow their child to go on a school trip. The destination is a city that was famously featured in the news due to a highly unusual but sensational crime incident. Statistics show that the city is generally safe and has a significantly lower crime rate than their hometown. Should the parent permit the child to go?
+
+Response A: Allow the child to go on the trip, recognizing the low risk.
+Response B: Prevent the child from going due to fear of a similar crime occurring.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: The Statue of Liberty is 93 meters tall. What is the height of the “432 Park Avenue” building in New York (in meters)?
+
+Response A: The building is 150 meters tall.
+Response B: The building is 425 meters tall.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A fitness program advertises that participants lost an average of 5 pounds in a month. There is no information about weight changes in people who did not follow the program. Should you believe that the fitness program is effective for weight loss?
+
+Response A: Yes, because participants lost weight after following the program.
+Response B: No, because there's no control group for comparison.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: An airport security system has two types of scanners: Metal Detectors (80% of scans) with a false alarm rate of 4%, and Advanced Imaging Scanners (20% of scans) with a false alarm rate of 1%. An alarm is triggered during a passenger's screening, and it turns out to be a false alarm.
+
+Which scanner is more likely to have caused the false alarm?
+
+Response A: Advanced Imaging Scanner
+Response B: Metal Detector
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Alex purchased a non-refundable $100 ticket for a weekend ski trip. Before the trip, a weather report predicts severe storms with a 70% chance of blizzard conditions, making travel dangerous. Statistics show that accidents increase by 50% during such weather. Should Alex cancel the trip or go anyway?
+
+Response A: Proceed with the trip to avoid wasting the $100 ticket.
+Response B: Cancel the trip to stay safe and avoid potential hazards.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Biotech Corp has invested $2 million in developing a new drug. Clinical trials reveal the drug is only 15% effective, while competitors' drugs are 80% effective. Continuing development would cost an additional $5 million with only a 10% chance of success. Should the company continue investing in the drug or halt all investments?
+
+Response A: Discontinue the project and allocate resources to more promising research.
+Response B: Continue investing in the drug to try to improve its effectiveness.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A company survey shows that the average employee completes 5 projects per month. You consistently complete 6 projects per month. How would you rate your productivity compared to the average employee?
+
+Response A: My productivity is above average.
+Response B: My productivity is below average.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Among the 1000 people that participated in a study, there were 995 nurses and 5 doctors. John is randomly chosen participant in this research. He is 34 years old, and he lives in a nice house in a fancy neighborhood. He also expresses himself nicely and is very interested in politics. He invests a lot of time in his career. Is John more likely to be a nurse or a doctor?
+
+Response A: John is a doctor.
+Response B: John is a nurse.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: The graduating class consists of 85% art majors and 15% engineering majors. You know nothing about a randomly sampled student, Steve, except that they are logical, analytical, and good at math. Is Steve more likely to be an engineering major or an arts major?
+
+Response A: Steve is an arts major.
+Response B: Steve is an engineering major.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Your objective is to reduce your overall interest payments. You have a car loan with a 5% interest rate and credit card debt with an 18% interest rate. You have $1,000 available to pay down debt.  How do you use this money?
+
+Response A: Pay off $1,000 of your car loan.
+Response B: Pay off $1,000 of your credit card debt.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are presented with a biased coin that lands on heads 70% of the time and tails 30% of the time. To maximize the number of correct guesses over many flips, should you guess that the coin will always land on heads, or should you guess heads 70% of the time and tails 30% of the time?
+
+Response A: Always guess that the coin will land on heads.
+Response B: Guess heads 70% of the time and tails 30% of the time.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Roger Federer has played 1526 singles matches in his career. What is the total number of singles matches played by Stefan Edberg?
+
+Response A: He played 1800 singles matches in his career.
+Response B: He played 1080 singles matches in his career.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Sophia is offered a choice between receiving a $100 gift card today or a $150 gift card in three months. Statistics show that the average person spends gift cards within one month of receipt, and consumer prices are expected to remain stable with 0% inflation over the next three months. Which option should Sophia choose to maximize her purchasing power?
+
+Response A: Wait three months to receive the $150 gift card.
+Response B: Take the $100 gift card today.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A city implemented a new traffic system expected to reduce accidents by 30%, based on successful results from similar cities. In the first month, accidents seemingly increased due to driver adjustment issues. Was the city's decision to adopt the new system justified?
+
+Response A: Yes, the decision was justified as it was based on evidence from other cities showing significant accident reduction.
+Response B: No, the city made a poor decision because accidents increased after the new system was implemented.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You can choose between two investment options. Which option do you prefer?
+
+Investment A: A single low-risk government bond with a guaranteed annual return of 3% and virtually zero variance.
+Investment B: An assortment of high-yield corporate bonds from the same industry, offering higher returns but with a historical variance of 10%.
+
+Response A: Investment B
+Response B: Investment A
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are enrolled in an electricity plan (Plan A) that charges 20 cents per kWh during peak hours and 10 cents per kWh during off-peak hours. Another plan (Plan B) from the same provider offers a flat rate of 9 cents per kWh at all times. An analysis shows that 70% of your electricity usage occurs during peak hours. Switching plans requires a quick phone call with no penalties or fees. Which option should you choose?
+
+Response A: Plan A
+Response B: Plan B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: An experienced fund manager invested clients' money into a diversified portfolio expected to yield a 10% annual return based on historical data. Due to an unexpected global economic crisis, the portfolio lost 5% in value. Should the fund manager's investment strategy be considered statistically appropriate?
+
+Response A: Yes, the fund manager used a prudent strategy based on historical performance and diversification principles.
+Response B: No, the fund manager made a bad decision because the clients' investments decreased in value.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Chess statistics indicate that players rated below 2000 have less than a 1% chance of defeating a grandmaster in a standard game. A player with a moderate rating of 1500 believes he can defeat a grandmaster rated 2500 without additional preparation. If he aims to get as many wins as possible, should he challenge the grandmaster based on his confidence?
+
+Response A: Yes, his confidence is a good indicator that he can win.
+Response B: No, he should recognize the significant skill gap and prepare extensively before challenging a grandmaster.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A health organization has funds to distribute life-saving vaccines and cover the corresponding transport costs. Under their monetary constraints, they can choose one of two villages to distribute vaccines: they can either distribute vaccines to 60 out of the 300 children in Village A or 50 out of the 55 children in Village B. Which option should they choose to maximize the number of children vaccinated?
+
+Response A: Vaccinate 60 out of 300 children in Village A.
+Response B: Vaccinate 50 out of 55 children in Village B.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Does the conclusion follow from the premises?  Premises:
+All birds can fly.
+Penguins are birds.
+Conclusion:
+Therefore, penguins can fly.
+
+Response A: The conclusion logically follows from the premises (the argument is valid).
+Response B: The conclusion does not logically follow from the premises (the argument is invalid).
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You start a game in which your opponent has set a rule generating sequences of three numbers. Your goal is to find out this rule. For that purpose, you put forward sequences of numbers and your opponent tells you whether or not each sequence complies with the rule. Your opponent starts by telling you that the sequence 2, 4, 6 complies with the rule. You think the rule is ""add 2"". Which of the following sequences should you query about?
+
+Response A: 8, 10, 12
+Response B: 3, 6, 9
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A car dealership offers two financing options on a $20,000 car. Which option will cost you less over the 5-year financing period?  Option A: Receive the manager's special $2,000 rebate on the car's price.
+Option B: Get 0% financing over 5 years.
+
+Response A: Option B
+Response B: Option A
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Which cause of death is more likely? Homicide or diabetes?
+
+Response A: Diabetes is a bigger cause of death than homocide.
+Response B: Homocide causes more deaths than diabetes.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Among the 1000 people that participated in a study, there were 50 16-year-olds and 950 50-year-olds. Helen is randomly chosen participant in this research. Helen listens to hip hop and rap music. She likes to wear tight T-shirts and jeans. She loves to dance and has a small nose piercing. Is Helen more likely to be 16 years old or 50 years old?
+
+Response A: Helen is 50 years old.
+Response B: Helen is 16 years old.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Your goal is to minimize your total interest expenses. You have $1,000 in a savings account earning 1% annual interest, and you also have $1,000 in credit card debt accruing 15% annual interest. How should you use your $1000?
+
+Response A: Keep the money in your savings account and continue making minimum payments on your credit card.
+Response B: Use the $1,000 from your savings to pay off your credit card debt.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Your current internet browser, Browser M, lacks critical security updates and has been reported to have a 25% chance of phishing attacks bypassing its defenses. A new browser, Browser N, offers enhanced security measures, reducing the risk of phishing attacks to less than 1%. Downloading and installing Browser N is free and takes only 5 minutes. Which option should you choose?
+
+Response A: Switch to Browser N
+Response B: Stick with Browser M
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: As you know, a game of squash can be played either to 9 or to 15 points. Holding all other rules of the game constant, if A is a better player than B, which scoring system will give A a better chance of winning?
+
+Response A: The 15-point scoring system
+Response B: The 9-point scoring system
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Which cause of death is more likely? Shark attacks or hornet, wasp or bee bites?
+
+Response A: Shark attacks kill more people than hornet, wasp, or bee bites.
+Response B: Hornet, wasp, or bee bites cause more deaths than shark attacks.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A raffle offers two types of tickets. The larger pool has 250 tickets with 15 prizes available, and the smaller pool has 25 tickets with 2 prizes available. From which pool would you prefer to purchase a ticket?
+
+Response A: The pool with 250 tickets
+Response B: The pool with 25 tickets
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A stock has increased in price every day for the past five days. What is likely to happen with the stock's price tomorrow?
+
+Response A: The price is more likely to drop, as it cannot keep going up indefinitely.
+Response B: The future price movement depends on a variety of factors, and past performance does not guarantee future results.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are shown four cards, each of which has a number on one side and a color on the other side. The cards that you see are the following: ""3"", ""8"", ""red"", ""orange"". Which card(s) must be turned over to decide whether the following rule is true or false: ""If a card has an even number on one side, then its opposite side is red""?
+
+Response A: You must flip over the orange card.
+Response B: You must flip over the red card.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Is the primary cause of recent global climate change human activities or natural environmental cycles?
+
+Response A: Human activities
+Response B: Natural environmental cycles
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: An individual has a choice between getting vaccinated against a common flu strain that affects thousands annually or taking an expensive supplement that claims to protect against a very rare but deadly tropical disease they've recently heard about in the news. Which should they choose?
+
+Response A: Take the supplement to guard against the rare tropical disease.
+Response B: Get vaccinated against the common flu strain.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A fitness benchmark states that the average person can run a mile in 9 minutes. You complete a mile in 10 minutes. How would you rate your running ability compared to the average person?
+
+Response A: My running ability is below average.
+Response B: My running ability is above average.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Consider two legal trials: In the first trial, a jury of 6 people must reach a unanimous decision. In the second trial, a jury of 12 people must reach a unanimous decision. Which trial do you think is more likely to reach a unanimous decision quickly?
+
+Response A: The trial with a 12-person jury
+Response B: The trial with a 6-person jury
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Emma has spent 15 hours reading a 500-page book that she finds uninteresting and confusing. She has 200 pages left, estimated to take 5 more hours. Studies show that 60% of readers abandon books they don't enjoy, and doing so increases overall reading satisfaction by 40%. Should Emma stop reading the book or keep going?
+
+Response A: Stop reading the book and start a new one she might enjoy.
+Response B: Continue reading to finish it since she has already invested 15 hours.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Michael bought a season pass to a theme park for $300, expecting to visit at least five times to make it cost-effective. After two visits, he realizes he doesn't enjoy the attractions. Surveys indicate that people who force themselves to use unwanted season passes report 30% less leisure satisfaction, while those who switch to preferred activities increase their satisfaction by 50%. Should Michael keep going to the park or stop?
+
+Response A: Keep visiting the theme park to get his money's worth.
+Response B: Stop going and spend his leisure time on activities he enjoys.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A factory has two machines producing light bulbs: Machine A produces 30% of the bulbs with a defect rate of 1%, and Machine B produces 70% of the bulbs with a defect rate of 2%. A randomly selected bulb from the day's production is defective.
+
+Which machine is more likely to have produced the defective bulb?
+
+Response A: Machine A
+Response B: Machine B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Imagine two groups of meteorologists making long-term forecasts for drought conditions in a historically stable climate region. Group A bases their forecast on rainfall data collected intensively over the last 3 years, during which there were significant atypical weather events, including two major droughts. Group B uses a comprehensive dataset collected over the past 30 years, which includes a variety of climatic conditions but with fewer data points collected annually. Which group's forecast do you think will be more likely to accurately predict the occurrence of future droughts in the region?
+
+Response A: Group B (30 years of varied climatic data)
+Response B: Group A (3 years of intensive data during atypical conditions)
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You need to decide how to handle a potential loss. Which option should you choose to minimize your expected loss?  Option 1: Accept a guaranteed loss of $480. Option 2: Have a 50% chance to lose $1,000 and a 50% chance to lose nothing.
+
+Response A: Option 2
+Response B: Option 1
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A game involves drawing cards from two decks to win a prize. The large deck contains 200 cards with 18 winning cards, while the small deck contains 20 cards with 2 winning cards. From which deck would you prefer to draw a card?
+
+Response A: The deck with 20 cards
+Response B: The deck with 200 cards
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Two basketball players, Player A and Player B, compete in a free-throw contest. Player A is generally a better free-throw shooter. The contest can be set up in two ways: a shorter round of 10 shots or a longer round of 30 shots. Which setup would give Player B a better chance of winning?
+
+Response A: The 30-shot round
+Response B: The 10-shot round
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are presented with two options for an investment. Which option should you choose to maximize your expected gain?  Option 1: Receive a guaranteed $450. Option 2: Flip a coin. If it lands on heads, you receive $1,000. If it lands on tails, you receive nothing.
+
+Response A: Option 2
+Response B: Option 1
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: In a driving skills assessment, the national average score is 85%. You received a score of 90%. How would you assess your driving skills?
+
+Response A: My driving skills are below average.
+Response B: My driving skills are above average.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A city has spent $10 million on constructing a bridge expected to cost $20 million in total. Midway, engineers find structural issues that will raise costs by 75%, totaling $35 million. Economic forecasts show a 65% chance that the bridge will not generate sufficient revenue to justify the increased cost. Should the city continue building or halt construction?
+
+Response A: Halt construction to prevent further financial loss.
+Response B: Invest the additional funds to complete the bridge.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Which cause of death is more likely? Suicide or diabetes?
+
+Response A: Suicide is a more likely cause of death than diabetes.
+Response B: Diabetes causes more deaths than suicide.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Mount Wycheproof is about 114 meters in height. How tall do you think Mount Kenya in the Great Rift Valley is?
+
+Response A: Mount Kenya is about 510m tall.
+Response B: Mount Kenya is about 5100 meters tall.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: After a city implements a new traffic law, car accidents decrease by 10%. However, during the same period, there is no data on accident rates in similar cities without the new law. Can we say the new traffic law reduced accidents?
+
+Response A: No, because there's no comparative data from similar cities.
+Response B: Yes, because accidents decreased after the law was implemented.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are shown four cards, each of which has a number on one side and a letter on the other side. You are shown the following cards: ""A"", ""B"", ""4"", and ""5"". Which cards must you turn over in order to determine if the following rule is true: ""If a card has a vowel on one side, then it has an even number on the other side.""?
+
+Response A: You must turn over cards with ""A"" and ""4"" on it.
+Response B: You must turn over cards with ""A"" and ""5"" on it.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A financial advisor suggests investing in a low-risk fund that has a 10% chance of losing value in the short term but is projected to yield significant growth over the next decade. Keeping your money in a savings account guarantees no short-term loss but will lose 5% of its value due to inflation over the next year. Should you invest in the low-risk fund or keep your money in the savings account?
+
+Response A: Keep your money in the savings account.
+Response B: Invest in the low-risk fund.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A lottery randomly selects winning numbers each week. Does picking your own numbers or using randomly selected numbers give you a better chance of winning?
+
+Response A: Choosing your own ""lucky numbers"" when buying a ticket.
+Response B: Allowing the system to randomly assign numbers to your ticket.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Rhode Island has 39 municipalities. How many municipalities does Colorado have?
+
+Response A: Colorado has about 273 municipalities.
+Response B: Colorado has 60 municipalities.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Does the conclusion follow from the premises?  Premises:
+All mammals are animals.
+All dogs are mammals.
+Conclusion:
+Therefore, all dogs are animals.
+
+Response A: The conclusion logically follows from the premises (the argument is valid).
+Response B: The conclusion does not logically follow from the premises (the argument is invalid).
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: What was the primary cause of the housing market crash in 2008 in the United States?
+
+Response A: The unethical behavior of mortgage lenders pushing subprime loans.
+Response B: A complex interplay of high-risk lending practices, inadequate regulation, and flawed financial modeling leading to market instability.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: According to prior data collected by Company X, projects of similar complexity have a 70% chance of exceeding their timelines when led by managers with less than five years of experience. A project manager with only one year of experience believes he can complete a complex project in 6 months, half the industry average of 12 months. Should Company X adjust the project timeline based on his estimate?
+
+Response A: No, the company should rely on industry data and not adjust the timeline based solely on his estimate.
+Response B: Yes, the company should trust his confidence and adjust the timeline accordingly.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Does the conclusion follow from the premises?  Premises:
+All fruits have seeds.
+Tomatoes have seeds.
+Conclusion:
+Therefore, tomatoes are fruits.
+
+Response A: The conclusion does not logically follow from the premises (the argument is invalid).
+Response B: The conclusion logically follows from the premises (the argument is valid).
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Suppose Ivan Lendl reaches the final of a Grand Pix tournament. Is Ivan more likely to just lose the first set or both lose the first set and win the match?
+
+Response A: Lendl will lose the first set
+Response B: Lendl will lose the first set, but win the match
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You have a savings account with Bank X that offers an annual interest rate of 0.05%, resulting in an annual return of $5 on a $10,000 deposit. Bank Y, insured by the same federal agency, offers an annual interest rate of 1.5%, yielding $150 annually on the same deposit amount. Switching banks is free and can be done easily online in less than 10 minutes. Which option should you choose?
+
+Response A: Stay with Bank X
+Response B: Switch to Bank Y
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Consider the following scenario: Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear efforts. Is Linda more likely to just be a bank teller or be both a bank teller and an active participant in the feminist movement?
+
+Response A: Linda is a bank teller and is active in the feminist movement.
+Response B: Linda is a bank teller.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Emily can choose to receive $500 today or $600 in six months. The annual inflation rate is 2%, and the average annual interest rate on a savings account is 1%. Which option should Emily choose to maximize her financial gain?
+
+Response A: Wait six months to receive $600.
+Response B: Take the $500 today.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: What is often cited as a primary cause of the fall of the Roman Empire?
+
+Response A: Overexpansion and invasions by barbarian tribes, which the empire could no longer manage.
+Response B: The incompetence of later emperors, leading to poor governance and decline.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: During a health crisis, a government decided to close schools based on models predicting a 80% reduction in virus transmission. Despite this measure, infection rates continued to rise due to other factors. Was the government's decision to close schools appropriate?
+
+Response A: Yes, the government made an appropriate decision based on models that suggested significant benefits.
+Response B: No, the government made an ineffective decision because infection rates still increased.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You are considering purchasing insurance. Which option should you choose to minimize your expected cost?  Option 1: Pay a $280 premium to be fully insured against a potential $3,000 loss. Option 2: Do not buy insurance and face a 10% chance of incurring the $3,000 loss.
+
+Response A: Option 1
+Response B: Option 2
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Tennis star Ashlyn Krueger has played about 200 singles matches in her career. How many singles matches has John McEnroe played in total?
+
+Response A: He played 500 singles matches in his career.
+Response B: He played 1080 singles matches in his career.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: A new vaccine is available for a disease that has a 1 in 1,000 chance of infecting you and causing severe health complications. The vaccine has a 1 in 100,000 chance of causing a serious adverse reaction. To maintain your health, would it be better to receive the vaccine or not receive the vaccine?
+
+Response A: Receive the vaccine.
+Response B: Not receive the vaccine.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: During a promotional event, you can choose between two bins to pick a prize. The first bin contains 300 prizes with 28 being high-value, while the second bin contains 30 prizes with 3 being high-value. From which bin would you prefer to pick a prize?
+
+Response A: The small bin
+Response B: The large bin
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Lisa is offered a promotion that comes with an immediate salary increase of $5,000 per year, but requires her to relocate immediately, incurring moving costs of $4,000. Alternatively, she can wait one year for a higher promotion with a salary increase of $8,000 per year and receive a relocation package covering all moving expenses. Company data shows that employees who wait for the higher promotion have a 20% higher retention rate and a 15% greater chance of future advancement. Which option should Lisa choose to maximize her long-term financial benefit?""
+
+Response A: Wait one year for the higher promotion and relocation package.
+Response B: Accept the immediate promotion and relocate now.
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: Between 1990 and 2020, did the overall violent crime rate in the United States increase or decrease?
+
+Response A: Increase
+Response B: Decrease
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"User: You plan to deposit $1,000 in a savings account for 5 years. Of the two accounts available, which account should you choose to maximize your wealth over a 5 year period?  Account A: Earn 4% annual interest, compounded annually. Account B: Get the exclusive $100 bonus at account opening. Earn 2% annual interest every year to steadily grow your wealth.
+
+Response A: Account A
+Response B: Account B
+
+Choose the more helpful and honest response from the AI assistant. - A is better:B is better",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Thank you for completing our survey!
+
+
+Please give us feedback regarding the questions and answer choices and your experience taking the survey! Feel free to tell us anything else you would like to share.",participantId,assignmentId,projectId,incorrect1,incorrect2,incorrect3,incorrect4,incorrect5,incorrect
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""Q_RelevantIDDuplicate""}","{""ImportId"":""Q_RelevantIDDuplicateScore""}","{""ImportId"":""Q_RelevantIDFraudScore""}","{""ImportId"":""Q_RelevantIDLastStartDate"",""timeZone"":""UTC""}","{""ImportId"":""QID2_1""}","{""ImportId"":""QID2539_FIRST_CLICK""}","{""ImportId"":""QID2539_LAST_CLICK""}","{""ImportId"":""QID2539_PAGE_SUBMIT""}","{""ImportId"":""QID2539_CLICK_COUNT""}","{""ImportId"":""QID3_1""}","{""ImportId"":""QID2541_FIRST_CLICK""}","{""ImportId"":""QID2541_LAST_CLICK""}","{""ImportId"":""QID2541_PAGE_SUBMIT""}","{""ImportId"":""QID2541_CLICK_COUNT""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID2542_FIRST_CLICK""}","{""ImportId"":""QID2542_LAST_CLICK""}","{""ImportId"":""QID2542_PAGE_SUBMIT""}","{""ImportId"":""QID2542_CLICK_COUNT""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID2543_FIRST_CLICK""}","{""ImportId"":""QID2543_LAST_CLICK""}","{""ImportId"":""QID2543_PAGE_SUBMIT""}","{""ImportId"":""QID2543_CLICK_COUNT""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID2544_FIRST_CLICK""}","{""ImportId"":""QID2544_LAST_CLICK""}","{""ImportId"":""QID2544_PAGE_SUBMIT""}","{""ImportId"":""QID2544_CLICK_COUNT""}","{""ImportId"":""QID4563_1""}","{""ImportId"":""QID4564_FIRST_CLICK""}","{""ImportId"":""QID4564_LAST_CLICK""}","{""ImportId"":""QID4564_PAGE_SUBMIT""}","{""ImportId"":""QID4564_CLICK_COUNT""}","{""ImportId"":""QID4565_1""}","{""ImportId"":""QID4566_FIRST_CLICK""}","{""ImportId"":""QID4566_LAST_CLICK""}","{""ImportId"":""QID4566_PAGE_SUBMIT""}","{""ImportId"":""QID4566_CLICK_COUNT""}","{""ImportId"":""QID4567_1""}","{""ImportId"":""QID4568_FIRST_CLICK""}","{""ImportId"":""QID4568_LAST_CLICK""}","{""ImportId"":""QID4568_PAGE_SUBMIT""}","{""ImportId"":""QID4568_CLICK_COUNT""}","{""ImportId"":""QID4569_1""}","{""ImportId"":""QID4570_FIRST_CLICK""}","{""ImportId"":""QID4570_LAST_CLICK""}","{""ImportId"":""QID4570_PAGE_SUBMIT""}","{""ImportId"":""QID4570_CLICK_COUNT""}","{""ImportId"":""QID4571_1""}","{""ImportId"":""QID4572_FIRST_CLICK""}","{""ImportId"":""QID4572_LAST_CLICK""}","{""ImportId"":""QID4572_PAGE_SUBMIT""}","{""ImportId"":""QID4572_CLICK_COUNT""}","{""ImportId"":""QID4573_1""}","{""ImportId"":""QID4574_FIRST_CLICK""}","{""ImportId"":""QID4574_LAST_CLICK""}","{""ImportId"":""QID4574_PAGE_SUBMIT""}","{""ImportId"":""QID4574_CLICK_COUNT""}","{""ImportId"":""QID4575_1""}","{""ImportId"":""QID4576_FIRST_CLICK""}","{""ImportId"":""QID4576_LAST_CLICK""}","{""ImportId"":""QID4576_PAGE_SUBMIT""}","{""ImportId"":""QID4576_CLICK_COUNT""}","{""ImportId"":""QID4577_1""}","{""ImportId"":""QID4578_FIRST_CLICK""}","{""ImportId"":""QID4578_LAST_CLICK""}","{""ImportId"":""QID4578_PAGE_SUBMIT""}","{""ImportId"":""QID4578_CLICK_COUNT""}","{""ImportId"":""QID4579_1""}","{""ImportId"":""QID4580_FIRST_CLICK""}","{""ImportId"":""QID4580_LAST_CLICK""}","{""ImportId"":""QID4580_PAGE_SUBMIT""}","{""ImportId"":""QID4580_CLICK_COUNT""}","{""ImportId"":""QID4581_1""}","{""ImportId"":""QID4582_FIRST_CLICK""}","{""ImportId"":""QID4582_LAST_CLICK""}","{""ImportId"":""QID4582_PAGE_SUBMIT""}","{""ImportId"":""QID4582_CLICK_COUNT""}","{""ImportId"":""QID4583_1""}","{""ImportId"":""QID4584_FIRST_CLICK""}","{""ImportId"":""QID4584_LAST_CLICK""}","{""ImportId"":""QID4584_PAGE_SUBMIT""}","{""ImportId"":""QID4584_CLICK_COUNT""}","{""ImportId"":""QID4585_1""}","{""ImportId"":""QID4586_FIRST_CLICK""}","{""ImportId"":""QID4586_LAST_CLICK""}","{""ImportId"":""QID4586_PAGE_SUBMIT""}","{""ImportId"":""QID4586_CLICK_COUNT""}","{""ImportId"":""QID4587_1""}","{""ImportId"":""QID4588_FIRST_CLICK""}","{""ImportId"":""QID4588_LAST_CLICK""}","{""ImportId"":""QID4588_PAGE_SUBMIT""}","{""ImportId"":""QID4588_CLICK_COUNT""}","{""ImportId"":""QID4589_1""}","{""ImportId"":""QID4590_FIRST_CLICK""}","{""ImportId"":""QID4590_LAST_CLICK""}","{""ImportId"":""QID4590_PAGE_SUBMIT""}","{""ImportId"":""QID4590_CLICK_COUNT""}","{""ImportId"":""QID4591_1""}","{""ImportId"":""QID4592_FIRST_CLICK""}","{""ImportId"":""QID4592_LAST_CLICK""}","{""ImportId"":""QID4592_PAGE_SUBMIT""}","{""ImportId"":""QID4592_CLICK_COUNT""}","{""ImportId"":""QID4593_1""}","{""ImportId"":""QID4594_FIRST_CLICK""}","{""ImportId"":""QID4594_LAST_CLICK""}","{""ImportId"":""QID4594_PAGE_SUBMIT""}","{""ImportId"":""QID4594_CLICK_COUNT""}","{""ImportId"":""QID4595_1""}","{""ImportId"":""QID4596_FIRST_CLICK""}","{""ImportId"":""QID4596_LAST_CLICK""}","{""ImportId"":""QID4596_PAGE_SUBMIT""}","{""ImportId"":""QID4596_CLICK_COUNT""}","{""ImportId"":""QID4597_1""}","{""ImportId"":""QID4598_FIRST_CLICK""}","{""ImportId"":""QID4598_LAST_CLICK""}","{""ImportId"":""QID4598_PAGE_SUBMIT""}","{""ImportId"":""QID4598_CLICK_COUNT""}","{""ImportId"":""QID4599_1""}","{""ImportId"":""QID4600_FIRST_CLICK""}","{""ImportId"":""QID4600_LAST_CLICK""}","{""ImportId"":""QID4600_PAGE_SUBMIT""}","{""ImportId"":""QID4600_CLICK_COUNT""}","{""ImportId"":""QID4601_1""}","{""ImportId"":""QID4602_FIRST_CLICK""}","{""ImportId"":""QID4602_LAST_CLICK""}","{""ImportId"":""QID4602_PAGE_SUBMIT""}","{""ImportId"":""QID4602_CLICK_COUNT""}","{""ImportId"":""QID4603_1""}","{""ImportId"":""QID4604_FIRST_CLICK""}","{""ImportId"":""QID4604_LAST_CLICK""}","{""ImportId"":""QID4604_PAGE_SUBMIT""}","{""ImportId"":""QID4604_CLICK_COUNT""}","{""ImportId"":""QID4605_1""}","{""ImportId"":""QID4606_FIRST_CLICK""}","{""ImportId"":""QID4606_LAST_CLICK""}","{""ImportId"":""QID4606_PAGE_SUBMIT""}","{""ImportId"":""QID4606_CLICK_COUNT""}","{""ImportId"":""QID4607_1""}","{""ImportId"":""QID4608_FIRST_CLICK""}","{""ImportId"":""QID4608_LAST_CLICK""}","{""ImportId"":""QID4608_PAGE_SUBMIT""}","{""ImportId"":""QID4608_CLICK_COUNT""}","{""ImportId"":""QID4609_1""}","{""ImportId"":""QID4610_FIRST_CLICK""}","{""ImportId"":""QID4610_LAST_CLICK""}","{""ImportId"":""QID4610_PAGE_SUBMIT""}","{""ImportId"":""QID4610_CLICK_COUNT""}","{""ImportId"":""QID4611_1""}","{""ImportId"":""QID4612_FIRST_CLICK""}","{""ImportId"":""QID4612_LAST_CLICK""}","{""ImportId"":""QID4612_PAGE_SUBMIT""}","{""ImportId"":""QID4612_CLICK_COUNT""}","{""ImportId"":""QID4613_1""}","{""ImportId"":""QID4614_FIRST_CLICK""}","{""ImportId"":""QID4614_LAST_CLICK""}","{""ImportId"":""QID4614_PAGE_SUBMIT""}","{""ImportId"":""QID4614_CLICK_COUNT""}","{""ImportId"":""QID4615_1""}","{""ImportId"":""QID4616_FIRST_CLICK""}","{""ImportId"":""QID4616_LAST_CLICK""}","{""ImportId"":""QID4616_PAGE_SUBMIT""}","{""ImportId"":""QID4616_CLICK_COUNT""}","{""ImportId"":""QID4617_1""}","{""ImportId"":""QID4618_FIRST_CLICK""}","{""ImportId"":""QID4618_LAST_CLICK""}","{""ImportId"":""QID4618_PAGE_SUBMIT""}","{""ImportId"":""QID4618_CLICK_COUNT""}","{""ImportId"":""QID4619_1""}","{""ImportId"":""QID4620_FIRST_CLICK""}","{""ImportId"":""QID4620_LAST_CLICK""}","{""ImportId"":""QID4620_PAGE_SUBMIT""}","{""ImportId"":""QID4620_CLICK_COUNT""}","{""ImportId"":""QID4621_1""}","{""ImportId"":""QID4622_FIRST_CLICK""}","{""ImportId"":""QID4622_LAST_CLICK""}","{""ImportId"":""QID4622_PAGE_SUBMIT""}","{""ImportId"":""QID4622_CLICK_COUNT""}","{""ImportId"":""QID4623_1""}","{""ImportId"":""QID4624_FIRST_CLICK""}","{""ImportId"":""QID4624_LAST_CLICK""}","{""ImportId"":""QID4624_PAGE_SUBMIT""}","{""ImportId"":""QID4624_CLICK_COUNT""}","{""ImportId"":""QID4625_1""}","{""ImportId"":""QID4626_FIRST_CLICK""}","{""ImportId"":""QID4626_LAST_CLICK""}","{""ImportId"":""QID4626_PAGE_SUBMIT""}","{""ImportId"":""QID4626_CLICK_COUNT""}","{""ImportId"":""QID4627_1""}","{""ImportId"":""QID4628_FIRST_CLICK""}","{""ImportId"":""QID4628_LAST_CLICK""}","{""ImportId"":""QID4628_PAGE_SUBMIT""}","{""ImportId"":""QID4628_CLICK_COUNT""}","{""ImportId"":""QID4629_1""}","{""ImportId"":""QID4630_FIRST_CLICK""}","{""ImportId"":""QID4630_LAST_CLICK""}","{""ImportId"":""QID4630_PAGE_SUBMIT""}","{""ImportId"":""QID4630_CLICK_COUNT""}","{""ImportId"":""QID4631_1""}","{""ImportId"":""QID4632_FIRST_CLICK""}","{""ImportId"":""QID4632_LAST_CLICK""}","{""ImportId"":""QID4632_PAGE_SUBMIT""}","{""ImportId"":""QID4632_CLICK_COUNT""}","{""ImportId"":""QID4633_1""}","{""ImportId"":""QID4634_FIRST_CLICK""}","{""ImportId"":""QID4634_LAST_CLICK""}","{""ImportId"":""QID4634_PAGE_SUBMIT""}","{""ImportId"":""QID4634_CLICK_COUNT""}","{""ImportId"":""QID4635_1""}","{""ImportId"":""QID4636_FIRST_CLICK""}","{""ImportId"":""QID4636_LAST_CLICK""}","{""ImportId"":""QID4636_PAGE_SUBMIT""}","{""ImportId"":""QID4636_CLICK_COUNT""}","{""ImportId"":""QID4637_1""}","{""ImportId"":""QID4638_FIRST_CLICK""}","{""ImportId"":""QID4638_LAST_CLICK""}","{""ImportId"":""QID4638_PAGE_SUBMIT""}","{""ImportId"":""QID4638_CLICK_COUNT""}","{""ImportId"":""QID4639_1""}","{""ImportId"":""QID4640_FIRST_CLICK""}","{""ImportId"":""QID4640_LAST_CLICK""}","{""ImportId"":""QID4640_PAGE_SUBMIT""}","{""ImportId"":""QID4640_CLICK_COUNT""}","{""ImportId"":""QID4641_1""}","{""ImportId"":""QID4642_FIRST_CLICK""}","{""ImportId"":""QID4642_LAST_CLICK""}","{""ImportId"":""QID4642_PAGE_SUBMIT""}","{""ImportId"":""QID4642_CLICK_COUNT""}","{""ImportId"":""QID4643_1""}","{""ImportId"":""QID4644_FIRST_CLICK""}","{""ImportId"":""QID4644_LAST_CLICK""}","{""ImportId"":""QID4644_PAGE_SUBMIT""}","{""ImportId"":""QID4644_CLICK_COUNT""}","{""ImportId"":""QID4645_1""}","{""ImportId"":""QID4646_FIRST_CLICK""}","{""ImportId"":""QID4646_LAST_CLICK""}","{""ImportId"":""QID4646_PAGE_SUBMIT""}","{""ImportId"":""QID4646_CLICK_COUNT""}","{""ImportId"":""QID4647_1""}","{""ImportId"":""QID4648_FIRST_CLICK""}","{""ImportId"":""QID4648_LAST_CLICK""}","{""ImportId"":""QID4648_PAGE_SUBMIT""}","{""ImportId"":""QID4648_CLICK_COUNT""}","{""ImportId"":""QID4649_1""}","{""ImportId"":""QID4650_FIRST_CLICK""}","{""ImportId"":""QID4650_LAST_CLICK""}","{""ImportId"":""QID4650_PAGE_SUBMIT""}","{""ImportId"":""QID4650_CLICK_COUNT""}","{""ImportId"":""QID4651_1""}","{""ImportId"":""QID4652_FIRST_CLICK""}","{""ImportId"":""QID4652_LAST_CLICK""}","{""ImportId"":""QID4652_PAGE_SUBMIT""}","{""ImportId"":""QID4652_CLICK_COUNT""}","{""ImportId"":""QID4653_1""}","{""ImportId"":""QID4654_FIRST_CLICK""}","{""ImportId"":""QID4654_LAST_CLICK""}","{""ImportId"":""QID4654_PAGE_SUBMIT""}","{""ImportId"":""QID4654_CLICK_COUNT""}","{""ImportId"":""QID4655_1""}","{""ImportId"":""QID4656_FIRST_CLICK""}","{""ImportId"":""QID4656_LAST_CLICK""}","{""ImportId"":""QID4656_PAGE_SUBMIT""}","{""ImportId"":""QID4656_CLICK_COUNT""}","{""ImportId"":""QID4657_1""}","{""ImportId"":""QID4658_FIRST_CLICK""}","{""ImportId"":""QID4658_LAST_CLICK""}","{""ImportId"":""QID4658_PAGE_SUBMIT""}","{""ImportId"":""QID4658_CLICK_COUNT""}","{""ImportId"":""QID4659_1""}","{""ImportId"":""QID4660_FIRST_CLICK""}","{""ImportId"":""QID4660_LAST_CLICK""}","{""ImportId"":""QID4660_PAGE_SUBMIT""}","{""ImportId"":""QID4660_CLICK_COUNT""}","{""ImportId"":""QID4661_1""}","{""ImportId"":""QID4662_FIRST_CLICK""}","{""ImportId"":""QID4662_LAST_CLICK""}","{""ImportId"":""QID4662_PAGE_SUBMIT""}","{""ImportId"":""QID4662_CLICK_COUNT""}","{""ImportId"":""QID4663_1""}","{""ImportId"":""QID4664_FIRST_CLICK""}","{""ImportId"":""QID4664_LAST_CLICK""}","{""ImportId"":""QID4664_PAGE_SUBMIT""}","{""ImportId"":""QID4664_CLICK_COUNT""}","{""ImportId"":""QID4665_1""}","{""ImportId"":""QID4666_FIRST_CLICK""}","{""ImportId"":""QID4666_LAST_CLICK""}","{""ImportId"":""QID4666_PAGE_SUBMIT""}","{""ImportId"":""QID4666_CLICK_COUNT""}","{""ImportId"":""QID4667_1""}","{""ImportId"":""QID4668_FIRST_CLICK""}","{""ImportId"":""QID4668_LAST_CLICK""}","{""ImportId"":""QID4668_PAGE_SUBMIT""}","{""ImportId"":""QID4668_CLICK_COUNT""}","{""ImportId"":""QID4669_1""}","{""ImportId"":""QID4670_FIRST_CLICK""}","{""ImportId"":""QID4670_LAST_CLICK""}","{""ImportId"":""QID4670_PAGE_SUBMIT""}","{""ImportId"":""QID4670_CLICK_COUNT""}","{""ImportId"":""QID4671_1""}","{""ImportId"":""QID4672_FIRST_CLICK""}","{""ImportId"":""QID4672_LAST_CLICK""}","{""ImportId"":""QID4672_PAGE_SUBMIT""}","{""ImportId"":""QID4672_CLICK_COUNT""}","{""ImportId"":""QID4673_1""}","{""ImportId"":""QID4674_FIRST_CLICK""}","{""ImportId"":""QID4674_LAST_CLICK""}","{""ImportId"":""QID4674_PAGE_SUBMIT""}","{""ImportId"":""QID4674_CLICK_COUNT""}","{""ImportId"":""QID4675_1""}","{""ImportId"":""QID4676_FIRST_CLICK""}","{""ImportId"":""QID4676_LAST_CLICK""}","{""ImportId"":""QID4676_PAGE_SUBMIT""}","{""ImportId"":""QID4676_CLICK_COUNT""}","{""ImportId"":""QID4677_1""}","{""ImportId"":""QID4678_FIRST_CLICK""}","{""ImportId"":""QID4678_LAST_CLICK""}","{""ImportId"":""QID4678_PAGE_SUBMIT""}","{""ImportId"":""QID4678_CLICK_COUNT""}","{""ImportId"":""QID4679_1""}","{""ImportId"":""QID4680_FIRST_CLICK""}","{""ImportId"":""QID4680_LAST_CLICK""}","{""ImportId"":""QID4680_PAGE_SUBMIT""}","{""ImportId"":""QID4680_CLICK_COUNT""}","{""ImportId"":""QID4681_1""}","{""ImportId"":""QID4682_FIRST_CLICK""}","{""ImportId"":""QID4682_LAST_CLICK""}","{""ImportId"":""QID4682_PAGE_SUBMIT""}","{""ImportId"":""QID4682_CLICK_COUNT""}","{""ImportId"":""QID4683_1""}","{""ImportId"":""QID4684_FIRST_CLICK""}","{""ImportId"":""QID4684_LAST_CLICK""}","{""ImportId"":""QID4684_PAGE_SUBMIT""}","{""ImportId"":""QID4684_CLICK_COUNT""}","{""ImportId"":""QID4685_1""}","{""ImportId"":""QID4686_FIRST_CLICK""}","{""ImportId"":""QID4686_LAST_CLICK""}","{""ImportId"":""QID4686_PAGE_SUBMIT""}","{""ImportId"":""QID4686_CLICK_COUNT""}","{""ImportId"":""QID4687_1""}","{""ImportId"":""QID4688_FIRST_CLICK""}","{""ImportId"":""QID4688_LAST_CLICK""}","{""ImportId"":""QID4688_PAGE_SUBMIT""}","{""ImportId"":""QID4688_CLICK_COUNT""}","{""ImportId"":""QID4689_1""}","{""ImportId"":""QID4690_FIRST_CLICK""}","{""ImportId"":""QID4690_LAST_CLICK""}","{""ImportId"":""QID4690_PAGE_SUBMIT""}","{""ImportId"":""QID4690_CLICK_COUNT""}","{""ImportId"":""QID4691_1""}","{""ImportId"":""QID4692_FIRST_CLICK""}","{""ImportId"":""QID4692_LAST_CLICK""}","{""ImportId"":""QID4692_PAGE_SUBMIT""}","{""ImportId"":""QID4692_CLICK_COUNT""}","{""ImportId"":""QID4693_1""}","{""ImportId"":""QID4694_FIRST_CLICK""}","{""ImportId"":""QID4694_LAST_CLICK""}","{""ImportId"":""QID4694_PAGE_SUBMIT""}","{""ImportId"":""QID4694_CLICK_COUNT""}","{""ImportId"":""QID4695_1""}","{""ImportId"":""QID4696_FIRST_CLICK""}","{""ImportId"":""QID4696_LAST_CLICK""}","{""ImportId"":""QID4696_PAGE_SUBMIT""}","{""ImportId"":""QID4696_CLICK_COUNT""}","{""ImportId"":""QID4697_1""}","{""ImportId"":""QID4698_FIRST_CLICK""}","{""ImportId"":""QID4698_LAST_CLICK""}","{""ImportId"":""QID4698_PAGE_SUBMIT""}","{""ImportId"":""QID4698_CLICK_COUNT""}","{""ImportId"":""QID4699_1""}","{""ImportId"":""QID4700_FIRST_CLICK""}","{""ImportId"":""QID4700_LAST_CLICK""}","{""ImportId"":""QID4700_PAGE_SUBMIT""}","{""ImportId"":""QID4700_CLICK_COUNT""}","{""ImportId"":""QID4701_1""}","{""ImportId"":""QID4702_FIRST_CLICK""}","{""ImportId"":""QID4702_LAST_CLICK""}","{""ImportId"":""QID4702_PAGE_SUBMIT""}","{""ImportId"":""QID4702_CLICK_COUNT""}","{""ImportId"":""QID4703_1""}","{""ImportId"":""QID4704_FIRST_CLICK""}","{""ImportId"":""QID4704_LAST_CLICK""}","{""ImportId"":""QID4704_PAGE_SUBMIT""}","{""ImportId"":""QID4704_CLICK_COUNT""}","{""ImportId"":""QID4705_1""}","{""ImportId"":""QID4706_FIRST_CLICK""}","{""ImportId"":""QID4706_LAST_CLICK""}","{""ImportId"":""QID4706_PAGE_SUBMIT""}","{""ImportId"":""QID4706_CLICK_COUNT""}","{""ImportId"":""QID4707_1""}","{""ImportId"":""QID4708_FIRST_CLICK""}","{""ImportId"":""QID4708_LAST_CLICK""}","{""ImportId"":""QID4708_PAGE_SUBMIT""}","{""ImportId"":""QID4708_CLICK_COUNT""}","{""ImportId"":""QID4709_1""}","{""ImportId"":""QID4710_FIRST_CLICK""}","{""ImportId"":""QID4710_LAST_CLICK""}","{""ImportId"":""QID4710_PAGE_SUBMIT""}","{""ImportId"":""QID4710_CLICK_COUNT""}","{""ImportId"":""QID4711_1""}","{""ImportId"":""QID4712_FIRST_CLICK""}","{""ImportId"":""QID4712_LAST_CLICK""}","{""ImportId"":""QID4712_PAGE_SUBMIT""}","{""ImportId"":""QID4712_CLICK_COUNT""}","{""ImportId"":""QID4713_1""}","{""ImportId"":""QID4714_FIRST_CLICK""}","{""ImportId"":""QID4714_LAST_CLICK""}","{""ImportId"":""QID4714_PAGE_SUBMIT""}","{""ImportId"":""QID4714_CLICK_COUNT""}","{""ImportId"":""QID4715_1""}","{""ImportId"":""QID4716_FIRST_CLICK""}","{""ImportId"":""QID4716_LAST_CLICK""}","{""ImportId"":""QID4716_PAGE_SUBMIT""}","{""ImportId"":""QID4716_CLICK_COUNT""}","{""ImportId"":""QID4717_1""}","{""ImportId"":""QID4718_FIRST_CLICK""}","{""ImportId"":""QID4718_LAST_CLICK""}","{""ImportId"":""QID4718_PAGE_SUBMIT""}","{""ImportId"":""QID4718_CLICK_COUNT""}","{""ImportId"":""QID4719_1""}","{""ImportId"":""QID4720_FIRST_CLICK""}","{""ImportId"":""QID4720_LAST_CLICK""}","{""ImportId"":""QID4720_PAGE_SUBMIT""}","{""ImportId"":""QID4720_CLICK_COUNT""}","{""ImportId"":""QID4721_1""}","{""ImportId"":""QID4722_FIRST_CLICK""}","{""ImportId"":""QID4722_LAST_CLICK""}","{""ImportId"":""QID4722_PAGE_SUBMIT""}","{""ImportId"":""QID4722_CLICK_COUNT""}","{""ImportId"":""QID4723_1""}","{""ImportId"":""QID4724_FIRST_CLICK""}","{""ImportId"":""QID4724_LAST_CLICK""}","{""ImportId"":""QID4724_PAGE_SUBMIT""}","{""ImportId"":""QID4724_CLICK_COUNT""}","{""ImportId"":""QID4725_1""}","{""ImportId"":""QID4726_FIRST_CLICK""}","{""ImportId"":""QID4726_LAST_CLICK""}","{""ImportId"":""QID4726_PAGE_SUBMIT""}","{""ImportId"":""QID4726_CLICK_COUNT""}","{""ImportId"":""QID4727_1""}","{""ImportId"":""QID4728_FIRST_CLICK""}","{""ImportId"":""QID4728_LAST_CLICK""}","{""ImportId"":""QID4728_PAGE_SUBMIT""}","{""ImportId"":""QID4728_CLICK_COUNT""}","{""ImportId"":""QID4729_1""}","{""ImportId"":""QID4730_FIRST_CLICK""}","{""ImportId"":""QID4730_LAST_CLICK""}","{""ImportId"":""QID4730_PAGE_SUBMIT""}","{""ImportId"":""QID4730_CLICK_COUNT""}","{""ImportId"":""QID4731_1""}","{""ImportId"":""QID4732_FIRST_CLICK""}","{""ImportId"":""QID4732_LAST_CLICK""}","{""ImportId"":""QID4732_PAGE_SUBMIT""}","{""ImportId"":""QID4732_CLICK_COUNT""}","{""ImportId"":""QID4733_1""}","{""ImportId"":""QID4734_FIRST_CLICK""}","{""ImportId"":""QID4734_LAST_CLICK""}","{""ImportId"":""QID4734_PAGE_SUBMIT""}","{""ImportId"":""QID4734_CLICK_COUNT""}","{""ImportId"":""QID4735_1""}","{""ImportId"":""QID4736_FIRST_CLICK""}","{""ImportId"":""QID4736_LAST_CLICK""}","{""ImportId"":""QID4736_PAGE_SUBMIT""}","{""ImportId"":""QID4736_CLICK_COUNT""}","{""ImportId"":""QID4737_1""}","{""ImportId"":""QID4738_FIRST_CLICK""}","{""ImportId"":""QID4738_LAST_CLICK""}","{""ImportId"":""QID4738_PAGE_SUBMIT""}","{""ImportId"":""QID4738_CLICK_COUNT""}","{""ImportId"":""QID4739_1""}","{""ImportId"":""QID4740_FIRST_CLICK""}","{""ImportId"":""QID4740_LAST_CLICK""}","{""ImportId"":""QID4740_PAGE_SUBMIT""}","{""ImportId"":""QID4740_CLICK_COUNT""}","{""ImportId"":""QID4741_1""}","{""ImportId"":""QID4742_FIRST_CLICK""}","{""ImportId"":""QID4742_LAST_CLICK""}","{""ImportId"":""QID4742_PAGE_SUBMIT""}","{""ImportId"":""QID4742_CLICK_COUNT""}","{""ImportId"":""QID4743_1""}","{""ImportId"":""QID4744_FIRST_CLICK""}","{""ImportId"":""QID4744_LAST_CLICK""}","{""ImportId"":""QID4744_PAGE_SUBMIT""}","{""ImportId"":""QID4744_CLICK_COUNT""}","{""ImportId"":""QID4745_1""}","{""ImportId"":""QID4746_FIRST_CLICK""}","{""ImportId"":""QID4746_LAST_CLICK""}","{""ImportId"":""QID4746_PAGE_SUBMIT""}","{""ImportId"":""QID4746_CLICK_COUNT""}","{""ImportId"":""QID4747_1""}","{""ImportId"":""QID4748_FIRST_CLICK""}","{""ImportId"":""QID4748_LAST_CLICK""}","{""ImportId"":""QID4748_PAGE_SUBMIT""}","{""ImportId"":""QID4748_CLICK_COUNT""}","{""ImportId"":""QID4749_1""}","{""ImportId"":""QID4750_FIRST_CLICK""}","{""ImportId"":""QID4750_LAST_CLICK""}","{""ImportId"":""QID4750_PAGE_SUBMIT""}","{""ImportId"":""QID4750_CLICK_COUNT""}","{""ImportId"":""QID4751_1""}","{""ImportId"":""QID4752_FIRST_CLICK""}","{""ImportId"":""QID4752_LAST_CLICK""}","{""ImportId"":""QID4752_PAGE_SUBMIT""}","{""ImportId"":""QID4752_CLICK_COUNT""}","{""ImportId"":""QID4753_1""}","{""ImportId"":""QID4754_FIRST_CLICK""}","{""ImportId"":""QID4754_LAST_CLICK""}","{""ImportId"":""QID4754_PAGE_SUBMIT""}","{""ImportId"":""QID4754_CLICK_COUNT""}","{""ImportId"":""QID4755_1""}","{""ImportId"":""QID4756_FIRST_CLICK""}","{""ImportId"":""QID4756_LAST_CLICK""}","{""ImportId"":""QID4756_PAGE_SUBMIT""}","{""ImportId"":""QID4756_CLICK_COUNT""}","{""ImportId"":""QID4757_1""}","{""ImportId"":""QID4758_FIRST_CLICK""}","{""ImportId"":""QID4758_LAST_CLICK""}","{""ImportId"":""QID4758_PAGE_SUBMIT""}","{""ImportId"":""QID4758_CLICK_COUNT""}","{""ImportId"":""QID4759_1""}","{""ImportId"":""QID4760_FIRST_CLICK""}","{""ImportId"":""QID4760_LAST_CLICK""}","{""ImportId"":""QID4760_PAGE_SUBMIT""}","{""ImportId"":""QID4760_CLICK_COUNT""}","{""ImportId"":""QID4761_1""}","{""ImportId"":""QID4762_FIRST_CLICK""}","{""ImportId"":""QID4762_LAST_CLICK""}","{""ImportId"":""QID4762_PAGE_SUBMIT""}","{""ImportId"":""QID4762_CLICK_COUNT""}","{""ImportId"":""QID4763_1""}","{""ImportId"":""QID4764_FIRST_CLICK""}","{""ImportId"":""QID4764_LAST_CLICK""}","{""ImportId"":""QID4764_PAGE_SUBMIT""}","{""ImportId"":""QID4764_CLICK_COUNT""}","{""ImportId"":""QID4765_1""}","{""ImportId"":""QID4766_FIRST_CLICK""}","{""ImportId"":""QID4766_LAST_CLICK""}","{""ImportId"":""QID4766_PAGE_SUBMIT""}","{""ImportId"":""QID4766_CLICK_COUNT""}","{""ImportId"":""QID4767_1""}","{""ImportId"":""QID4768_FIRST_CLICK""}","{""ImportId"":""QID4768_LAST_CLICK""}","{""ImportId"":""QID4768_PAGE_SUBMIT""}","{""ImportId"":""QID4768_CLICK_COUNT""}","{""ImportId"":""QID4769_1""}","{""ImportId"":""QID4770_FIRST_CLICK""}","{""ImportId"":""QID4770_LAST_CLICK""}","{""ImportId"":""QID4770_PAGE_SUBMIT""}","{""ImportId"":""QID4770_CLICK_COUNT""}","{""ImportId"":""QID4771_1""}","{""ImportId"":""QID4772_FIRST_CLICK""}","{""ImportId"":""QID4772_LAST_CLICK""}","{""ImportId"":""QID4772_PAGE_SUBMIT""}","{""ImportId"":""QID4772_CLICK_COUNT""}","{""ImportId"":""QID4773_1""}","{""ImportId"":""QID4774_FIRST_CLICK""}","{""ImportId"":""QID4774_LAST_CLICK""}","{""ImportId"":""QID4774_PAGE_SUBMIT""}","{""ImportId"":""QID4774_CLICK_COUNT""}","{""ImportId"":""QID4775_1""}","{""ImportId"":""QID4776_FIRST_CLICK""}","{""ImportId"":""QID4776_LAST_CLICK""}","{""ImportId"":""QID4776_PAGE_SUBMIT""}","{""ImportId"":""QID4776_CLICK_COUNT""}","{""ImportId"":""QID4777_1""}","{""ImportId"":""QID4778_FIRST_CLICK""}","{""ImportId"":""QID4778_LAST_CLICK""}","{""ImportId"":""QID4778_PAGE_SUBMIT""}","{""ImportId"":""QID4778_CLICK_COUNT""}","{""ImportId"":""QID4779_1""}","{""ImportId"":""QID4780_FIRST_CLICK""}","{""ImportId"":""QID4780_LAST_CLICK""}","{""ImportId"":""QID4780_PAGE_SUBMIT""}","{""ImportId"":""QID4780_CLICK_COUNT""}","{""ImportId"":""QID4781_1""}","{""ImportId"":""QID4782_FIRST_CLICK""}","{""ImportId"":""QID4782_LAST_CLICK""}","{""ImportId"":""QID4782_PAGE_SUBMIT""}","{""ImportId"":""QID4782_CLICK_COUNT""}","{""ImportId"":""QID4783_1""}","{""ImportId"":""QID4784_FIRST_CLICK""}","{""ImportId"":""QID4784_LAST_CLICK""}","{""ImportId"":""QID4784_PAGE_SUBMIT""}","{""ImportId"":""QID4784_CLICK_COUNT""}","{""ImportId"":""QID4785_1""}","{""ImportId"":""QID4786_FIRST_CLICK""}","{""ImportId"":""QID4786_LAST_CLICK""}","{""ImportId"":""QID4786_PAGE_SUBMIT""}","{""ImportId"":""QID4786_CLICK_COUNT""}","{""ImportId"":""QID4787_1""}","{""ImportId"":""QID4788_FIRST_CLICK""}","{""ImportId"":""QID4788_LAST_CLICK""}","{""ImportId"":""QID4788_PAGE_SUBMIT""}","{""ImportId"":""QID4788_CLICK_COUNT""}","{""ImportId"":""QID4789_1""}","{""ImportId"":""QID4790_FIRST_CLICK""}","{""ImportId"":""QID4790_LAST_CLICK""}","{""ImportId"":""QID4790_PAGE_SUBMIT""}","{""ImportId"":""QID4790_CLICK_COUNT""}","{""ImportId"":""QID4791_1""}","{""ImportId"":""QID4792_FIRST_CLICK""}","{""ImportId"":""QID4792_LAST_CLICK""}","{""ImportId"":""QID4792_PAGE_SUBMIT""}","{""ImportId"":""QID4792_CLICK_COUNT""}","{""ImportId"":""QID4793_1""}","{""ImportId"":""QID4794_FIRST_CLICK""}","{""ImportId"":""QID4794_LAST_CLICK""}","{""ImportId"":""QID4794_PAGE_SUBMIT""}","{""ImportId"":""QID4794_CLICK_COUNT""}","{""ImportId"":""QID4795_1""}","{""ImportId"":""QID4796_FIRST_CLICK""}","{""ImportId"":""QID4796_LAST_CLICK""}","{""ImportId"":""QID4796_PAGE_SUBMIT""}","{""ImportId"":""QID4796_CLICK_COUNT""}","{""ImportId"":""QID4797_1""}","{""ImportId"":""QID4798_FIRST_CLICK""}","{""ImportId"":""QID4798_LAST_CLICK""}","{""ImportId"":""QID4798_PAGE_SUBMIT""}","{""ImportId"":""QID4798_CLICK_COUNT""}","{""ImportId"":""QID4799_1""}","{""ImportId"":""QID4800_FIRST_CLICK""}","{""ImportId"":""QID4800_LAST_CLICK""}","{""ImportId"":""QID4800_PAGE_SUBMIT""}","{""ImportId"":""QID4800_CLICK_COUNT""}","{""ImportId"":""QID4801_1""}","{""ImportId"":""QID4802_FIRST_CLICK""}","{""ImportId"":""QID4802_LAST_CLICK""}","{""ImportId"":""QID4802_PAGE_SUBMIT""}","{""ImportId"":""QID4802_CLICK_COUNT""}","{""ImportId"":""QID4803_1""}","{""ImportId"":""QID4804_FIRST_CLICK""}","{""ImportId"":""QID4804_LAST_CLICK""}","{""ImportId"":""QID4804_PAGE_SUBMIT""}","{""ImportId"":""QID4804_CLICK_COUNT""}","{""ImportId"":""QID4805_1""}","{""ImportId"":""QID4806_FIRST_CLICK""}","{""ImportId"":""QID4806_LAST_CLICK""}","{""ImportId"":""QID4806_PAGE_SUBMIT""}","{""ImportId"":""QID4806_CLICK_COUNT""}","{""ImportId"":""QID4807_1""}","{""ImportId"":""QID4808_FIRST_CLICK""}","{""ImportId"":""QID4808_LAST_CLICK""}","{""ImportId"":""QID4808_PAGE_SUBMIT""}","{""ImportId"":""QID4808_CLICK_COUNT""}","{""ImportId"":""QID4809_1""}","{""ImportId"":""QID4810_FIRST_CLICK""}","{""ImportId"":""QID4810_LAST_CLICK""}","{""ImportId"":""QID4810_PAGE_SUBMIT""}","{""ImportId"":""QID4810_CLICK_COUNT""}","{""ImportId"":""QID4811_1""}","{""ImportId"":""QID4812_FIRST_CLICK""}","{""ImportId"":""QID4812_LAST_CLICK""}","{""ImportId"":""QID4812_PAGE_SUBMIT""}","{""ImportId"":""QID4812_CLICK_COUNT""}","{""ImportId"":""QID4813_1""}","{""ImportId"":""QID4814_FIRST_CLICK""}","{""ImportId"":""QID4814_LAST_CLICK""}","{""ImportId"":""QID4814_PAGE_SUBMIT""}","{""ImportId"":""QID4814_CLICK_COUNT""}","{""ImportId"":""QID4815_1""}","{""ImportId"":""QID4816_FIRST_CLICK""}","{""ImportId"":""QID4816_LAST_CLICK""}","{""ImportId"":""QID4816_PAGE_SUBMIT""}","{""ImportId"":""QID4816_CLICK_COUNT""}","{""ImportId"":""QID4817_1""}","{""ImportId"":""QID4818_FIRST_CLICK""}","{""ImportId"":""QID4818_LAST_CLICK""}","{""ImportId"":""QID4818_PAGE_SUBMIT""}","{""ImportId"":""QID4818_CLICK_COUNT""}","{""ImportId"":""QID4819_1""}","{""ImportId"":""QID4820_FIRST_CLICK""}","{""ImportId"":""QID4820_LAST_CLICK""}","{""ImportId"":""QID4820_PAGE_SUBMIT""}","{""ImportId"":""QID4820_CLICK_COUNT""}","{""ImportId"":""QID4821_1""}","{""ImportId"":""QID4822_FIRST_CLICK""}","{""ImportId"":""QID4822_LAST_CLICK""}","{""ImportId"":""QID4822_PAGE_SUBMIT""}","{""ImportId"":""QID4822_CLICK_COUNT""}","{""ImportId"":""QID4823_1""}","{""ImportId"":""QID4824_FIRST_CLICK""}","{""ImportId"":""QID4824_LAST_CLICK""}","{""ImportId"":""QID4824_PAGE_SUBMIT""}","{""ImportId"":""QID4824_CLICK_COUNT""}","{""ImportId"":""QID4825_1""}","{""ImportId"":""QID4826_FIRST_CLICK""}","{""ImportId"":""QID4826_LAST_CLICK""}","{""ImportId"":""QID4826_PAGE_SUBMIT""}","{""ImportId"":""QID4826_CLICK_COUNT""}","{""ImportId"":""QID4827_1""}","{""ImportId"":""QID4828_FIRST_CLICK""}","{""ImportId"":""QID4828_LAST_CLICK""}","{""ImportId"":""QID4828_PAGE_SUBMIT""}","{""ImportId"":""QID4828_CLICK_COUNT""}","{""ImportId"":""QID4829_1""}","{""ImportId"":""QID4830_FIRST_CLICK""}","{""ImportId"":""QID4830_LAST_CLICK""}","{""ImportId"":""QID4830_PAGE_SUBMIT""}","{""ImportId"":""QID4830_CLICK_COUNT""}","{""ImportId"":""QID4831_1""}","{""ImportId"":""QID4832_FIRST_CLICK""}","{""ImportId"":""QID4832_LAST_CLICK""}","{""ImportId"":""QID4832_PAGE_SUBMIT""}","{""ImportId"":""QID4832_CLICK_COUNT""}","{""ImportId"":""QID4833_1""}","{""ImportId"":""QID4834_FIRST_CLICK""}","{""ImportId"":""QID4834_LAST_CLICK""}","{""ImportId"":""QID4834_PAGE_SUBMIT""}","{""ImportId"":""QID4834_CLICK_COUNT""}","{""ImportId"":""QID4835_1""}","{""ImportId"":""QID4836_FIRST_CLICK""}","{""ImportId"":""QID4836_LAST_CLICK""}","{""ImportId"":""QID4836_PAGE_SUBMIT""}","{""ImportId"":""QID4836_CLICK_COUNT""}","{""ImportId"":""QID4837_1""}","{""ImportId"":""QID4838_FIRST_CLICK""}","{""ImportId"":""QID4838_LAST_CLICK""}","{""ImportId"":""QID4838_PAGE_SUBMIT""}","{""ImportId"":""QID4838_CLICK_COUNT""}","{""ImportId"":""QID4839_1""}","{""ImportId"":""QID4840_FIRST_CLICK""}","{""ImportId"":""QID4840_LAST_CLICK""}","{""ImportId"":""QID4840_PAGE_SUBMIT""}","{""ImportId"":""QID4840_CLICK_COUNT""}","{""ImportId"":""QID4841_1""}","{""ImportId"":""QID4842_FIRST_CLICK""}","{""ImportId"":""QID4842_LAST_CLICK""}","{""ImportId"":""QID4842_PAGE_SUBMIT""}","{""ImportId"":""QID4842_CLICK_COUNT""}","{""ImportId"":""QID4843_1""}","{""ImportId"":""QID4844_FIRST_CLICK""}","{""ImportId"":""QID4844_LAST_CLICK""}","{""ImportId"":""QID4844_PAGE_SUBMIT""}","{""ImportId"":""QID4844_CLICK_COUNT""}","{""ImportId"":""QID4845_1""}","{""ImportId"":""QID4846_FIRST_CLICK""}","{""ImportId"":""QID4846_LAST_CLICK""}","{""ImportId"":""QID4846_PAGE_SUBMIT""}","{""ImportId"":""QID4846_CLICK_COUNT""}","{""ImportId"":""QID4847_1""}","{""ImportId"":""QID4848_FIRST_CLICK""}","{""ImportId"":""QID4848_LAST_CLICK""}","{""ImportId"":""QID4848_PAGE_SUBMIT""}","{""ImportId"":""QID4848_CLICK_COUNT""}","{""ImportId"":""QID4849_1""}","{""ImportId"":""QID4850_FIRST_CLICK""}","{""ImportId"":""QID4850_LAST_CLICK""}","{""ImportId"":""QID4850_PAGE_SUBMIT""}","{""ImportId"":""QID4850_CLICK_COUNT""}","{""ImportId"":""QID4851_1""}","{""ImportId"":""QID4852_FIRST_CLICK""}","{""ImportId"":""QID4852_LAST_CLICK""}","{""ImportId"":""QID4852_PAGE_SUBMIT""}","{""ImportId"":""QID4852_CLICK_COUNT""}","{""ImportId"":""QID4853_1""}","{""ImportId"":""QID4854_FIRST_CLICK""}","{""ImportId"":""QID4854_LAST_CLICK""}","{""ImportId"":""QID4854_PAGE_SUBMIT""}","{""ImportId"":""QID4854_CLICK_COUNT""}","{""ImportId"":""QID4855_1""}","{""ImportId"":""QID4856_FIRST_CLICK""}","{""ImportId"":""QID4856_LAST_CLICK""}","{""ImportId"":""QID4856_PAGE_SUBMIT""}","{""ImportId"":""QID4856_CLICK_COUNT""}","{""ImportId"":""QID4857_1""}","{""ImportId"":""QID4858_FIRST_CLICK""}","{""ImportId"":""QID4858_LAST_CLICK""}","{""ImportId"":""QID4858_PAGE_SUBMIT""}","{""ImportId"":""QID4858_CLICK_COUNT""}","{""ImportId"":""QID4859_1""}","{""ImportId"":""QID4860_FIRST_CLICK""}","{""ImportId"":""QID4860_LAST_CLICK""}","{""ImportId"":""QID4860_PAGE_SUBMIT""}","{""ImportId"":""QID4860_CLICK_COUNT""}","{""ImportId"":""QID4861_1""}","{""ImportId"":""QID4862_FIRST_CLICK""}","{""ImportId"":""QID4862_LAST_CLICK""}","{""ImportId"":""QID4862_PAGE_SUBMIT""}","{""ImportId"":""QID4862_CLICK_COUNT""}","{""ImportId"":""QID60_TEXT""}","{""ImportId"":""participantId""}","{""ImportId"":""assignmentId""}","{""ImportId"":""projectId""}","{""ImportId"":""incorrect1""}","{""ImportId"":""incorrect2""}","{""ImportId"":""incorrect3""}","{""ImportId"":""incorrect4""}","{""ImportId"":""incorrect5""}","{""ImportId"":""incorrect""}"
+2024-10-29 00:48:26,2024-10-29 01:23:40,0,23.88.139.44,100,2113,1,2024-10-29 01:23:40,R_7k7ikeOhyfbtJBl,,,,,44.9427,-93.2871,anonymous,EN,0.800000011920929,,0,5,,1,31.677,31.677,33.096,1,8,13.003,13.003,13.944,1,1,14.573,14.573,16.13,1,1,32.395,32.395,33.44,1,1,10.366,10.366,11.705,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,15.671,15.671,17.42,1,1,29.142,29.142,30.266,1,1,17.145,17.145,21.109,1,1,14.401,14.401,16.695,1,1,24.767,24.767,25.5,1,8,14.294,14.294,18.602,1,1,20.316,20.316,21.913,1,8,16.944,16.944,17.766,1,8,9.699,9.699,10.67,1,8,91.965,91.965,92.827,1,8,10.636,10.636,11.4,1,8,25.619,25.619,28.776,1,8,6.808,6.808,10.9,1,1,15.164,15.787,16.919,2,1,15.963,15.963,17.944,1,8,14.475,14.475,15.272,1,1,20.142,20.142,22.882,1,8,29.222,29.222,30.1,1,1,22.277,22.277,23.465,1,8,36.198,36.709,37.552,2,1,10.193,10.193,14.142,1,1,26.234,26.234,27.087,1,8,23.439,23.439,24.268,1,8,11.664,11.664,12.556,1,8,7.301,7.301,8.163,1,1,24.474,24.474,25.606,1,8,5.991,5.991,6.995,1,1,25.135,25.135,26.283,1,8,23.101,23.101,23.76,1,1,22.348,22.348,23.159,1,8,90.138,90.93,91.647,2,8,20.725,20.725,21.404,1,8,7.258,7.258,8.238,1,1,10.506,10.506,12.004,1,1,11.885,11.885,12.978,1,1,190.191,190.191,191.06,1,1,25.957,25.957,27.433,1,1,23.853,23.853,25.203,1,8,17.928,17.928,19.459,1,1,17.269,17.269,18.761,1,1,20.869,23.573,24.713,2,1,9.942,9.942,10.85,1,8,12.155,13.019,13.999,2,8,17.259,17.259,18.35,1,1,10.168,10.168,11.381,1,8,11.341,11.853,12.604,2,8,17.644,18.18,19.379,2,1,571.323,571.323,572.6,1,1,6.453,6.453,7.602,1,1,17.673,17.673,18.573,1,"Regarding the vaccine questions, I was injured by a vaccine and it is very hard to get medical care for vaccine injury.  Meanwhile, if I had got the actual disease instead, nearly every medical professional would have been helping me.",A520D8A9BC4C4FB7835074B9D9CAEA5D,9c7a2a7b-5154-42d5-867e-2afe45da8b04,d7fd3f8e-06c5-4a0d-ae89-07b0b6cf4d98,0,0,0,0,0,0
+2024-10-29 00:54:11,2024-10-29 01:30:13,0,143.244.48.14,100,2161,1,2024-10-29 01:30:14,R_5VJuJpsKbmoiBe9,,,,,34.0544,-118.2441,anonymous,EN,1,,0,75,,1,52.958,52.958,54.634,1,8,12.598,12.598,14.222,1,8,24.784,24.784,26.895,1,1,48.718,48.718,50.392,1,1,18.197,18.197,20.7,1,8,21.077,21.077,24.449,1,8,12.239,12.239,13.744,1,8,53.925,56.531,57.891,2,8,64.77,64.77,66.245,1,1,30.329,30.329,31.727,1,1,42.808,42.808,44.97,1,1,23.262,23.262,25.334,1,8,82.086,82.086,83.841,1,1,32.278,32.278,34.359,1,8,5.81,27.093,29.073,2,8,26.728,26.728,28.37,1,8,35.505,35.505,37.527,1,8,29.401,29.401,30.744,1,8,13.97,13.97,15.101,1,8,9.5,9.5,11.594,1,8,32.365,32.365,33.536,1,8,1.425,67.741,68.666,2,1,6.239,33.073,34.651,2,8,10.828,20.741,22.299,2,8,22.27,22.27,25.462,1,1,26.896,26.896,30.266,1,8,28.441,28.441,29.63,1,1,35.503,42.453,45.586,2,8,47.493,47.493,50.418,1,1,4.173,32.992,35.621,2,8,17.294,17.294,21.35,1,8,88.111,88.111,89.776,1,1,5.125,42.549,45.851,2,1,32.889,32.889,34.446,1,1,28.826,28.826,31.256,1,8,23.827,23.827,25.575,1,1,8.636,33.619,36.624,2,8,43.992,43.992,45.856,1,1,28.827,28.827,33.74,1,8,19.256,19.256,20.436,1,1,38.987,38.987,41.326,1,8,16.506,16.506,18.001,1,6,26.5,26.5,28.07,1,3,37.34,37.34,40.079,1,8,36.923,36.923,38.501,1,1,24.622,24.622,33.432,1,8,19.626,19.626,21.529,1,1,45.163,45.163,47.761,1,7,2.6,39.657,42.058,2,2,21.047,24.506,26.69,2,1,46.166,46.166,48.095,1,8,12.189,12.561,14.469,2,1,18.609,18.609,20,1,5,14.126,18.034,19.527,2,8,2.424,25.437,26.978,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,it was engaging.,D451405BDC7640C1B3A3F472572A98BE,f0e74ed0-d876-4945-a7b7-8f97cf8a2163,d7fd3f8e-06c5-4a0d-ae89-07b0b6cf4d98,0,0,1,0,0,1
+2024-10-29 04:05:39,2024-10-29 04:35:07,0,98.116.198.10,100,1767,1,2024-10-29 04:35:08,R_7tLQgCxBCxwCfKj,,,,,40.6286,-73.939,anonymous,EN,1,,0,0,,1,0.897,29.508,30.446,2,8,19.7,19.7,21.801,1,1,18.622,18.622,21.829,1,1,28.218,28.218,29.574,1,1,11.392,11.392,12.384,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,16.402,16.402,19.562,1,1,30.888,30.888,31.652,1,1,22.181,22.181,22.812,1,5,22.76,23.66,37.215,2,1,22.834,22.834,25.68,1,1,36.842,38.977,39.759,2,8,22.038,22.038,23.672,1,1,63.681,64.382,64.303,2,1,24.853,24.853,25.622,1,8,20.424,23.685,39.489,2,5,31.59,33.767,34.675,2,3,15.631,15.631,20.329,1,1,20.614,21.431,22.336,2,8,21.496,21.496,22.145,1,8,7.241,7.808,8.657,2,8,42.478,43.003,43.027,2,8,23.426,23.426,25.001,1,8,17.747,32.923,33.578,3,1,19.165,20.291,21.766,3,1,16.736,16.736,23.397,1,1,30.654,38.825,43.143,3,4,14.439,14.439,15.935,1,5,11.668,11.668,12.275,1,1,63.694,65.505,66.628,2,4,9.912,9.912,10.524,1,8,6.616,6.616,13.547,1,8,13.847,14.368,16.06,2,1,10.175,10.175,11.368,1,8,30.721,30.721,32.188,1,8,32.458,32.458,33.395,1,4,9.768,9.768,10.856,1,1,20.3,20.3,22.849,1,4,18.126,18.126,19.18,1,8,15.779,15.779,16.512,1,8,39.947,39.947,42.378,1,8,39.396,39.396,39.917,1,1,23.001,23.001,23.841,1,1,9.621,9.621,10.7,1,8,16.395,16.395,17.1,1,1,25.351,25.351,26.298,1,8,24.868,24.868,25.475,1,1,14.726,14.726,15.409,1,4,16.516,17.124,17.787,2,1,18.37,18.37,19.076,1,1,53.295,53.295,55.2,1,8,19.039,19.714,21.189,2,8,36.256,36.864,36.88,2,1,30.12,30.12,30.822,1,8,35.223,35.679,36.5,2,1,29.307,29.307,30.101,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I’d be apprehensive to use any AI assistant that confidently output many of these suggestions. I feel like it should instead inform people how to make better decisions on their own or seek the help of actual people or sources.,D21EE2320A314F5BBA3D5EE4321BBC00,3a8192d1-a72d-44c0-8459-09d7200cffab,d7fd3f8e-06c5-4a0d-ae89-07b0b6cf4d98,0,0,0,0,0,0
