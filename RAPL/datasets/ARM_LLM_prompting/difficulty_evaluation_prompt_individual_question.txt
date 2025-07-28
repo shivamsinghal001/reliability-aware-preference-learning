@@ -1,0 +1,19 @@
+A human annotator is shown a question and two possible responses from an AI chatbot. Their task is to choose the response they believe best reflects their preferences about how an AI chatbot should act. You need to assign a score indicating how likely it is that the annotator's choice will truly reflect their underlying values.
+
+Question: {question}
+
+Response A: {response1}
+Response B: {response2}
+
+Carefully reason through the following question step-by-step, and then assign a score that accurately reflects your reasoning.
+
+{reasoning_question}
+
+Output your responses in the format below. 
+Reasoning: <Reasoning>
+Score: <Score>
+
+Tips:
+- Always provide a numeric score between 1 and 5. Never leave a field blank or use N/A.
+- Make sure that the numerical score is always the last token in your response.
+- Carefully reason through the question step-by-step, and then assign a score that accurately reflects your reasoning.

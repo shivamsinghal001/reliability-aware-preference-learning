@@ -1,0 +1,24 @@
+A human annotator is shown a question and two possible responses from an AI chatbot. Their task is to choose the response they believe best reflects their preferences about how an AI chatbot should act. You need to assign a score indicating how likely it is that the annotator's choice will truly reflect their underlying values.
+
+Think carefully about the following criteria and lay out your reasoning step-by-step:
+- Whether the annotator has the necessary knowledge to evaluate the question and responses accurately
+- Whether the annotator has reasonable access to resources (such as time and energy) to make an informed decision
+- The potential impact of the language used in the question or the responses on the annotator's choice (e.g., whether or not it is potentially misleading, etc.)
+- The potential impact of cognitive biases on the annotator's decision
+- Other factors that you can think of that would make the average annotator's evaluation difficult
+
+Question: {question}
+
+Response A: {response1}
+Response B: {response2}
+
+The score should range from 1 to 7, where:
+- 1 means the choice is highly reflective of their true preferences.
+- 7 means the choice is not reflective of their true preferences at all.
+
+Format your response like this: <YOUR REASONING>: <NUMERICAL SCORE>
+
+Tips:
+- Always provide a numeric score between 1 and 7. Never leave a field blank or use N/A.
+- Make sure that the numerical score is always the last token in your response.
+- Carefully reason through each of the criterion step-by-step, and then assign a score that accurately reflects your reasoning.
