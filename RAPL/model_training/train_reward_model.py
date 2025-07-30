@@ -310,7 +310,7 @@ def main(_config, _run):
         weight_decay=_config["weight_decay"],
         eval_strategy=_config["eval_strategy"],
         save_strategy="no",
-        save_only_model=True,
+        save_only_model=False,
         gradient_accumulation_steps=_config["gradient_accumulation_steps"],
         gradient_checkpointing=_config["gradient_checkpointing"],
         gradient_checkpointing_kwargs=gradient_checkpointing_kwargs,
@@ -393,9 +393,9 @@ def main(_config, _run):
     )
 
     trainer.train(_config["resume_from_checkpoint"])
-    saved_model_dir = f"{observer.dir}-last_checkpoint"
-    trainer.save_model(saved_model_dir)
-    print(f"Saved last checkpoint of the model to {saved_model_dir}")
+    # saved_model_dir = f"{observer.dir}-last_checkpoint"
+    # trainer.save_model(saved_model_dir)
+    # print(f"Saved last checkpoint of the model to {saved_model_dir}")
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model = trainer.model

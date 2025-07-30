@@ -66,6 +66,7 @@ SUBSET_MAPPING = {
     ],
 }
 
+
 def calculate_scores_per_section(example_counts, subset_mapping, metrics):
     """
     Helper function for immediately logging RewardBench scores.
@@ -83,7 +84,6 @@ def calculate_scores_per_section(example_counts, subset_mapping, metrics):
         else:
             section_scores[section] = 0
     return section_scores
-
 
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
