@@ -1,0 +1,7 @@
+name: RAPL
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.13
+prefix: /nas/ucb/k8/shivamsinghal/anaconda3/envs/RAPL
