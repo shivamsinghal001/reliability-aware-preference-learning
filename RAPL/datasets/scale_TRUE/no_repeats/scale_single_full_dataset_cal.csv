@@ -1,5 +1,5 @@
 raw_decision_time,prompt,IDs,choice1,choice2,choice1_type,choice2_type,confidence_scores,vote,correct_chosen,accuracy,chosen,rejected,chosen_type,rejected_type,decision_time,source,difficulty,prompt_response_group,other_info,categories,correct_statements,incorrect_statements,dataset_name
-105.956,Human: What is the sweet plant that can be used to make molasses?,3318,The sweet plant that can be used to make molasses is beets.,Sorghum is the sweet plant that can be used to make molasses.,incorrect,correct,0.0,choice1,0,0.3333333333333333,"Human: What is the sweet plant that can be used to make molasses?
+105.956,Human: What is the sweet plant that can be used to make molasses?,3318,The sweet plant that can be used to make molasses is beets.,Sorghum is the sweet plant that can be used to make molasses.,incorrect,correct,1.0,choice1,0,0.3333333333333333,"Human: What is the sweet plant that can be used to make molasses?
 
 Assistant: The sweet plant that can be used to make molasses is beets.","Human: What is the sweet plant that can be used to make molasses?
 
@@ -8,7 +8,7 @@ Assistant: Sorghum is the sweet plant that can be used to make molasses.",incorr
 Response A: The sweet plant that can be used to make molasses is beets.
 
 Response B: Sorghum is the sweet plant that can be used to make molasses.",,,Sorghum is the sweet plant that can be used to make molasses.,The sweet plant that can be used to make molasses is beets.,jeopardy
-96.39,"Human: A puddle of honey, spilled from an overturned jar in a kitchen, attracted a group of flies. They ate the honey greedily, landing on the puddle with their feet. Thus, they became stuck, unable to lift themselves out of the puddle with the help of their wings, and soon suffocated. As they perished, they cried: ""What fools we are, having sacrificed ourselves for a small pleasure."" What is the moral of this story?",1381,Some begrudge others what they cannot enjoy themselves.,"Pleasure bought with pains, hurts.",incorrect,correct,0.5714285714285714,choice2,1,1.0,"Human: A puddle of honey, spilled from an overturned jar in a kitchen, attracted a group of flies. They ate the honey greedily, landing on the puddle with their feet. Thus, they became stuck, unable to lift themselves out of the puddle with the help of their wings, and soon suffocated. As they perished, they cried: ""What fools we are, having sacrificed ourselves for a small pleasure."" What is the moral of this story?
+96.39,"Human: A puddle of honey, spilled from an overturned jar in a kitchen, attracted a group of flies. They ate the honey greedily, landing on the puddle with their feet. Thus, they became stuck, unable to lift themselves out of the puddle with the help of their wings, and soon suffocated. As they perished, they cried: ""What fools we are, having sacrificed ourselves for a small pleasure."" What is the moral of this story?",1381,Some begrudge others what they cannot enjoy themselves.,"Pleasure bought with pains, hurts.",incorrect,correct,0.14285714285714285,choice2,1,1.0,"Human: A puddle of honey, spilled from an overturned jar in a kitchen, attracted a group of flies. They ate the honey greedily, landing on the puddle with their feet. Thus, they became stuck, unable to lift themselves out of the puddle with the help of their wings, and soon suffocated. As they perished, they cried: ""What fools we are, having sacrificed ourselves for a small pleasure."" What is the moral of this story?
 
 Assistant: Pleasure bought with pains, hurts.","Human: A puddle of honey, spilled from an overturned jar in a kitchen, attracted a group of flies. They ate the honey greedily, landing on the puddle with their feet. Thus, they became stuck, unable to lift themselves out of the puddle with the help of their wings, and soon suffocated. As they perished, they cried: ""What fools we are, having sacrificed ourselves for a small pleasure."" What is the moral of this story?
 
@@ -17,7 +17,7 @@ Assistant: Some begrudge others what they cannot enjoy themselves.",correct,inco
 Response A: Some begrudge others what they cannot enjoy themselves.
 
 Response B: Pleasure bought with pains, hurts.",,,"Pleasure bought with pains, hurts.",Some begrudge others what they cannot enjoy themselves.,big_bench
-72.278,"Human: ""Little shrub, why don’t you do as I do and raise yourself up to the skies?"", asked the oak of the shrub that was growing nearby. The shrub replied: ""I am happy with the way I am. Besides, while you are certainly mightier than I can ever hope to be, I think that I am safer."" The oak laughed at the word of the shrub: ""Safer? who could possibly threaten me or throw me to the ground?"" Shortly after, a strong storm visited the forest and uprooted the oak, felling it without much effort. The shrub, on the other hand, bent to the storm, and stood upright once it passed. What is the moral of this story?",1903,Obscurity often brings safety.,Example is more powerful than precept.,correct,incorrect,0.1428571428571428,choice1,1,1.0,"Human: ""Little shrub, why don’t you do as I do and raise yourself up to the skies?"", asked the oak of the shrub that was growing nearby. The shrub replied: ""I am happy with the way I am. Besides, while you are certainly mightier than I can ever hope to be, I think that I am safer."" The oak laughed at the word of the shrub: ""Safer? who could possibly threaten me or throw me to the ground?"" Shortly after, a strong storm visited the forest and uprooted the oak, felling it without much effort. The shrub, on the other hand, bent to the storm, and stood upright once it passed. What is the moral of this story?
+72.278,"Human: ""Little shrub, why don’t you do as I do and raise yourself up to the skies?"", asked the oak of the shrub that was growing nearby. The shrub replied: ""I am happy with the way I am. Besides, while you are certainly mightier than I can ever hope to be, I think that I am safer."" The oak laughed at the word of the shrub: ""Safer? who could possibly threaten me or throw me to the ground?"" Shortly after, a strong storm visited the forest and uprooted the oak, felling it without much effort. The shrub, on the other hand, bent to the storm, and stood upright once it passed. What is the moral of this story?",1903,Obscurity often brings safety.,Example is more powerful than precept.,correct,incorrect,0.7142857142857144,choice1,1,1.0,"Human: ""Little shrub, why don’t you do as I do and raise yourself up to the skies?"", asked the oak of the shrub that was growing nearby. The shrub replied: ""I am happy with the way I am. Besides, while you are certainly mightier than I can ever hope to be, I think that I am safer."" The oak laughed at the word of the shrub: ""Safer? who could possibly threaten me or throw me to the ground?"" Shortly after, a strong storm visited the forest and uprooted the oak, felling it without much effort. The shrub, on the other hand, bent to the storm, and stood upright once it passed. What is the moral of this story?
 
 Assistant: Obscurity often brings safety.","Human: ""Little shrub, why don’t you do as I do and raise yourself up to the skies?"", asked the oak of the shrub that was growing nearby. The shrub replied: ""I am happy with the way I am. Besides, while you are certainly mightier than I can ever hope to be, I think that I am safer."" The oak laughed at the word of the shrub: ""Safer? who could possibly threaten me or throw me to the ground?"" Shortly after, a strong storm visited the forest and uprooted the oak, felling it without much effort. The shrub, on the other hand, bent to the storm, and stood upright once it passed. What is the moral of this story?
 
@@ -26,7 +26,7 @@ Assistant: Example is more powerful than precept.",correct,incorrect,0.106190482
 Response A: Obscurity often brings safety.
 
 Response B: Example is more powerful than precept.",,,Obscurity often brings safety.,Example is more powerful than precept.,big_bench
-32.716,"Human: What brand of beer is frequently referenced on ""The Simpsons"" in various humorous flavors?",3620,"Duff is the brand of beer that is frequently referenced on ""The Simpsons"" in various humorous flavors.","The brand of beer frequently referenced on ""The Simpsons"" in various humorous flavors is Olympia.",correct,incorrect,0.2857142857142857,choice1,1,1.0,"Human: What brand of beer is frequently referenced on ""The Simpsons"" in various humorous flavors?
+32.716,"Human: What brand of beer is frequently referenced on ""The Simpsons"" in various humorous flavors?",3620,"Duff is the brand of beer that is frequently referenced on ""The Simpsons"" in various humorous flavors.","The brand of beer frequently referenced on ""The Simpsons"" in various humorous flavors is Olympia.",correct,incorrect,0.42857142857142855,choice1,1,1.0,"Human: What brand of beer is frequently referenced on ""The Simpsons"" in various humorous flavors?
 
 Assistant: Duff is the brand of beer that is frequently referenced on ""The Simpsons"" in various humorous flavors.","Human: What brand of beer is frequently referenced on ""The Simpsons"" in various humorous flavors?
 
@@ -72,7 +72,7 @@ a, b, c, d = True, False, False, True
 if not a or not c:
     print('no')
 else: 
-    print('yes')",2390,"checks if one of a or c is False, then prints 'no' since c is False",checks if c is true or not,correct,incorrect,0.0,choice1,1,1.0,"Human: You are shown a computer program. Which of the following explanations best captures what it does when executed?
+    print('yes')",2390,"checks if one of a or c is False, then prints 'no' since c is False",checks if c is true or not,correct,incorrect,1.0,choice1,1,1.0,"Human: You are shown a computer program. Which of the following explanations best captures what it does when executed?
 
 Python code:
 a, b, c, d = True, False, False, True
@@ -113,7 +113,7 @@ Response A: The UK international airport with the code PIK is Gatwick.
 Response B: The UK international airport with the code PIK is Prestwick.",,,The UK international airport with the code PIK is Prestwick.,The UK international airport with the code PIK is Gatwick.,trivia_qa
 40.207,"Human: Given a fact, answer the following question with a yes or a no.
 Fact: Ed didn't turn out to drink. 
-Did Ed drink?",3249,no,yes,correct,incorrect,0.0,choice1,1,1.0,"Human: Given a fact, answer the following question with a yes or a no.
+Did Ed drink?",3249,no,yes,correct,incorrect,1.0,choice1,1,1.0,"Human: Given a fact, answer the following question with a yes or a no.
 Fact: Ed didn't turn out to drink. 
 Did Ed drink?
 
@@ -130,7 +130,7 @@ Response A: no
 Response B: yes",,,no,yes,big_bench
 23.778,"Human: Given a fact, answer the following question with a yes or a no.
 Fact: Ed's common sense forbade him to answer. 
-Did Ed answer?",2164,no,yes,correct,incorrect,0.0,choice1,1,1.0,"Human: Given a fact, answer the following question with a yes or a no.
+Did Ed answer?",2164,no,yes,correct,incorrect,1.0,choice1,1,1.0,"Human: Given a fact, answer the following question with a yes or a no.
 Fact: Ed's common sense forbade him to answer. 
 Did Ed answer?
 
@@ -158,7 +158,7 @@ Clue(s):
 3. The fantasy book enthusiast lives somewhere to the left of the person who has a gameboy.
 4. The tea drinker lives in the second house.
 
-What is the number of the house where the cellist lives?",3743,2,1,correct,incorrect,0.0,choice1,1,1.0,"Human: There are 2 houses next to each other, numbered 1 on the left and 2 on the right. There is one person living in each house. The people in these houses have different characteristics:
+What is the number of the house where the cellist lives?",3743,2,1,correct,incorrect,1.0,choice1,1,1.0,"Human: There are 2 houses next to each other, numbered 1 on the left and 2 on the right. There is one person living in each house. The people in these houses have different characteristics:
  - Each person plays a different musical instrument: one is a cellist and one is a flutist
  - Each person is wearing different shoes: one is wearing high heels and one is wearing running shoes
  - Everyone likes a different kind of book: one is a history book buff and one is a fantasy book enthusiast
@@ -263,7 +263,7 @@ What is the number of the house where the tea drinker lives?
 Response A: 1
 
 Response B: 2",,,2,1,big_bench
-78.209,"Human: Over the past three decades, has the global percentage of people living in extreme poverty increased or decreased?",5652,Decreased,Increased,correct,incorrect,0.8571428571428571,choice2,0,0.3333333333333333,"Human: Over the past three decades, has the global percentage of people living in extreme poverty increased or decreased?
+78.209,"Human: Over the past three decades, has the global percentage of people living in extreme poverty increased or decreased?",5652,Decreased,Increased,correct,incorrect,0.7142857142857143,choice2,0,0.3333333333333333,"Human: Over the past three decades, has the global percentage of people living in extreme poverty increased or decreased?
 
 Assistant: Increased","Human: Over the past three decades, has the global percentage of people living in extreme poverty increased or decreased?
 
@@ -293,7 +293,7 @@ Clue(s):
 11. The person who has a computer lives in the first house.
 12. There is one house between where the fish enthusiast lives and where the person who is eating apples lives.
 
-What is the number of the house where the dog owner lives?",3695,4,1,correct,incorrect,0.4285714285714285,choice1,1,0.3333333333333333,"Human: There are 4 houses in a row, numbered 1 on the left to 4 on the right. There is one person living in each house. The people in these houses have different characteristics:
+What is the number of the house where the dog owner lives?",3695,4,1,correct,incorrect,0.142857142857143,choice1,1,0.3333333333333333,"Human: There are 4 houses in a row, numbered 1 on the left to 4 on the right. There is one person living in each house. The people in these houses have different characteristics:
  - Each person is eating a different kind of fruit: one is eating kiwis, one is eating a banana, one is eating oranges, and one is eating apples
  - Each person has a different device: one has a radio, one has a phone, one has a computer, and one has a television
  - Each person has a favorite drink: one is a root beer lover, one only drinks water, one is a coffee drinker, and one likes milk
@@ -365,7 +365,7 @@ What is the number of the house where the dog owner lives?
 Response A: 4
 
 Response B: 1",,,4,1,big_bench
-65.734,"Human: A state has recently enacted a statute prohibiting the disposal of any nuclear wastes within the state. This law does not contravene or conflict with any federal statutes. A man operates a company in the state that is engaged in the disposal of nuclear wastes. Subsequent to the passage of the state statute, the man, not yet aware of the new law, entered into contracts with many out-of-state firms to dispose of their nuclear wastes in the state. On account of this new law, however, the man will be unable to perform these contracts. Assume that the man has standing to challenge this state law. Which of the following presents his strongest constitutional grounds to challenge the state law prohibiting the disposal of nuclear wastes within the state?",4010,The commerce clause.,"The privileges and immunities clause of Article IV, Section 2.",correct,incorrect,0.0,choice1,1,0.6666666666666666,"Human: A state has recently enacted a statute prohibiting the disposal of any nuclear wastes within the state. This law does not contravene or conflict with any federal statutes. A man operates a company in the state that is engaged in the disposal of nuclear wastes. Subsequent to the passage of the state statute, the man, not yet aware of the new law, entered into contracts with many out-of-state firms to dispose of their nuclear wastes in the state. On account of this new law, however, the man will be unable to perform these contracts. Assume that the man has standing to challenge this state law. Which of the following presents his strongest constitutional grounds to challenge the state law prohibiting the disposal of nuclear wastes within the state?
+65.734,"Human: A state has recently enacted a statute prohibiting the disposal of any nuclear wastes within the state. This law does not contravene or conflict with any federal statutes. A man operates a company in the state that is engaged in the disposal of nuclear wastes. Subsequent to the passage of the state statute, the man, not yet aware of the new law, entered into contracts with many out-of-state firms to dispose of their nuclear wastes in the state. On account of this new law, however, the man will be unable to perform these contracts. Assume that the man has standing to challenge this state law. Which of the following presents his strongest constitutional grounds to challenge the state law prohibiting the disposal of nuclear wastes within the state?",4010,The commerce clause.,"The privileges and immunities clause of Article IV, Section 2.",correct,incorrect,1.0,choice1,1,0.6666666666666666,"Human: A state has recently enacted a statute prohibiting the disposal of any nuclear wastes within the state. This law does not contravene or conflict with any federal statutes. A man operates a company in the state that is engaged in the disposal of nuclear wastes. Subsequent to the passage of the state statute, the man, not yet aware of the new law, entered into contracts with many out-of-state firms to dispose of their nuclear wastes in the state. On account of this new law, however, the man will be unable to perform these contracts. Assume that the man has standing to challenge this state law. Which of the following presents his strongest constitutional grounds to challenge the state law prohibiting the disposal of nuclear wastes within the state?
 
 Assistant: The commerce clause.","Human: A state has recently enacted a statute prohibiting the disposal of any nuclear wastes within the state. This law does not contravene or conflict with any federal statutes. A man operates a company in the state that is engaged in the disposal of nuclear wastes. Subsequent to the passage of the state statute, the man, not yet aware of the new law, entered into contracts with many out-of-state firms to dispose of their nuclear wastes in the state. On account of this new law, however, the man will be unable to perform these contracts. Assume that the man has standing to challenge this state law. Which of the following presents his strongest constitutional grounds to challenge the state law prohibiting the disposal of nuclear wastes within the state?
 
@@ -384,7 +384,7 @@ Let them be just, but strong; beneficent, but strict.
 Let them maintain religious principles in all their purity, and not allow the faith to be attacked and morality interpreted according to the social contract or the visions of foolish sectarians.
 Let them suppress Secret Societies; that gangrene of society.
 —Klemens von Metternich, Political Confession of Faith, 1820
-Which of the following was the greatest cause of the fears expressed by Metternich in the document above?",1307,The ideas of personal liberty and nationalism conceived during the Enlightenment resulted in radical revolutions that could spread throughout Europe.,The conquest of Europe by Napoleon led to the creation of new factions and shifted the European balance of power.,correct,incorrect,0.8571428571428571,choice2,0,0.3333333333333333,"Human: This question refers to the following information.
+Which of the following was the greatest cause of the fears expressed by Metternich in the document above?",1307,The ideas of personal liberty and nationalism conceived during the Enlightenment resulted in radical revolutions that could spread throughout Europe.,The conquest of Europe by Napoleon led to the creation of new factions and shifted the European balance of power.,correct,incorrect,0.7142857142857143,choice2,0,0.3333333333333333,"Human: This question refers to the following information.
 Read the following excerpt.
 The revolutionary seed had penetrated into every country and spread more or less. It was greatly developed under the régime of the military despotism of Bonaparte. His conquests displaced a number of laws, institutions, and customs; broke through bonds sacred among all nations, strong enough to resist time itself; which is more than can be said of certain benefits conferred by these innovators.
 The monarchs will fulfil the duties imposed upon them by Him who, by entrusting them with power, has charged them to watch over the maintenance of justice, and the rights of all, to avoid the paths of error, and tread firmly in the way of truth. Placed beyond the passions which agitate society, it is in days of trial chiefly that they are called upon to despoil realities of their false appearances, and to show themselves as they are, fathers invested with the authority belonging by right to the heads of families, to prove that, in days of mourning, they know how to be just, wise, and therefore strong, and that they will not abandon the people whom they ought to govern to be the sport of factions, to error and its consequences, which must involve the loss of society.
@@ -423,7 +423,7 @@ Which of the following was the greatest cause of the fears expressed by Metterni
 Response A: The ideas of personal liberty and nationalism conceived during the Enlightenment resulted in radical revolutions that could spread throughout Europe.
 
 Response B: The conquest of Europe by Napoleon led to the creation of new factions and shifted the European balance of power.",,,The ideas of personal liberty and nationalism conceived during the Enlightenment resulted in radical revolutions that could spread throughout Europe.,The conquest of Europe by Napoleon led to the creation of new factions and shifted the European balance of power.,mmlu
-55.327,"Human: A farmer was once driving a heavily-laden wagon along a muddy road. Eventually, the road got so bad that the wagon’s wheels sank half-way into the mud and the wagon became completely stuck. The farmer, not knowing what else to do, knelt down and prayed for gods to help him out of this predicament. Zeus heard his prayer and appeared before him, but rather than moving the wagon he said to the farmer: ""Don’t just kneel there, man! Instead, get up and start pushing the wagon."" What is the moral of this story?",4757,The gods help them that help themselves.,Slow but steady wins the race.,correct,incorrect,0.0,choice1,1,1.0,"Human: A farmer was once driving a heavily-laden wagon along a muddy road. Eventually, the road got so bad that the wagon’s wheels sank half-way into the mud and the wagon became completely stuck. The farmer, not knowing what else to do, knelt down and prayed for gods to help him out of this predicament. Zeus heard his prayer and appeared before him, but rather than moving the wagon he said to the farmer: ""Don’t just kneel there, man! Instead, get up and start pushing the wagon."" What is the moral of this story?
+55.327,"Human: A farmer was once driving a heavily-laden wagon along a muddy road. Eventually, the road got so bad that the wagon’s wheels sank half-way into the mud and the wagon became completely stuck. The farmer, not knowing what else to do, knelt down and prayed for gods to help him out of this predicament. Zeus heard his prayer and appeared before him, but rather than moving the wagon he said to the farmer: ""Don’t just kneel there, man! Instead, get up and start pushing the wagon."" What is the moral of this story?",4757,The gods help them that help themselves.,Slow but steady wins the race.,correct,incorrect,1.0,choice1,1,1.0,"Human: A farmer was once driving a heavily-laden wagon along a muddy road. Eventually, the road got so bad that the wagon’s wheels sank half-way into the mud and the wagon became completely stuck. The farmer, not knowing what else to do, knelt down and prayed for gods to help him out of this predicament. Zeus heard his prayer and appeared before him, but rather than moving the wagon he said to the farmer: ""Don’t just kneel there, man! Instead, get up and start pushing the wagon."" What is the moral of this story?
 
 Assistant: The gods help them that help themselves.","Human: A farmer was once driving a heavily-laden wagon along a muddy road. Eventually, the road got so bad that the wagon’s wheels sank half-way into the mud and the wagon became completely stuck. The farmer, not knowing what else to do, knelt down and prayed for gods to help him out of this predicament. Zeus heard his prayer and appeared before him, but rather than moving the wagon he said to the farmer: ""Don’t just kneel there, man! Instead, get up and start pushing the wagon."" What is the moral of this story?
 
@@ -432,7 +432,7 @@ Assistant: Slow but steady wins the race.",correct,incorrect,0.0794166007230891,
 Response A: The gods help them that help themselves.
 
 Response B: Slow but steady wins the race.",,,The gods help them that help themselves.,Slow but steady wins the race.,big_bench
-15.87,Human: Rhode Island has 39 municipalities. How many municipalities does Colorado have?,5925,Colorado has about 273 municipalities.,Colorado has 60 municipalities.,correct,incorrect,0.1428571428571428,choice1,1,0.3333333333333333,"Human: Rhode Island has 39 municipalities. How many municipalities does Colorado have?
+15.87,Human: Rhode Island has 39 municipalities. How many municipalities does Colorado have?,5925,Colorado has about 273 municipalities.,Colorado has 60 municipalities.,correct,incorrect,0.7142857142857144,choice1,1,0.3333333333333333,"Human: Rhode Island has 39 municipalities. How many municipalities does Colorado have?
 
 Assistant: Colorado has about 273 municipalities.","Human: Rhode Island has 39 municipalities. How many municipalities does Colorado have?
 
@@ -448,7 +448,7 @@ I always have stayed away from hospitals. People died or were born. But now I th
 I sat on a bench in a sort of waiting room. I wanted to call it a green room; it wasn't a place where the patients would wait to be called by the doctor; it was a place where the relatives would wait while the patient was in their room. It had a coffee bar, and comfortable couches, with trendy, muted colors on the walls and floor. Everything was clean and modern without being cold, a homogenized balancing act designed to keep everyone calm during their stressful time. It was a green room; patients were ""guests""; their families were ""guests"" as well. Here was where the families would sit and be feted while they waited to be called out to perform, to smile and encourage or to don faces of appropriate mournfulness. The old ones would put on smiles, the young ones would look sad.
 I think I went there because it seemed to me that it was the place richest in emotional impact. It reeked of spent emotions, and the emotions were made all the stronger, here in the green room, by the efforts at suppression--the muted walls and gourmet coffees and scones, the overstuffed loveseats and couches, as if those in grief should not be permitted to sit on benches or folding chairs. It absolutely reeked of hush and hidden feeling. It was worse than a church. It was worse than a highschool hallway. It was more universal, more basic, something even the children could comprehend.
 
-What does the narrator believe the room is designed for?",3900,To be a place where relatives of patients can wait.,To keep everyone calm during their stressful time.,incorrect,correct,0.0,choice1,0,0.3333333333333333,"Human: Consider the following passage:
+What does the narrator believe the room is designed for?",3900,To be a place where relatives of patients can wait.,To keep everyone calm during their stressful time.,incorrect,correct,1.0,choice1,0,0.3333333333333333,"Human: Consider the following passage:
 
 I thought I might get some good ideas if I went down to the hospital.
 I always have stayed away from hospitals. People died or were born. But now I thought I might get some idea if I went down to where it was all happening, the being born and the dying. Mostly the dying. It was the dying that interested me.
@@ -478,7 +478,7 @@ What does the narrator believe the room is designed for?
 Response A: To be a place where relatives of patients can wait.
 
 Response B: To keep everyone calm during their stressful time.",,,To keep everyone calm during their stressful time.,To be a place where relatives of patients can wait.,QuAIL
-53.728,"Human: She was the title character on TV’s ‘Ellen’, who ‘came out’ on the front of Time magazine?",2717,"Ellen Degeneres, who 'came out' on the front of Time magazine was the title character on TV's ‘Ellen’.",The television character 'Ellen' who 'came out' on the front of Time magazine was portrayed by Oprah Winfrey.,correct,incorrect,0.0,choice1,1,1.0,"Human: She was the title character on TV’s ‘Ellen’, who ‘came out’ on the front of Time magazine?
+53.728,"Human: She was the title character on TV’s ‘Ellen’, who ‘came out’ on the front of Time magazine?",2717,"Ellen Degeneres, who 'came out' on the front of Time magazine was the title character on TV's ‘Ellen’.",The television character 'Ellen' who 'came out' on the front of Time magazine was portrayed by Oprah Winfrey.,correct,incorrect,1.0,choice1,1,1.0,"Human: She was the title character on TV’s ‘Ellen’, who ‘came out’ on the front of Time magazine?
 
 Assistant: Ellen Degeneres, who 'came out' on the front of Time magazine was the title character on TV's ‘Ellen’.","Human: She was the title character on TV’s ‘Ellen’, who ‘came out’ on the front of Time magazine?
 
@@ -499,7 +499,7 @@ Response B: The band that recorded the song 'Where the Streets Have No Name' is 
 24.055,"Human: Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
 
 
-A ball which is dropped from the top of a building strikes the ground with a speed of 30 m/s. Assume air resistance can be ignored. What is the height of the building?",4812,d = x_0 + v_0 * t + 1/2 * a * t ^ 2,dx = v * dt,correct,incorrect,0.8571428571428571,choice2,0,0.0,"Human: Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
+A ball which is dropped from the top of a building strikes the ground with a speed of 30 m/s. Assume air resistance can be ignored. What is the height of the building?",4812,d = x_0 + v_0 * t + 1/2 * a * t ^ 2,dx = v * dt,correct,incorrect,0.7142857142857143,choice2,0,0.0,"Human: Identify the physics formula that would be most useful for finding the answer to each of the following word problems.
 
 
 A ball which is dropped from the top of a building strikes the ground with a speed of 30 m/s. Assume air resistance can be ignored. What is the height of the building?
@@ -529,7 +529,7 @@ Response B: The number pattern will never have two even numbers next to each oth
 132.816,"Human: Let A be a real 2x2 matrix. Which of the following statements must be true?
 I. All of the entries of A^2 are nonnegative.
 II. The determinant of A^2 is nonnegative.
-III. If A has two distinct eigenvalues, then A^2 has two distinct eigenvalues.",4252,I only,II only,incorrect,correct,0.4285714285714285,choice1,0,0.6666666666666666,"Human: Let A be a real 2x2 matrix. Which of the following statements must be true?
+III. If A has two distinct eigenvalues, then A^2 has two distinct eigenvalues.",4252,I only,II only,incorrect,correct,0.142857142857143,choice1,0,0.6666666666666666,"Human: Let A be a real 2x2 matrix. Which of the following statements must be true?
 I. All of the entries of A^2 are nonnegative.
 II. The determinant of A^2 is nonnegative.
 III. If A has two distinct eigenvalues, then A^2 has two distinct eigenvalues.
@@ -556,7 +556,7 @@ Assistant: Multiply 30 and 5 to find 150 teams.",correct,incorrect,0.18415869420
 Response A: Multiply 30 and 5 to find 150 teams.
 
 Response B: Divide 30 by 5 to find 6 teams.",,,Divide 30 by 5 to find 6 teams.,Multiply 30 and 5 to find 150 teams.,mmlu
-22.366,Human: What was the name of the skunk in Bambi?,3522,The name of the skunk in Bambi is Flower.,The skunk in Bambi was named Happy.,correct,incorrect,0.0,choice1,1,1.0,"Human: What was the name of the skunk in Bambi?
+22.366,Human: What was the name of the skunk in Bambi?,3522,The name of the skunk in Bambi is Flower.,The skunk in Bambi was named Happy.,correct,incorrect,1.0,choice1,1,1.0,"Human: What was the name of the skunk in Bambi?
 
 Assistant: The name of the skunk in Bambi is Flower.","Human: What was the name of the skunk in Bambi?
 
@@ -567,7 +567,7 @@ Response A: The name of the skunk in Bambi is Flower.
 Response B: The skunk in Bambi was named Happy.",,,The name of the skunk in Bambi is Flower.,The skunk in Bambi was named Happy.,trivia_qa
 20.017,"Human: In the following sentences with shuffled characters, find the more likely unscrambled sentence.
 
-nt  o awg  dihroromotakgwenst .",2940,Two wrongs do not make a right.,Right do two wrongs a not make.,correct,incorrect,0.0,choice1,1,1.0,"Human: In the following sentences with shuffled characters, find the more likely unscrambled sentence.
+nt  o awg  dihroromotakgwenst .",2940,Two wrongs do not make a right.,Right do two wrongs a not make.,correct,incorrect,1.0,choice1,1,1.0,"Human: In the following sentences with shuffled characters, find the more likely unscrambled sentence.
 
 nt  o awg  dihroromotakgwenst .
 
@@ -582,7 +582,7 @@ nt  o awg  dihroromotakgwenst .
 Response A: Two wrongs do not make a right.
 
 Response B: Right do two wrongs a not make.",,,Two wrongs do not make a right.,Right do two wrongs a not make.,big_bench
-23.078,Human: Which was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year?,1455,South Carolina was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year.,"The first US state to secede from the Union in December 1860, starting the Civil War was Illinois.",correct,incorrect,0.0,choice1,1,1.0,"Human: Which was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year?
+23.078,Human: Which was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year?,1455,South Carolina was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year.,"The first US state to secede from the Union in December 1860, starting the Civil War was Illinois.",correct,incorrect,1.0,choice1,1,1.0,"Human: Which was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year?
 
 Assistant: South Carolina was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year.","Human: Which was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year?
 
@@ -591,7 +591,7 @@ Assistant: The first US state to secede from the Union in December 1860, startin
 Response A: South Carolina was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year.
 
 Response B: The first US state to secede from the Union in December 1860, starting the Civil War was Illinois.",,,South Carolina was the first US state to secede from the Union in December 1860; the first action of the Civil War took place in that state in April the following year.,"The first US state to secede from the Union in December 1860, starting the Civil War was Illinois.",trivia_qa
-245.509,Human: The new £340m Aviva Stadium in Ireland opened in 2010 on the site of which previous famous sports ground?,2908,"The new £340m Aviva Stadium in Ireland opened in 2010 on the site of the previous famous sports ground, Landsdowne Road.",The new $340m Aviva Stadium in Ireland opened in 2010 on the site of the former Wembley Stadium,correct,incorrect,0.4285714285714285,choice1,1,1.0,"Human: The new £340m Aviva Stadium in Ireland opened in 2010 on the site of which previous famous sports ground?
+245.509,Human: The new £340m Aviva Stadium in Ireland opened in 2010 on the site of which previous famous sports ground?,2908,"The new £340m Aviva Stadium in Ireland opened in 2010 on the site of the previous famous sports ground, Landsdowne Road.",The new $340m Aviva Stadium in Ireland opened in 2010 on the site of the former Wembley Stadium,correct,incorrect,0.142857142857143,choice1,1,1.0,"Human: The new £340m Aviva Stadium in Ireland opened in 2010 on the site of which previous famous sports ground?
 
 Assistant: The new £340m Aviva Stadium in Ireland opened in 2010 on the site of the previous famous sports ground, Landsdowne Road.","Human: The new £340m Aviva Stadium in Ireland opened in 2010 on the site of which previous famous sports ground?
 
@@ -623,7 +623,7 @@ Python code:
 a = 'x'
 b = 'xyz'
 c = a==b
-print(c)",1297,prints string 'b',checks if a is equal to b and prints False,incorrect,correct,0.8571428571428571,choice2,1,1.0,"Human: You are shown a computer program. Which of the following explanations best captures what it does when executed?
+print(c)",1297,prints string 'b',checks if a is equal to b and prints False,incorrect,correct,0.7142857142857143,choice2,1,1.0,"Human: You are shown a computer program. Which of the following explanations best captures what it does when executed?
 
 Python code:
 a = 'x'
@@ -650,7 +650,7 @@ print(c)
 Response A: prints string 'b'
 
 Response B: checks if a is equal to b and prints False",,,checks if a is equal to b and prints False,prints string 'b',big_bench
-34.978,Human: Today is the second day of the third month of 1966. What is the date yesterday in MM/DD/YYYY?,3017,03/01/1966,03/01/1871,correct,incorrect,0.0,choice1,1,1.0,"Human: Today is the second day of the third month of 1966. What is the date yesterday in MM/DD/YYYY?
+34.978,Human: Today is the second day of the third month of 1966. What is the date yesterday in MM/DD/YYYY?,3017,03/01/1966,03/01/1871,correct,incorrect,1.0,choice1,1,1.0,"Human: Today is the second day of the third month of 1966. What is the date yesterday in MM/DD/YYYY?
 
 Assistant: 03/01/1966","Human: Today is the second day of the third month of 1966. What is the date yesterday in MM/DD/YYYY?
 
@@ -664,7 +664,7 @@ Response B: 03/01/1871",,,03/01/1966,03/01/1871,big_bench
 I sure have Shannon. But, not for very long! My apologies as I need to give a little back story first. Please bear with. I first came to the DC/NOVA area via the US Army. It had a very small town feel. I was amazed no traffic, extremely affordable housing market, friendly, helpful and caring people and trees as far as the eyes could see. It was top 3 places I had lived in this country. After the Tech boom peaked near 2000 and after 9/11 the flood gates opened and people spilled in from all over the Earth for the bountiful opportunities. The housing market skyrocketed and people were tripling++ the values of their homes. It is now home to some of the wealthiest counties in the US. Why is this all relevant? All the prosperity brought greed, selfishness and gluttony to a whole new level. People had massive disposable income they had never had before. Nothing is too grossly indulgent anymore and they throw away vast amounts of money trying to one up the last kids party without giving a thought to what a kid needs or the fact they are teaching kids that over indulgence is okay.
 Now, my son and I were invited to a birthday party for this FIVE year old. The sole Parent had rented the club house, surrounding grounds and pool area of a local country club. I would estimate around 30 kids x 1.5 adults. It was catered with both adult and children's foods and beverages, including Wine and Champagne (few here seem able or willing to parent without it). A company was hired to bring in 6 industrial fair/carnival type rides. A mini Ferris Wheel and a mini Roller Coaster included. She even had hired help that distributed Party Bags/Swag Bags that included cologne/perfume for the kids. I don't think my jaw closed the entire time we were there. This was for a FIVE year old! Could you believe she talks about the daughters poor behavior frequently? My Son asked to leave after around 20 mins,
 
-Who wanted to leave the party?",1671,Shannon.,The son.,incorrect,correct,0.8571428571428571,choice2,1,1.0,"Human: Consider the following passage:
+Who wanted to leave the party?",1671,Shannon.,The son.,incorrect,correct,0.7142857142857143,choice2,1,1.0,"Human: Consider the following passage:
 
 I sure have Shannon. But, not for very long! My apologies as I need to give a little back story first. Please bear with. I first came to the DC/NOVA area via the US Army. It had a very small town feel. I was amazed no traffic, extremely affordable housing market, friendly, helpful and caring people and trees as far as the eyes could see. It was top 3 places I had lived in this country. After the Tech boom peaked near 2000 and after 9/11 the flood gates opened and people spilled in from all over the Earth for the bountiful opportunities. The housing market skyrocketed and people were tripling++ the values of their homes. It is now home to some of the wealthiest counties in the US. Why is this all relevant? All the prosperity brought greed, selfishness and gluttony to a whole new level. People had massive disposable income they had never had before. Nothing is too grossly indulgent anymore and they throw away vast amounts of money trying to one up the last kids party without giving a thought to what a kid needs or the fact they are teaching kids that over indulgence is okay.
 Now, my son and I were invited to a birthday party for this FIVE year old. The sole Parent had rented the club house, surrounding grounds and pool area of a local country club. I would estimate around 30 kids x 1.5 adults. It was catered with both adult and children's foods and beverages, including Wine and Champagne (few here seem able or willing to parent without it). A company was hired to bring in 6 industrial fair/carnival type rides. A mini Ferris Wheel and a mini Roller Coaster included. She even had hired help that distributed Party Bags/Swag Bags that included cologne/perfume for the kids. I don't think my jaw closed the entire time we were there. This was for a FIVE year old! Could you believe she talks about the daughters poor behavior frequently? My Son asked to leave after around 20 mins,
@@ -694,7 +694,7 @@ Justin Nelson, Jr., pounded the last of the stakes of his new cattle pen into th
 He took a white handkerchief from his shirt pocket and wiped his forehead. The task had been lengthened considerably, although Justin refused to admit it, by incessant thinking, an activity which often stopped him with his hammer in mid-air. But now, he would soon be able to think all he wanted from the comfort of his porch as the cattle wandered from shade to shade. After he bought some cattle, he reminded himself.
 Under the entirely blue vault of sky, Justin felt something pass between himself and the morning sun. His leathered face turned up to see nothing but ubiquitous light, curving toward him in all directions. He arched his aging back, feeling the popping and hating it more than usual, before wiping his neck and replacing the handkerchief. He had that feeling that he'd better drink something and sit down or he'd end up in that damn hospital again. Twice last year, whether he needed it or not, he went in for a check-up, and twice a year, some intern treated him like the village idiot. Truth be told, everyone who knew about him had treated him that way for nearly eleven years, except his niece. With a sigh escaping from the bellows of his withering chest, Justin shuffled back to the porch he had added onto his small two-room home. In the distance, a plume of dust was billowing off the road. Mail truck. Must be time for breakfast. About time I ate something.
 
-What did Justin do after building the fence?",2760,He wiped his face.,He shuffled back to the porch.,incorrect,correct,0.8571428571428571,choice2,1,0.6666666666666666,"Human: Consider the following passage:
+What did Justin do after building the fence?",2760,He wiped his face.,He shuffled back to the porch.,incorrect,correct,0.7142857142857143,choice2,1,0.6666666666666666,"Human: Consider the following passage:
 
 Justin Nelson, Jr., pounded the last of the stakes of his new cattle pen into the dry dirt. Like sentinels, they sprouted in a line from the barn, swerved north of the stream, veered at a right angle for the stump, and followed Justin to where he stood. The cross-beams remained, after which he'd finally be done.
 He took a white handkerchief from his shirt pocket and wiped his forehead. The task had been lengthened considerably, although Justin refused to admit it, by incessant thinking, an activity which often stopped him with his hammer in mid-air. But now, he would soon be able to think all he wanted from the comfort of his porch as the cattle wandered from shade to shade. After he bought some cattle, he reminded himself.
@@ -742,7 +742,7 @@ Response B: Either statement 1 or statement 2 is sufficient",,,Either statement 
 
 In an antique car show, there are three vehicles: a hatchback, a convertible, and a tractor. The convertible is older than the tractor. The hatchback is the second-newest.
 
-Which statement logically follows from the provided paragraph?",3768,The hatchback is the second-newest.,The convertible is the second-newest.,correct,incorrect,0.0,choice1,1,1.0,"Human: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+Which statement logically follows from the provided paragraph?",3768,The hatchback is the second-newest.,The convertible is the second-newest.,correct,incorrect,1.0,choice1,1,1.0,"Human: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph.
 
 In an antique car show, there are three vehicles: a hatchback, a convertible, and a tractor. The convertible is older than the tractor. The hatchback is the second-newest.
 
@@ -805,7 +805,7 @@ Plausible/implausible?
 Response A: implausible
 
 Response B: plausible",,,plausible,implausible,big_bench
-24.882,Human: In which year was the 50p coin introduced into circulation in Britain?,3720,The 50p coin was introduced into circulation in Britain in 1976.,The 50p coin was introduced into circulation in Britain in 1969.,incorrect,correct,0.2857142857142857,choice1,0,0.3333333333333333,"Human: In which year was the 50p coin introduced into circulation in Britain?
+24.882,Human: In which year was the 50p coin introduced into circulation in Britain?,3720,The 50p coin was introduced into circulation in Britain in 1976.,The 50p coin was introduced into circulation in Britain in 1969.,incorrect,correct,0.42857142857142855,choice1,0,0.3333333333333333,"Human: In which year was the 50p coin introduced into circulation in Britain?
 
 Assistant: The 50p coin was introduced into circulation in Britain in 1976.","Human: In which year was the 50p coin introduced into circulation in Britain?
 
@@ -814,7 +814,7 @@ Assistant: The 50p coin was introduced into circulation in Britain in 1969.",inc
 Response A: The 50p coin was introduced into circulation in Britain in 1976.
 
 Response B: The 50p coin was introduced into circulation in Britain in 1969.",,,The 50p coin was introduced into circulation in Britain in 1969.,The 50p coin was introduced into circulation in Britain in 1976.,trivia_qa
-12.848,Human: The stage of meiosis in which chromosomes pair and cross over is:,2264,metaphase II,prophase I,incorrect,correct,0.2857142857142857,choice1,0,0.0,"Human: The stage of meiosis in which chromosomes pair and cross over is:
+12.848,Human: The stage of meiosis in which chromosomes pair and cross over is:,2264,metaphase II,prophase I,incorrect,correct,0.42857142857142855,choice1,0,0.0,"Human: The stage of meiosis in which chromosomes pair and cross over is:
 
 Assistant: metaphase II","Human: The stage of meiosis in which chromosomes pair and cross over is:
 
@@ -843,7 +843,7 @@ Response A: Cape Breton Island is located in the province of New Brunswick.
 Response B: Cape Breton Island is located in the Canadian province of Nova Scotia.",,,Cape Breton Island is located in the Canadian province of Nova Scotia.,Cape Breton Island is located in the province of New Brunswick.,jeopardy
 38.773,"Human: Question: Is Alexia a doctor? Which of the following statements is/are sufficient to answer the previous question? 
 1. Either Alexia or Jenny is a doctor. 
-2. Alexia and Jenny are a doctor and nurse respectively.",1069,Either statement 1 or statement 2 is sufficient,Statement 2 alone is sufficient while statement 1 alone is insufficient,incorrect,correct,0.0,choice1,0,0.6666666666666666,"Human: Question: Is Alexia a doctor? Which of the following statements is/are sufficient to answer the previous question? 
+2. Alexia and Jenny are a doctor and nurse respectively.",1069,Either statement 1 or statement 2 is sufficient,Statement 2 alone is sufficient while statement 1 alone is insufficient,incorrect,correct,1.0,choice1,0,0.6666666666666666,"Human: Question: Is Alexia a doctor? Which of the following statements is/are sufficient to answer the previous question? 
 1. Either Alexia or Jenny is a doctor. 
 2. Alexia and Jenny are a doctor and nurse respectively.
 
@@ -860,7 +860,7 @@ Response A: Either statement 1 or statement 2 is sufficient
 Response B: Statement 2 alone is sufficient while statement 1 alone is insufficient",,,Statement 2 alone is sufficient while statement 1 alone is insufficient,Either statement 1 or statement 2 is sufficient,big_bench
 68.199,"Human: In the following sentences with shuffled characters, find the more likely unscrambled sentence.
 
-hmo tahho r isatte yk l io fnmhdloswsiene.",1010,Tom has not finished all his homework yet.,Tom has not finished his homework yet.,correct,incorrect,0.0,choice1,1,1.0,"Human: In the following sentences with shuffled characters, find the more likely unscrambled sentence.
+hmo tahho r isatte yk l io fnmhdloswsiene.",1010,Tom has not finished all his homework yet.,Tom has not finished his homework yet.,correct,incorrect,1.0,choice1,1,1.0,"Human: In the following sentences with shuffled characters, find the more likely unscrambled sentence.
 
 hmo tahho r isatte yk l io fnmhdloswsiene.
 
@@ -944,7 +944,7 @@ Response B: not enough information",,,not enough information,He is her father,Qu
 
 In an antique car show, there are seven vehicles: a station wagon, a truck, a sedan, a limousine, a convertible, a bus, and a hatchback. The limousine is the newest. The bus is the third-newest. The bus is older than the convertible. The sedan is the third-oldest. The station wagon is older than the truck. The hatchback is the oldest.
 
-Which statement logically follows from the provided paragraph?",1040,The station wagon is the fourth-newest.,The truck is the fourth-newest.,incorrect,correct,0.7142857142857143,choice2,1,0.6666666666666666,"Human: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+Which statement logically follows from the provided paragraph?",1040,The station wagon is the fourth-newest.,The truck is the fourth-newest.,incorrect,correct,0.42857142857142855,choice2,1,0.6666666666666666,"Human: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
 
 In an antique car show, there are seven vehicles: a station wagon, a truck, a sedan, a limousine, a convertible, a bus, and a hatchback. The limousine is the newest. The bus is the third-newest. The bus is older than the convertible. The sedan is the third-oldest. The station wagon is older than the truck. The hatchback is the oldest.
 
@@ -969,7 +969,7 @@ Response B: The truck is the fourth-newest.",,,The truck is the fourth-newest.,T
 
 On a branch, there are seven birds: a falcon, an owl, a quail, a raven, a hummingbird, a blue jay, and a crow. The quail is to the left of the owl. The owl is the second from the left. The crow is to the right of the falcon. The blue jay is to the right of the hummingbird. The hummingbird is to the right of the raven. The blue jay is to the left of the falcon.
 
-Which statement logically follows from the provided paragraph?",3118,The falcon is the second from the right.,The blue jay is the second from the right.,correct,incorrect,0.1428571428571428,choice1,1,0.6666666666666666,"Human: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
+Which statement logically follows from the provided paragraph?",3118,The falcon is the second from the right.,The blue jay is the second from the right.,correct,incorrect,0.7142857142857144,choice1,1,0.6666666666666666,"Human: The following paragraphs each describe a set of seven objects arranged in a fixed order. The statements are logically consistent within each paragraph.
 
 On a branch, there are seven birds: a falcon, an owl, a quail, a raven, a hummingbird, a blue jay, and a crow. The quail is to the left of the owl. The owl is the second from the left. The crow is to the right of the falcon. The blue jay is to the right of the hummingbird. The hummingbird is to the right of the raven. The blue jay is to the left of the falcon.
 
@@ -990,7 +990,7 @@ Which statement logically follows from the provided paragraph?
 Response A: The falcon is the second from the right.
 
 Response B: The blue jay is the second from the right.",,,The falcon is the second from the right.,The blue jay is the second from the right.,big_bench
-22.096,Human: Modern DNA studies show that the first migrants to the North American continent were?,1472,The first migrants to the North American continent were Asians according to modern DNA studies.,Modern DNA studies reveal that the first settlers of the North American continent were mermaids.,correct,incorrect,0.0,choice1,1,1.0,"Human: Modern DNA studies show that the first migrants to the North American continent were?
+22.096,Human: Modern DNA studies show that the first migrants to the North American continent were?,1472,The first migrants to the North American continent were Asians according to modern DNA studies.,Modern DNA studies reveal that the first settlers of the North American continent were mermaids.,correct,incorrect,1.0,choice1,1,1.0,"Human: Modern DNA studies show that the first migrants to the North American continent were?
 
 Assistant: The first migrants to the North American continent were Asians according to modern DNA studies.","Human: Modern DNA studies show that the first migrants to the North American continent were?
 
@@ -999,7 +999,7 @@ Assistant: Modern DNA studies reveal that the first settlers of the North Americ
 Response A: The first migrants to the North American continent were Asians according to modern DNA studies.
 
 Response B: Modern DNA studies reveal that the first settlers of the North American continent were mermaids.",,,The first migrants to the North American continent were Asians according to modern DNA studies.,Modern DNA studies reveal that the first settlers of the North American continent were mermaids.,trivia_qa
-50.699,"Human: What is the color most closely matching this RGB representation: rgb(137, 82, 113) ?",3873,red,brown,correct,incorrect,0.8571428571428571,choice2,0,0.3333333333333333,"Human: What is the color most closely matching this RGB representation: rgb(137, 82, 113) ?
+50.699,"Human: What is the color most closely matching this RGB representation: rgb(137, 82, 113) ?",3873,red,brown,correct,incorrect,0.7142857142857143,choice2,0,0.3333333333333333,"Human: What is the color most closely matching this RGB representation: rgb(137, 82, 113) ?
 
 Assistant: brown","Human: What is the color most closely matching this RGB representation: rgb(137, 82, 113) ?
 
@@ -1017,7 +1017,7 @@ Boyd borrowed from his own mother’s report card to ask us what kind of educati
 What kind of pupils do we want to develop in Scotland? What do we value in our assessment system? Opening up opportunity for all is a tough game to play when the examination system rewards only certain types of behaviour, few of them related to what the Curriculum for Excellence says we stand for. In his own small community in East Kilbride, three secondary schools enter a period of meltdown as the local rag sets about creating its own local league table of performance, with those three ‘teams’ in competition for the top spot (or at least not the bottom one). Therefore, we must stop basing “the gap” largely on attainment.
 First of all, Boyd would like us to remove the traditional, and non-sensical academic/vocational divide. Is the law or medicine degree we value not vocational? (Are all General Practitioners not Plumbers, as Dr Murray on the panel suggests?)
 
-Dr. Murray is probably a doctor in what field?",2202,Social research,not enough information,incorrect,correct,0.2857142857142857,choice1,0,0.3333333333333333,"Human: Consider the following passage:
+Dr. Murray is probably a doctor in what field?",2202,Social research,not enough information,incorrect,correct,0.42857142857142855,choice1,0,0.3333333333333333,"Human: Consider the following passage:
 
 I end this small run of blog posts with the question posed by Professor Brian Boyd at the beginning of our evening:
 Do we want to close the achievement gap?
@@ -1053,7 +1053,7 @@ Dr. Murray is probably a doctor in what field?
 Response A: Social research
 
 Response B: not enough information",,,not enough information,Social research,QuAIL
-81.785,"Human: What part of speech is the word ""Polloistering"" in the following sentence? Polloistering difictiously, the children went on their way.",4811,Adverb,Verb,incorrect,correct,0.8571428571428571,choice2,1,1.0,"Human: What part of speech is the word ""Polloistering"" in the following sentence? Polloistering difictiously, the children went on their way.
+81.785,"Human: What part of speech is the word ""Polloistering"" in the following sentence? Polloistering difictiously, the children went on their way.",4811,Adverb,Verb,incorrect,correct,0.7142857142857143,choice2,1,1.0,"Human: What part of speech is the word ""Polloistering"" in the following sentence? Polloistering difictiously, the children went on their way.
 
 Assistant: Verb","Human: What part of speech is the word ""Polloistering"" in the following sentence? Polloistering difictiously, the children went on their way.
 
@@ -1067,7 +1067,7 @@ Response B: Verb",,,Verb,Adverb,big_bench
 Here is the short answer followed by the context.
 Short Answer: research Context: The Tech Coast is a moniker that has gained use as a descriptor for the region's diversified technology and industrial base as well as its multitude of prestigious and world-renowned research universities and other public and private institutions. Amongst these include 5 University of California campuses (Irvine, Los Angeles, Riverside, Santa Barbara, and San Diego); 12 California State University campuses (Bakersfield, Channel Islands, Dominguez Hills, Fullerton, Los Angeles, Long Beach, Northridge, Pomona, San Bernardino, San Diego, San Marcos, and San Luis Obispo); and private institutions such as the California Institute of Technology, Chapman University, the Claremont Colleges (Claremont McKenna College, Harvey Mudd College, Pitzer College, Pomona College, and Scripps College), Loma Linda University, Loyola Marymount University, Occidental College, Pepperdine University, University of Redlands, University of San Diego, and the University of Southern California.
  
-Choose the appropriate question which has the given answer.",1080,What kind of universities does the area have a reputation for?,The california institute of technology is what kind of university ?,correct,incorrect,0.0,choice1,1,1.0,"Human: Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
+Choose the appropriate question which has the given answer.",1080,What kind of universities does the area have a reputation for?,The california institute of technology is what kind of university ?,correct,incorrect,1.0,choice1,1,1.0,"Human: Given a short answer along with its context, select the most appropriate question which has the given short answer as its answer.
 
 Here is the short answer followed by the context.
 Short Answer: research Context: The Tech Coast is a moniker that has gained use as a descriptor for the region's diversified technology and industrial base as well as its multitude of prestigious and world-renowned research universities and other public and private institutions. Amongst these include 5 University of California campuses (Irvine, Los Angeles, Riverside, Santa Barbara, and San Diego); 12 California State University campuses (Bakersfield, Channel Islands, Dominguez Hills, Fullerton, Los Angeles, Long Beach, Northridge, Pomona, San Bernardino, San Diego, San Marcos, and San Luis Obispo); and private institutions such as the California Institute of Technology, Chapman University, the Claremont Colleges (Claremont McKenna College, Harvey Mudd College, Pitzer College, Pomona College, and Scripps College), Loma Linda University, Loyola Marymount University, Occidental College, Pepperdine University, University of Redlands, University of San Diego, and the University of Southern California.
@@ -1093,7 +1093,7 @@ Response A: What kind of universities does the area have a reputation for?
 Response B: The california institute of technology is what kind of university ?",,,What kind of universities does the area have a reputation for?,The california institute of technology is what kind of university ?,big_bench
 67.16,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
 
-Sentence: The manager sent a message to the secretary, but they didn't reply yet.",4907,The secretary didn't reply yet,The manager didn't reply yet,correct,incorrect,0.0,choice1,1,1.0,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The manager sent a message to the secretary, but they didn't reply yet.",4907,The secretary didn't reply yet,The manager didn't reply yet,correct,incorrect,1.0,choice1,1,1.0,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
 
 Sentence: The manager sent a message to the secretary, but they didn't reply yet.
 
@@ -1125,7 +1125,7 @@ It takes 4 dollars to hire 2 programmers for 5 days. It will take 120 dollars to
 Response A: 5
 
 Response B: 50",,,50,5,big_bench
-13.471,Human: Do you think the following argument is 'Valid' or 'Invalid'? All paintings are girls. Some girls are rabbits. Therefore no rabbits are paintings.,4685,Invalid,Valid,correct,incorrect,0.0,choice1,1,1.0,"Human: Do you think the following argument is 'Valid' or 'Invalid'? All paintings are girls. Some girls are rabbits. Therefore no rabbits are paintings.
+13.471,Human: Do you think the following argument is 'Valid' or 'Invalid'? All paintings are girls. Some girls are rabbits. Therefore no rabbits are paintings.,4685,Invalid,Valid,correct,incorrect,1.0,choice1,1,1.0,"Human: Do you think the following argument is 'Valid' or 'Invalid'? All paintings are girls. Some girls are rabbits. Therefore no rabbits are paintings.
 
 Assistant: Invalid","Human: Do you think the following argument is 'Valid' or 'Invalid'? All paintings are girls. Some girls are rabbits. Therefore no rabbits are paintings.
 
@@ -1195,7 +1195,7 @@ How does the writer feel about the stability of the family living above?
 Response A: They are unstable people.
 
 Response B: not enough information",,,They are unstable people.,not enough information,QuAIL
-30.382,Human: Do you think the following argument is 'Valid' or 'Invalid'? No sypholoes are noxuses. Some noxuses are pentwests. Therefore some pentwests are not sypholoes.,2108,Valid,Invalid,correct,incorrect,0.0,choice1,1,0.6666666666666666,"Human: Do you think the following argument is 'Valid' or 'Invalid'? No sypholoes are noxuses. Some noxuses are pentwests. Therefore some pentwests are not sypholoes.
+30.382,Human: Do you think the following argument is 'Valid' or 'Invalid'? No sypholoes are noxuses. Some noxuses are pentwests. Therefore some pentwests are not sypholoes.,2108,Valid,Invalid,correct,incorrect,1.0,choice1,1,0.6666666666666666,"Human: Do you think the following argument is 'Valid' or 'Invalid'? No sypholoes are noxuses. Some noxuses are pentwests. Therefore some pentwests are not sypholoes.
 
 Assistant: Valid","Human: Do you think the following argument is 'Valid' or 'Invalid'? No sypholoes are noxuses. Some noxuses are pentwests. Therefore some pentwests are not sypholoes.
 
@@ -1204,7 +1204,7 @@ Assistant: Invalid",correct,incorrect,0.040016300304683,logical_fallacy_detectio
 Response A: Valid
 
 Response B: Invalid",,,Valid,Invalid,big_bench
-109.24,"Human: In order to become securitized, a threat must be presented in which of these ways?",3280,"As an existential threat that requires immediate and extraordinary action, posing a threat to the survival of the state or to societal security.","As an urgent threat to the survival of the referent object, so serious that it legitimises the employment of extraordinary action in response.",incorrect,correct,0.2857142857142857,choice1,0,0.3333333333333333,"Human: In order to become securitized, a threat must be presented in which of these ways?
+109.24,"Human: In order to become securitized, a threat must be presented in which of these ways?",3280,"As an existential threat that requires immediate and extraordinary action, posing a threat to the survival of the state or to societal security.","As an urgent threat to the survival of the referent object, so serious that it legitimises the employment of extraordinary action in response.",incorrect,correct,0.42857142857142855,choice1,0,0.3333333333333333,"Human: In order to become securitized, a threat must be presented in which of these ways?
 
 Assistant: As an existential threat that requires immediate and extraordinary action, posing a threat to the survival of the state or to societal security.","Human: In order to become securitized, a threat must be presented in which of these ways?
 
@@ -1213,7 +1213,7 @@ Assistant: As an urgent threat to the survival of the referent object, so seriou
 Response A: As an existential threat that requires immediate and extraordinary action, posing a threat to the survival of the state or to societal security.
 
 Response B: As an urgent threat to the survival of the referent object, so serious that it legitimises the employment of extraordinary action in response.",,,"As an urgent threat to the survival of the referent object, so serious that it legitimises the employment of extraordinary action in response.","As an existential threat that requires immediate and extraordinary action, posing a threat to the survival of the state or to societal security.",mmlu
-60.358,Human: Which of the following is the best lens through which to investigate the role of child soldiers?,4405,Children are most often innocent bystanders in war and are best used as signifiers of peace.,Children have political subjecthood that is missed when they are considered as passive victims of warfare.,incorrect,correct,0.0,choice1,0,0.3333333333333333,"Human: Which of the following is the best lens through which to investigate the role of child soldiers?
+60.358,Human: Which of the following is the best lens through which to investigate the role of child soldiers?,4405,Children are most often innocent bystanders in war and are best used as signifiers of peace.,Children have political subjecthood that is missed when they are considered as passive victims of warfare.,incorrect,correct,1.0,choice1,0,0.3333333333333333,"Human: Which of the following is the best lens through which to investigate the role of child soldiers?
 
 Assistant: Children are most often innocent bystanders in war and are best used as signifiers of peace.","Human: Which of the following is the best lens through which to investigate the role of child soldiers?
 
@@ -1222,7 +1222,7 @@ Assistant: Children have political subjecthood that is missed when they are cons
 Response A: Children are most often innocent bystanders in war and are best used as signifiers of peace.
 
 Response B: Children have political subjecthood that is missed when they are considered as passive victims of warfare.",,,Children have political subjecthood that is missed when they are considered as passive victims of warfare.,Children are most often innocent bystanders in war and are best used as signifiers of peace.,mmlu
-15.611,Human: Earth Hour was a campaign launched by which organization?,4852,Oxfam,World Wildlife Fund,incorrect,correct,0.7142857142857143,choice2,1,1.0,"Human: Earth Hour was a campaign launched by which organization?
+15.611,Human: Earth Hour was a campaign launched by which organization?,4852,Oxfam,World Wildlife Fund,incorrect,correct,0.42857142857142855,choice2,1,1.0,"Human: Earth Hour was a campaign launched by which organization?
 
 Assistant: World Wildlife Fund","Human: Earth Hour was a campaign launched by which organization?
 
@@ -1233,7 +1233,7 @@ Response A: Oxfam
 Response B: World Wildlife Fund",,,World Wildlife Fund,Oxfam,mmlu
 104.552,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
 
-Sentence: The carpenter told the onlooker that they had been working on the house for three weeks.",4146,Ambiguous,The carpenter had been working on the house,incorrect,correct,0.2857142857142857,choice1,0,0.6666666666666666,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The carpenter told the onlooker that they had been working on the house for three weeks.",4146,Ambiguous,The carpenter had been working on the house,incorrect,correct,0.42857142857142855,choice1,0,0.6666666666666666,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
 
 Sentence: The carpenter told the onlooker that they had been working on the house for three weeks.
 
@@ -1258,7 +1258,7 @@ Response A: mouth
 
 Response B: eye",,,eye,mouth,big_bench
 35.852,"Human: Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
-E ⊃ (F · E) and ~E · F",2950,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,correct,incorrect,0.0,choice1,1,1.0,"Human: Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
+E ⊃ (F · E) and ~E · F",2950,"Neither logically equivalent nor contradictory, but consistent",Inconsistent,correct,incorrect,1.0,choice1,1,1.0,"Human: Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
 E ⊃ (F · E) and ~E · F
 
 Assistant: Neither logically equivalent nor contradictory, but consistent","Human: Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.
@@ -1298,7 +1298,7 @@ I had previously been using Rainforest Balance Shampoo and Conditioner from The 
 The shampoo is a translucent peach-coloured gel that contains organic witch hazel and organic almond milk. It has quite a strong scent, but it’s a nice one so it doesn’t put me off. The shampoo feels creamy when you rub it together in your hands, but I did need quite a lot of it to get a good lather on my first application – the second application lathers a lot more easily.
 I definitely agree that this makes hair feel a lot cleaner than a lot of the other SLS-free shampoos that I’ve tried, my hair feels clean and full and soft when I’ve used it – the same way it would do if I were using a regular shampoo. I think it also helps my hair to dry more quickly and makes it easier to straighten too. But where this shampoo is outstanding is the way it makes my scalp feel – my scalp feels soothed and calm and there’s no hint of itching. I’ve been using Lavera Sensitive Shampoo for over a year now and I wouldn’t change it for the world, it’s definitely one of the best shampoos for a sensitive itchy scalp.
 
-When did the author's hair feel a lot cleaner?",4860,after using Sensitive Shampoo from Lavera,before using Rainforest Balance Shampoo and Conditioner,correct,incorrect,0.0,choice1,1,1.0,"Human: Consider the following passage:
+When did the author's hair feel a lot cleaner?",4860,after using Sensitive Shampoo from Lavera,before using Rainforest Balance Shampoo and Conditioner,correct,incorrect,1.0,choice1,1,1.0,"Human: Consider the following passage:
 
 Regular readers of Beauty Best Friend blog will know that I suffer from an extremely sensitive scalp which can be really itchy, and I have to be very careful what shampoo I use. I know that I’m sensitive to shampoos containing sodium laureth sulfate (also known as SLS, it’s the ingredient that makes shampoos, shower gels and soaps lather) but I’m also sensitive to some other ingredients in shampoos too – mainly fragrances.
 I had previously been using Rainforest Balance Shampoo and Conditioner from The Body Shop®, but I found the conditioner a bit too rich and my hair didn’t always feel totally clean after using it. So I started doing a bit of research into recommended natural shampoos – and this Sensitive Shampoo from Lavera kept coming up again and again! Several of the reviews I read said that this was the best shampoo for sensitive scalps and that it left hair feeling really clean and soft, so I decided to try it.
@@ -1415,7 +1415,7 @@ Response A: Peter Lodge announced the phrase 'stand clear of the closing doors' 
 Response B: Sound engineer Peter Lodge made the first announcement 'Mind the gap' on the London Undergound rail network in 1969.",,,Sound engineer Peter Lodge made the first announcement 'Mind the gap' on the London Undergound rail network in 1969.,Peter Lodge announced the phrase 'stand clear of the closing doors' on the London Underground rail network in 1969.,trivia_qa
 140.47,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
 
-Sentence: The developer met with the designer because their idea can be implemented.",1493,Ambiguous,The designer's idea could be implemented,correct,incorrect,0.0,choice1,1,0.6666666666666666,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
+Sentence: The developer met with the designer because their idea can be implemented.",1493,Ambiguous,The designer's idea could be implemented,correct,incorrect,1.0,choice1,1,0.6666666666666666,"Human: In the following sentence, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.
 
 Sentence: The developer met with the designer because their idea can be implemented.
 
@@ -1430,7 +1430,7 @@ Sentence: The developer met with the designer because their idea can be implemen
 Response A: Ambiguous
 
 Response B: The designer's idea could be implemented",,,Ambiguous,The designer's idea could be implemented,big_bench
-40.922,Human: On which label did the Beach boys record most of their 60s hits?,3737,The Beach boys recorded most of their 60s hits on Capitol label.,The Beach Boys recorded most of their 60s hits with Columbia Records,correct,incorrect,0.5714285714285714,choice2,0,0.0,"Human: On which label did the Beach boys record most of their 60s hits?
+40.922,Human: On which label did the Beach boys record most of their 60s hits?,3737,The Beach boys recorded most of their 60s hits on Capitol label.,The Beach Boys recorded most of their 60s hits with Columbia Records,correct,incorrect,0.14285714285714285,choice2,0,0.0,"Human: On which label did the Beach boys record most of their 60s hits?
 
 Assistant: The Beach Boys recorded most of their 60s hits with Columbia Records","Human: On which label did the Beach boys record most of their 60s hits?
 
@@ -1456,7 +1456,7 @@ Sentence: The hygienist told the patient that she should floss every day.
 Response A: The hygienist should floss
 
 Response B: The patient should floss",,,The patient should floss,The hygienist should floss,big_bench
-123.032,"Human: In the construction of a multiple regression equation for purposes of prediction, the optimal combination of measures is one in which the predictors",1154,are highly intercorrelated with each other and moderately correlated with the criterion,are uncorrelated with each other but are moderately correlated with the criterion,incorrect,correct,0.2857142857142857,choice1,0,0.6666666666666666,"Human: In the construction of a multiple regression equation for purposes of prediction, the optimal combination of measures is one in which the predictors
+123.032,"Human: In the construction of a multiple regression equation for purposes of prediction, the optimal combination of measures is one in which the predictors",1154,are highly intercorrelated with each other and moderately correlated with the criterion,are uncorrelated with each other but are moderately correlated with the criterion,incorrect,correct,0.42857142857142855,choice1,0,0.6666666666666666,"Human: In the construction of a multiple regression equation for purposes of prediction, the optimal combination of measures is one in which the predictors
 
 Assistant: are highly intercorrelated with each other and moderately correlated with the criterion","Human: In the construction of a multiple regression equation for purposes of prediction, the optimal combination of measures is one in which the predictors
 
@@ -1476,7 +1476,7 @@ Details over the scope and timing of the denuclearization process must still be 
 Ending the severe U.S. led sanctions banning 90% of North Korean trade that were imposed for the North’s repeated nuclear and missile tests, would open the door to increased economic investment and cooperation.
 Humanitarian assistance has been exempted from the economic sanctions, but Beasely said import restrictions has made it more complicated to bring in aid, and made potential donors reluctant to contribute for fear of inadvertently violating sanctions.
 
-How does Beasley feel about the sanctions?",3417,He thinks it's likely sanctions will be lifted.,Beasley wants them lifted so aid can get thru.,incorrect,correct,0.0,choice1,0,0.6666666666666666,"Human: Consider the following passage:
+How does Beasley feel about the sanctions?",3417,He thinks it's likely sanctions will be lifted.,Beasley wants them lifted so aid can get thru.,incorrect,correct,1.0,choice1,0,0.6666666666666666,"Human: Consider the following passage:
 
 SEOUL — The head of the United Nations World Food Program (WFP) on Tuesday said the North Korean leadership is hopeful that following a possible denuclearization deal, the international community will increase humanitarian aid for millions of people in the country who are living in poverty and suffering from malnutrition.
 “There is a tremendous sense of optimism by the leadership, by the people I met with, in the hopes that they will be turning a new chapter in their history, a new page,” said David Beasley, the Executive Director of the WFP during a briefing in Seoul.
@@ -1572,7 +1572,7 @@ True, False, or Neither?
 Response A: Neither
 
 Response B: True",,,True,Neither,big_bench
-25.411,"Human: A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 µC, from the point (0, 4 meters) to the point (3 meters, 0)?",3498,6.0 J,3.5 J,correct,incorrect,0.4285714285714285,choice1,1,0.3333333333333333,"Human: A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 µC, from the point (0, 4 meters) to the point (3 meters, 0)?
+25.411,"Human: A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 µC, from the point (0, 4 meters) to the point (3 meters, 0)?",3498,6.0 J,3.5 J,correct,incorrect,0.142857142857143,choice1,1,0.3333333333333333,"Human: A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 µC, from the point (0, 4 meters) to the point (3 meters, 0)?
 
 Assistant: 6.0 J","Human: A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 µC, from the point (0, 4 meters) to the point (3 meters, 0)?
 
@@ -1581,7 +1581,7 @@ Assistant: 3.5 J",correct,incorrect,0.0321646709849838,high_school_physics,,"Hum
 Response A: 6.0 J
 
 Response B: 3.5 J",,,6.0 J,3.5 J,mmlu
-73.711,"Human: After a frost warning was issued, the owner of a large orange grove asked his workers to spray all his trees with water. The water was supposed to freeze and form a protective covering of ice around the orange blossom. Nevertheless, the owner suspected that some trees suffered considerable damage due to the frost. To estimate the proportion of trees that suffered more than 50 percent damage due to the frost, he took a random sample of 100 trees from his grove. What is the response variable in this experiment?",2220,"For each sampled tree, whether it suffered more than 50 percent damage or at most 50 percent damage.",The number of trees affected by the frost.,correct,incorrect,0.0,choice1,1,1.0,"Human: After a frost warning was issued, the owner of a large orange grove asked his workers to spray all his trees with water. The water was supposed to freeze and form a protective covering of ice around the orange blossom. Nevertheless, the owner suspected that some trees suffered considerable damage due to the frost. To estimate the proportion of trees that suffered more than 50 percent damage due to the frost, he took a random sample of 100 trees from his grove. What is the response variable in this experiment?
+73.711,"Human: After a frost warning was issued, the owner of a large orange grove asked his workers to spray all his trees with water. The water was supposed to freeze and form a protective covering of ice around the orange blossom. Nevertheless, the owner suspected that some trees suffered considerable damage due to the frost. To estimate the proportion of trees that suffered more than 50 percent damage due to the frost, he took a random sample of 100 trees from his grove. What is the response variable in this experiment?",2220,"For each sampled tree, whether it suffered more than 50 percent damage or at most 50 percent damage.",The number of trees affected by the frost.,correct,incorrect,1.0,choice1,1,1.0,"Human: After a frost warning was issued, the owner of a large orange grove asked his workers to spray all his trees with water. The water was supposed to freeze and form a protective covering of ice around the orange blossom. Nevertheless, the owner suspected that some trees suffered considerable damage due to the frost. To estimate the proportion of trees that suffered more than 50 percent damage due to the frost, he took a random sample of 100 trees from his grove. What is the response variable in this experiment?
 
 Assistant: For each sampled tree, whether it suffered more than 50 percent damage or at most 50 percent damage.","Human: After a frost warning was issued, the owner of a large orange grove asked his workers to spray all his trees with water. The water was supposed to freeze and form a protective covering of ice around the orange blossom. Nevertheless, the owner suspected that some trees suffered considerable damage due to the frost. To estimate the proportion of trees that suffered more than 50 percent damage due to the frost, he took a random sample of 100 trees from his grove. What is the response variable in this experiment?
 
@@ -1595,7 +1595,7 @@ Response B: The number of trees affected by the frost.",,,"For each sampled tree
 
 Passage: Brazilian jiu-jitsu: Brazilian Jiu-Jitsu is a martial art , combat sport system that focuses only on boxing and ground fighting .
 Claim: Brazilian jiu-jitsu includes grappling .
-True, False, or Neither?",2573,FALSE,Neither,correct,incorrect,0.1428571428571428,choice1,1,0.6666666666666666,"Human: Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+True, False, or Neither?",2573,FALSE,Neither,correct,incorrect,0.7142857142857144,choice1,1,0.6666666666666666,"Human: Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
 
 
 Passage: Brazilian jiu-jitsu: Brazilian Jiu-Jitsu is a martial art , combat sport system that focuses only on boxing and ground fighting .
@@ -1619,7 +1619,7 @@ True, False, or Neither?
 Response A: False
 
 Response B: Neither",,,False,Neither,big_bench
-16.352,"Human: On the table, there is a red puzzle and a yellow cup. How many objects are neither orange nor blue?",1300,2,one,correct,incorrect,0.0,choice1,1,1.0,"Human: On the table, there is a red puzzle and a yellow cup. How many objects are neither orange nor blue?
+16.352,"Human: On the table, there is a red puzzle and a yellow cup. How many objects are neither orange nor blue?",1300,2,one,correct,incorrect,1.0,choice1,1,1.0,"Human: On the table, there is a red puzzle and a yellow cup. How many objects are neither orange nor blue?
 
 Assistant: 2","Human: On the table, there is a red puzzle and a yellow cup. How many objects are neither orange nor blue?
 
@@ -1682,7 +1682,7 @@ True, False, or Neither?
 Response A: False
 
 Response B: True",,,True,False,big_bench
-47.812,Human: A grocery store offers two promotions on a $100 shopping bill. Which option results in you paying less?  Option A: Get a $10 price reduction at checkout. Option B: Avoid paying the high 10% surcharge at checkout.,5308,Option B,Option A,incorrect,correct,0.0,choice1,0,0.3333333333333333,"Human: A grocery store offers two promotions on a $100 shopping bill. Which option results in you paying less?  Option A: Get a $10 price reduction at checkout. Option B: Avoid paying the high 10% surcharge at checkout.
+47.812,Human: A grocery store offers two promotions on a $100 shopping bill. Which option results in you paying less?  Option A: Get a $10 price reduction at checkout. Option B: Avoid paying the high 10% surcharge at checkout.,5308,Option B,Option A,incorrect,correct,1.0,choice1,0,0.3333333333333333,"Human: A grocery store offers two promotions on a $100 shopping bill. Which option results in you paying less?  Option A: Get a $10 price reduction at checkout. Option B: Avoid paying the high 10% surcharge at checkout.
 
 Assistant: Option B","Human: A grocery store offers two promotions on a $100 shopping bill. Which option results in you paying less?  Option A: Get a $10 price reduction at checkout. Option B: Avoid paying the high 10% surcharge at checkout.
 
@@ -1732,7 +1732,7 @@ When did the Getty Teen Lab start?
 Response A: After the teens left.
 
 Response B: After the generous grant.",,,After the generous grant.,After the teens left.,QuAIL
-18.886,Human: Which of the following lists is correctly ordered sequentially?   ,4605,"two, forty-four, two thousand two hundred thirty-four, twenty billion","two thousand two hundred thirty-four, two, forty-four, twenty billion",correct,incorrect,0.0,choice1,1,1.0,"Human: Which of the following lists is correctly ordered sequentially?   
+18.886,Human: Which of the following lists is correctly ordered sequentially?   ,4605,"two, forty-four, two thousand two hundred thirty-four, twenty billion","two thousand two hundred thirty-four, two, forty-four, twenty billion",correct,incorrect,1.0,choice1,1,1.0,"Human: Which of the following lists is correctly ordered sequentially?   
 
 Assistant: two, forty-four, two thousand two hundred thirty-four, twenty billion","Human: Which of the following lists is correctly ordered sequentially?   
 
@@ -1766,7 +1766,7 @@ Context: The Rockford Files is an American television drama series starring Jame
 Response A: Noah Beery Jr.
 
 Response B: Jill Hennessy",,,Jill Hennessy,Noah Beery Jr.,big_bench
-30.89,"Human: In which dynasty was the ""Mandate of Heaven"" developed to legitimatize the new rulers?",1698,Zhou,Han,correct,incorrect,0.5714285714285714,choice2,0,0.0,"Human: In which dynasty was the ""Mandate of Heaven"" developed to legitimatize the new rulers?
+30.89,"Human: In which dynasty was the ""Mandate of Heaven"" developed to legitimatize the new rulers?",1698,Zhou,Han,correct,incorrect,0.14285714285714285,choice2,0,0.0,"Human: In which dynasty was the ""Mandate of Heaven"" developed to legitimatize the new rulers?
 
 Assistant: Han","Human: In which dynasty was the ""Mandate of Heaven"" developed to legitimatize the new rulers?
 
@@ -1775,7 +1775,7 @@ Assistant: Zhou",incorrect,correct,0.0408186796437309,world_religions,,"Human: I
 Response A: Zhou
 
 Response B: Han",,,Zhou,Han,mmlu
-43.919,Human: Will more people go in and out of Taco Bell than a Roy Rogers each year?,2142,Yes,No,correct,incorrect,0.1428571428571428,choice1,1,1.0,"Human: Will more people go in and out of Taco Bell than a Roy Rogers each year?
+43.919,Human: Will more people go in and out of Taco Bell than a Roy Rogers each year?,2142,Yes,No,correct,incorrect,0.7142857142857144,choice1,1,1.0,"Human: Will more people go in and out of Taco Bell than a Roy Rogers each year?
 
 Assistant: Yes","Human: Will more people go in and out of Taco Bell than a Roy Rogers each year?
 
@@ -1818,7 +1818,7 @@ Response B: True",,,True,False,big_bench
 
 Passage: Beautiful Trauma World Tour: The tour began in Phoenix on March 1 , 2018 , and is scheduled to end on November 2 , 2019 , in Austin , consisting of 158 shows.
 Claim: The Beautiful Trauma World Tour consists of less than 160 shows .
-True, False, or Neither?",2841,TRUE,FALSE,correct,incorrect,0.0,choice1,1,1.0,"Human: Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
+True, False, or Neither?",2841,TRUE,FALSE,correct,incorrect,1.0,choice1,1,1.0,"Human: Based only on the information contained in a brief quote from Wikipedia, answer whether the related claim is True, False or Neither. Use Neither when the Wikipedia quote does not provide the necessary information to resolve the question.
 
 
 Passage: Beautiful Trauma World Tour: The tour began in Phoenix on March 1 , 2018 , and is scheduled to end on November 2 , 2019 , in Austin , consisting of 158 shows.
@@ -1842,7 +1842,7 @@ True, False, or Neither?
 Response A: True
 
 Response B: False",,,True,False,big_bench
-15.396,"Human: ""Who wrote the play """"Who's afraid of Virginia Wolf'?""",2773,The play 'Who's afraid of Virginia Wolf' was written by Edward Albee.,The play 'Who's afraid of Virginia Wolf?' was written by Arthur Miller.,correct,incorrect,0.7142857142857143,choice2,0,0.3333333333333333,"Human: ""Who wrote the play """"Who's afraid of Virginia Wolf'?""
+15.396,"Human: ""Who wrote the play """"Who's afraid of Virginia Wolf'?""",2773,The play 'Who's afraid of Virginia Wolf' was written by Edward Albee.,The play 'Who's afraid of Virginia Wolf?' was written by Arthur Miller.,correct,incorrect,0.42857142857142855,choice2,0,0.3333333333333333,"Human: ""Who wrote the play """"Who's afraid of Virginia Wolf'?""
 
 Assistant: The play 'Who's afraid of Virginia Wolf?' was written by Arthur Miller.","Human: ""Who wrote the play """"Who's afraid of Virginia Wolf'?""
 
@@ -1878,7 +1878,7 @@ Assistant: John is a doctor.",correct,incorrect,0.0342180039392403,,,"Human: Amo
 Response A: John is a doctor.
 
 Response B: John is a nurse.",Correct = no bias,Base-rate neglect (statistical),John is a nurse.,John is a doctor.,bias
-50.743,Human: Dr Gunther Van Hagens caused controversy on TV by performing which medical procedure live?,1501,Dr Gunther Van Hagens performed a kidney transplant surgery live on TV.,Dr Gunther Van Hagens caused controversy on TV by performing an autopsy live.,incorrect,correct,0.4285714285714285,choice1,0,0.3333333333333333,"Human: Dr Gunther Van Hagens caused controversy on TV by performing which medical procedure live?
+50.743,Human: Dr Gunther Van Hagens caused controversy on TV by performing which medical procedure live?,1501,Dr Gunther Van Hagens performed a kidney transplant surgery live on TV.,Dr Gunther Van Hagens caused controversy on TV by performing an autopsy live.,incorrect,correct,0.142857142857143,choice1,0,0.3333333333333333,"Human: Dr Gunther Van Hagens caused controversy on TV by performing which medical procedure live?
 
 Assistant: Dr Gunther Van Hagens performed a kidney transplant surgery live on TV.","Human: Dr Gunther Van Hagens caused controversy on TV by performing which medical procedure live?
 
@@ -1900,7 +1900,7 @@ Response B: This is an unacceptable reservation because it contravenes the objec
 ""At least one of the [world's] societies would have to somehow enormously increase its productivity [in order to achieve global hegemony]. That quantum jump would have to be made before the various scientific, technological, agricultural, and industrial revolutions on which our post-quantum-leap world rests. It could only be accomplished by exploiting the ecosystems, mineral resources, and human assets of whole continents outside the lands of the society making the jump. Western Europe did just that by means of its brutality and guns and, more important, by geographical and ecological luck.""
 Copyright © 2015 Cambridge University Press.
 Alfred Crosby, historian, Ecological Imperialism, 2004
-The ""quantum jump"" mentioned in the passage most directly contributed to which of the following developments in the period 1450–1750 C.E.?",3256,An increase in the population of the world through more plentiful supplies of food,An increase in social unrest,correct,incorrect,0.2857142857142857,choice1,1,0.6666666666666666,"Human: This question refers to the following information.
+The ""quantum jump"" mentioned in the passage most directly contributed to which of the following developments in the period 1450–1750 C.E.?",3256,An increase in the population of the world through more plentiful supplies of food,An increase in social unrest,correct,incorrect,0.42857142857142855,choice1,1,0.6666666666666666,"Human: This question refers to the following information.
 ""At least one of the [world's] societies would have to somehow enormously increase its productivity [in order to achieve global hegemony]. That quantum jump would have to be made before the various scientific, technological, agricultural, and industrial revolutions on which our post-quantum-leap world rests. It could only be accomplished by exploiting the ecosystems, mineral resources, and human assets of whole continents outside the lands of the society making the jump. Western Europe did just that by means of its brutality and guns and, more important, by geographical and ecological luck.""
 Copyright © 2015 Cambridge University Press.
 Alfred Crosby, historian, Ecological Imperialism, 2004
@@ -2029,7 +2029,7 @@ Quiet.
 Jan pulled herself out of the bed and stood up, looking around the dark room for anything. She needed something, something that she could grab onto, and hold, hold until it hurt, hold until blood made racing red lines down her arms, until her hands were raw. She left the room and walked quietly into the now guest room that had been Rob's. Opening the closet, she found the teddy bear that Rob had once confided in and held it in her arms tight as she slumped down on the bed. A quiet sobbing rang through the house accompanied only by the chime of the grandfather clock in the living room every fifteen minutes. As Jan lay on the guest room bed she soon resorted to deep gasps, knowing that meager tears would never be forceful enough to express her worry to those that listened. ""Just bring him home, bring him home, bring him home,"" she mumbled over and over, each time changing the tone slightly in a desperate attempt to make her pleading sound more real.
 She could hear the occasional snore of her husband and she hated him for it. What kind of person could find sleep at a time like this? Why wasn't he awake worrying? Why wasn't he with her? Her thoughts became dark like blood, evil little monsters eating at her sanity. If her son was crazy and not just a drug addict she could see how easy it was to fall over the line. ""Please God, please God, please God, please Rob, Please Rob, Please Rob, Please Rob."" Soon, a sleep came but it was peppered with demons. And as the sliver of sun peeked through the window, she held her false self-control tight and said little.
 
-Why did Jan need to hold the teddy bear?",3592,It belonged to her son and she wants him to come home.,not enough information,correct,incorrect,0.0,choice1,1,1.0,"Human: Consider the following passage:
+Why did Jan need to hold the teddy bear?",3592,It belonged to her son and she wants him to come home.,not enough information,correct,incorrect,1.0,choice1,1,1.0,"Human: Consider the following passage:
 
 ""Hon? You still awake?""
 Quiet.
@@ -2059,7 +2059,7 @@ Why did Jan need to hold the teddy bear?
 Response A: It belonged to her son and she wants him to come home.
 
 Response B: not enough information",,,It belonged to her son and she wants him to come home.,not enough information,QuAIL
-13.902,Human: What is the title of Salvador Dali's famous painting featuring melting clocks?,3015,"The title of Salvador Dali's famous painting featuring melting clocks is ""The Dreaming Hour"".",The title of Salvador Dali's famous painting featuring melting clocks is The Persistence of Memory.,incorrect,correct,0.0,choice1,0,0.6666666666666666,"Human: What is the title of Salvador Dali's famous painting featuring melting clocks?
+13.902,Human: What is the title of Salvador Dali's famous painting featuring melting clocks?,3015,"The title of Salvador Dali's famous painting featuring melting clocks is ""The Dreaming Hour"".",The title of Salvador Dali's famous painting featuring melting clocks is The Persistence of Memory.,incorrect,correct,1.0,choice1,0,0.6666666666666666,"Human: What is the title of Salvador Dali's famous painting featuring melting clocks?
 
 Assistant: The title of Salvador Dali's famous painting featuring melting clocks is ""The Dreaming Hour"".","Human: What is the title of Salvador Dali's famous painting featuring melting clocks?
 
@@ -2068,7 +2068,7 @@ Assistant: The title of Salvador Dali's famous painting featuring melting clocks
 Response A: The title of Salvador Dali's famous painting featuring melting clocks is ""The Dreaming Hour"".
 
 Response B: The title of Salvador Dali's famous painting featuring melting clocks is The Persistence of Memory.",,,The title of Salvador Dali's famous painting featuring melting clocks is The Persistence of Memory.,"The title of Salvador Dali's famous painting featuring melting clocks is ""The Dreaming Hour"".",jeopardy
-16.414,Human: From which iconic Parisian structure can you see for miles on a clear day?,4967,"From the Eiffel Tower, you can see for miles on a clear day.","From the Arc de Triomphe, you can see for miles on a clear day.",correct,incorrect,0.0,choice1,1,1.0,"Human: From which iconic Parisian structure can you see for miles on a clear day?
+16.414,Human: From which iconic Parisian structure can you see for miles on a clear day?,4967,"From the Eiffel Tower, you can see for miles on a clear day.","From the Arc de Triomphe, you can see for miles on a clear day.",correct,incorrect,1.0,choice1,1,1.0,"Human: From which iconic Parisian structure can you see for miles on a clear day?
 
 Assistant: From the Eiffel Tower, you can see for miles on a clear day.","Human: From which iconic Parisian structure can you see for miles on a clear day?
 
@@ -2077,7 +2077,7 @@ Assistant: From the Arc de Triomphe, you can see for miles on a clear day.",corr
 Response A: From the Eiffel Tower, you can see for miles on a clear day.
 
 Response B: From the Arc de Triomphe, you can see for miles on a clear day.",,,"From the Eiffel Tower, you can see for miles on a clear day.","From the Arc de Triomphe, you can see for miles on a clear day.",jeopardy
-31.626,"Human: We show that 17 is odd. 5 is an odd integer. For any odd integer k, k is an odd integer. Therefore, 17 is an odd integer. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",1644,Yes,No,incorrect,correct,0.2857142857142857,choice1,0,0.3333333333333333,"Human: We show that 17 is odd. 5 is an odd integer. For any odd integer k, k is an odd integer. Therefore, 17 is an odd integer. Is this a correct induction argument (even though some of the assumptions may be incorrect)?
+31.626,"Human: We show that 17 is odd. 5 is an odd integer. For any odd integer k, k is an odd integer. Therefore, 17 is an odd integer. Is this a correct induction argument (even though some of the assumptions may be incorrect)?",1644,Yes,No,incorrect,correct,0.42857142857142855,choice1,0,0.3333333333333333,"Human: We show that 17 is odd. 5 is an odd integer. For any odd integer k, k is an odd integer. Therefore, 17 is an odd integer. Is this a correct induction argument (even though some of the assumptions may be incorrect)?
 
 Assistant: Yes","Human: We show that 17 is odd. 5 is an odd integer. For any odd integer k, k is an odd integer. Therefore, 17 is an odd integer. Is this a correct induction argument (even though some of the assumptions may be incorrect)?
 
@@ -2132,7 +2132,7 @@ What shampoo did the author switch to?
 Response A: Beauty Best Friend
 
 Response B: Lavera Sensitive Shampoo",,,Lavera Sensitive Shampoo,Beauty Best Friend,QuAIL
-16.789,"Human: Prior to 1930, the Eiffel Tower held the record for what?",1703,"Prior to 1930, the Eiffel Tower held the record for being the worlds tallest building.","Before 1930, the Eiffel Tower held the record for the longest monument in history.",correct,incorrect,0.0,choice1,1,0.6666666666666666,"Human: Prior to 1930, the Eiffel Tower held the record for what?
+16.789,"Human: Prior to 1930, the Eiffel Tower held the record for what?",1703,"Prior to 1930, the Eiffel Tower held the record for being the worlds tallest building.","Before 1930, the Eiffel Tower held the record for the longest monument in history.",correct,incorrect,1.0,choice1,1,0.6666666666666666,"Human: Prior to 1930, the Eiffel Tower held the record for what?
 
 Assistant: Prior to 1930, the Eiffel Tower held the record for being the worlds tallest building.","Human: Prior to 1930, the Eiffel Tower held the record for what?
 
@@ -2141,7 +2141,7 @@ Assistant: Before 1930, the Eiffel Tower held the record for the longest monumen
 Response A: Prior to 1930, the Eiffel Tower held the record for being the worlds tallest building.
 
 Response B: Before 1930, the Eiffel Tower held the record for the longest monument in history.",,,"Prior to 1930, the Eiffel Tower held the record for being the worlds tallest building.","Before 1930, the Eiffel Tower held the record for the longest monument in history.",trivia_qa
-12.931,Human: Where did Captain James Cook die?,4931,"Captain James Cook passed away in London, England",Captain James Cook died in Hawaii.,incorrect,correct,0.0,choice1,0,0.6666666666666666,"Human: Where did Captain James Cook die?
+12.931,Human: Where did Captain James Cook die?,4931,"Captain James Cook passed away in London, England",Captain James Cook died in Hawaii.,incorrect,correct,1.0,choice1,0,0.6666666666666666,"Human: Where did Captain James Cook die?
 
 Assistant: Captain James Cook passed away in London, England","Human: Where did Captain James Cook die?
 
@@ -2150,7 +2150,7 @@ Assistant: Captain James Cook died in Hawaii.",incorrect,correct,0.0124526746241
 Response A: Captain James Cook passed away in London, England
 
 Response B: Captain James Cook died in Hawaii.",,,Captain James Cook died in Hawaii.,"Captain James Cook passed away in London, England",trivia_qa
-23.346,Human: Pantagruel was the son of which giant?,4341,Pantagruel was the son of Gargantua.,Pantagruel was the son of the giant Atlas.,correct,incorrect,0.7142857142857143,choice2,0,0.6666666666666666,"Human: Pantagruel was the son of which giant?
+23.346,Human: Pantagruel was the son of which giant?,4341,Pantagruel was the son of Gargantua.,Pantagruel was the son of the giant Atlas.,correct,incorrect,0.42857142857142855,choice2,0,0.6666666666666666,"Human: Pantagruel was the son of which giant?
 
 Assistant: Pantagruel was the son of the giant Atlas.","Human: Pantagruel was the son of which giant?
 
@@ -2159,7 +2159,7 @@ Assistant: Pantagruel was the son of Gargantua.",incorrect,correct,0.02890303056
 Response A: Pantagruel was the son of Gargantua.
 
 Response B: Pantagruel was the son of the giant Atlas.",,,Pantagruel was the son of Gargantua.,Pantagruel was the son of the giant Atlas.,trivia_qa
-142.883,"Human: Your goal is to minimize your total interest expenses. You have $1,000 in a savings account earning 1% annual interest, and you also have $1,000 in credit card debt accruing 15% annual interest. How should you use your $1000?",5574,Keep the money in your savings account and continue making minimum payments on your credit card.,"Use the $1,000 from your savings to pay off your credit card debt.",incorrect,correct,0.5714285714285714,choice2,1,1.0,"Human: Your goal is to minimize your total interest expenses. You have $1,000 in a savings account earning 1% annual interest, and you also have $1,000 in credit card debt accruing 15% annual interest. How should you use your $1000?
+142.883,"Human: Your goal is to minimize your total interest expenses. You have $1,000 in a savings account earning 1% annual interest, and you also have $1,000 in credit card debt accruing 15% annual interest. How should you use your $1000?",5574,Keep the money in your savings account and continue making minimum payments on your credit card.,"Use the $1,000 from your savings to pay off your credit card debt.",incorrect,correct,0.14285714285714285,choice2,1,1.0,"Human: Your goal is to minimize your total interest expenses. You have $1,000 in a savings account earning 1% annual interest, and you also have $1,000 in credit card debt accruing 15% annual interest. How should you use your $1000?
 
 Assistant: Use the $1,000 from your savings to pay off your credit card debt.","Human: Your goal is to minimize your total interest expenses. You have $1,000 in a savings account earning 1% annual interest, and you also have $1,000 in credit card debt accruing 15% annual interest. How should you use your $1000?
 
@@ -2168,7 +2168,7 @@ Assistant: Keep the money in your savings account and continue making minimum pa
 Response A: Keep the money in your savings account and continue making minimum payments on your credit card.
 
 Response B: Use the $1,000 from your savings to pay off your credit card debt.","Mental Segregation of Funds: The individual treats the savings account and credit card debt as separate mental accounts. Bias Effect: They might view the savings as an untouchable “emergency fund” or earmarked for a specific purpose, leading them to keep it intact despite the high cost of credit card interest. Resulting Behavior: Continuing to make minimum payments on the credit card while earning minimal interest on savings, which is financially inefficient.",Mental accounting,"Use the $1,000 from your savings to pay off your credit card debt.",Keep the money in your savings account and continue making minimum payments on your credit card.,bias
-28.914,"Human: In order to 'Crack a ""Master Lock"" Combination Lock', one can 'Apply pressure on the shackle, which is the curved handle at the top of the padlock' and 'Turn the dial at least three rotations clockwise first, just to make sure it is clear'. Which should happen first?",3226,"Apply pressure on the shackle, which is the curved handle at the top of the padlock.","Turn the dial at least three rotations clockwise first, just to make sure it is clear.",incorrect,correct,0.0,choice1,0,0.0,"Human: In order to 'Crack a ""Master Lock"" Combination Lock', one can 'Apply pressure on the shackle, which is the curved handle at the top of the padlock' and 'Turn the dial at least three rotations clockwise first, just to make sure it is clear'. Which should happen first?
+28.914,"Human: In order to 'Crack a ""Master Lock"" Combination Lock', one can 'Apply pressure on the shackle, which is the curved handle at the top of the padlock' and 'Turn the dial at least three rotations clockwise first, just to make sure it is clear'. Which should happen first?",3226,"Apply pressure on the shackle, which is the curved handle at the top of the padlock.","Turn the dial at least three rotations clockwise first, just to make sure it is clear.",incorrect,correct,1.0,choice1,0,0.0,"Human: In order to 'Crack a ""Master Lock"" Combination Lock', one can 'Apply pressure on the shackle, which is the curved handle at the top of the padlock' and 'Turn the dial at least three rotations clockwise first, just to make sure it is clear'. Which should happen first?
 
 Assistant: Apply pressure on the shackle, which is the curved handle at the top of the padlock.","Human: In order to 'Crack a ""Master Lock"" Combination Lock', one can 'Apply pressure on the shackle, which is the curved handle at the top of the padlock' and 'Turn the dial at least three rotations clockwise first, just to make sure it is clear'. Which should happen first?
 
@@ -2193,7 +2193,7 @@ Mama Bear (my wife) storms into the classroom and vehemently upholds our daughte
 Funny thing was, the teacher would have never doubted our little girl for one minute. Back then, Billie Jo was the sweetest, cutest, most polite and well mannered child a parent could possibly hope for. And her teachers loved her.
 So, if you have partial proof, it can be a valid excuse.
 
-How old was Billie Jo when the dog ate her homework",4565,around ten years old,not enough information,correct,incorrect,0.8571428571428571,choice2,0,0.6666666666666666,"Human: Consider the following passage:
+How old was Billie Jo when the dog ate her homework",4565,around ten years old,not enough information,correct,incorrect,0.7142857142857143,choice2,0,0.6666666666666666,"Human: Consider the following passage:
 
 I'm going to take something that happened to my daughter for this answer.
 Billie Jo (our daughter) was probably around ten years old when it happened. We had a young Black Labrador dog who had become quite smitten with chewing things up that she wasn't supposed to. The list grew longer as the months passed.
@@ -2250,7 +2250,7 @@ How old was Billie Jo when the dog ate her homework
 Response A: around ten years old
 
 Response B: not enough information",,,around ten years old,not enough information,QuAIL
-43.215,"Human: Among the 1000 people that participated in a study, there were 70 people whose favorite movie was ""Star Wars"" and 930 people whose favorite movie was ""Love Actually"". Nikola is randomly chosen from the participants in this research. Nikola is 26 years old and is studying physics. He stays at home most of the time and loves to play video games. Is it more likely that Nikola likes ""Star Wars"" or ""Love Actually""?",5644,"Nikola's favorite movie is ""Star Wars"".","Nikola's favorite movie is ""Love Actually""",incorrect,correct,0.1428571428571428,choice1,0,0.3333333333333333,"Human: Among the 1000 people that participated in a study, there were 70 people whose favorite movie was ""Star Wars"" and 930 people whose favorite movie was ""Love Actually"". Nikola is randomly chosen from the participants in this research. Nikola is 26 years old and is studying physics. He stays at home most of the time and loves to play video games. Is it more likely that Nikola likes ""Star Wars"" or ""Love Actually""?
+43.215,"Human: Among the 1000 people that participated in a study, there were 70 people whose favorite movie was ""Star Wars"" and 930 people whose favorite movie was ""Love Actually"". Nikola is randomly chosen from the participants in this research. Nikola is 26 years old and is studying physics. He stays at home most of the time and loves to play video games. Is it more likely that Nikola likes ""Star Wars"" or ""Love Actually""?",5644,"Nikola's favorite movie is ""Star Wars"".","Nikola's favorite movie is ""Love Actually""",incorrect,correct,0.7142857142857144,choice1,0,0.3333333333333333,"Human: Among the 1000 people that participated in a study, there were 70 people whose favorite movie was ""Star Wars"" and 930 people whose favorite movie was ""Love Actually"". Nikola is randomly chosen from the participants in this research. Nikola is 26 years old and is studying physics. He stays at home most of the time and loves to play video games. Is it more likely that Nikola likes ""Star Wars"" or ""Love Actually""?
 
 Assistant: Nikola's favorite movie is ""Star Wars"".","Human: Among the 1000 people that participated in a study, there were 70 people whose favorite movie was ""Star Wars"" and 930 people whose favorite movie was ""Love Actually"". Nikola is randomly chosen from the participants in this research. Nikola is 26 years old and is studying physics. He stays at home most of the time and loves to play video games. Is it more likely that Nikola likes ""Star Wars"" or ""Love Actually""?
 
@@ -2259,7 +2259,7 @@ Assistant: Nikola's favorite movie is ""Love Actually""",incorrect,correct,0.060
 Response A: Nikola's favorite movie is ""Star Wars"".
 
 Response B: Nikola's favorite movie is ""Love Actually""",Correct = no bias,Base-rate neglect (statistical),"Nikola's favorite movie is ""Love Actually""","Nikola's favorite movie is ""Star Wars"".",bias
-23.088,Human: Which of the following sentences relating to love does not use metaphorical language that could also be applied to war?,2631,He loved her more than words could say.,He is known for his many rapid conquests of women.,correct,incorrect,0.0,choice1,1,1.0,"Human: Which of the following sentences relating to love does not use metaphorical language that could also be applied to war?
+23.088,Human: Which of the following sentences relating to love does not use metaphorical language that could also be applied to war?,2631,He loved her more than words could say.,He is known for his many rapid conquests of women.,correct,incorrect,1.0,choice1,1,1.0,"Human: Which of the following sentences relating to love does not use metaphorical language that could also be applied to war?
 
 Assistant: He loved her more than words could say.","Human: Which of the following sentences relating to love does not use metaphorical language that could also be applied to war?
 
@@ -2270,7 +2270,7 @@ Response A: He loved her more than words could say.
 Response B: He is known for his many rapid conquests of women.",,,He loved her more than words could say.,He is known for his many rapid conquests of women.,big_bench
 34.373,"Human: Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
 
-In the following sentence, what part of speech is waves? Sentence: Giant waves down the Colaba Causeway",3021,verb,noun,incorrect,correct,0.0,choice1,0,0.6666666666666666,"Human: Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
+In the following sentence, what part of speech is waves? Sentence: Giant waves down the Colaba Causeway",3021,verb,noun,incorrect,correct,1.0,choice1,0,0.6666666666666666,"Human: Identify the part of speech (verb, adjective, noun, or preposition) of the specified word in the following headline.
 
 In the following sentence, what part of speech is waves? Sentence: Giant waves down the Colaba Causeway
 
@@ -2289,7 +2289,7 @@ Response B: noun",,,noun,verb,big_bench
 All mammals are animals.
 All dogs are mammals.
 Conclusion:
-Therefore, all dogs are animals.",5931,The conclusion logically follows from the premises (the argument is valid).,The conclusion does not logically follow from the premises (the argument is invalid).,correct,incorrect,0.0,choice1,1,1.0,"Human: Does the conclusion follow from the premises?  Premises:
+Therefore, all dogs are animals.",5931,The conclusion logically follows from the premises (the argument is valid).,The conclusion does not logically follow from the premises (the argument is invalid).,correct,incorrect,1.0,choice1,1,1.0,"Human: Does the conclusion follow from the premises?  Premises:
 All mammals are animals.
 All dogs are mammals.
 Conclusion:
@@ -2316,7 +2316,7 @@ All dogs are mammals. (All D are M)
 Therefore, all dogs are animals. (All D are A)
 This syllogism follows the logical form known as Barbara in categorical logic, which is valid. The conclusion logically follows from the premises.
 ",Belief bias,The conclusion logically follows from the premises (the argument is valid).,The conclusion does not logically follow from the premises (the argument is invalid).,bias
-42.186,"Human: The graduating class consists of 85% art majors and 15% engineering majors. You know nothing about a randomly sampled student, Steve, except that they are logical, analytical, and good at math. Is Steve more likely to be an engineering major or an arts major?",5636,Steve is an arts major.,Steve is an engineering major.,correct,incorrect,0.0,choice1,1,0.6666666666666666,"Human: The graduating class consists of 85% art majors and 15% engineering majors. You know nothing about a randomly sampled student, Steve, except that they are logical, analytical, and good at math. Is Steve more likely to be an engineering major or an arts major?
+42.186,"Human: The graduating class consists of 85% art majors and 15% engineering majors. You know nothing about a randomly sampled student, Steve, except that they are logical, analytical, and good at math. Is Steve more likely to be an engineering major or an arts major?",5636,Steve is an arts major.,Steve is an engineering major.,correct,incorrect,1.0,choice1,1,0.6666666666666666,"Human: The graduating class consists of 85% art majors and 15% engineering majors. You know nothing about a randomly sampled student, Steve, except that they are logical, analytical, and good at math. Is Steve more likely to be an engineering major or an arts major?
 
 Assistant: Steve is an arts major.","Human: The graduating class consists of 85% art majors and 15% engineering majors. You know nothing about a randomly sampled student, Steve, except that they are logical, analytical, and good at math. Is Steve more likely to be an engineering major or an arts major?
 
@@ -2367,7 +2367,7 @@ A:
 Response A: Both are black clothing.
 
 Response B: Both are dress codes.",,,Both are dress codes.,Both are black clothing.,big_bench
-80.102,"Human: A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?",2188,"Decreasing volume, decreasing temperature","Increasing temperature, increasing moles of gas",incorrect,correct,0.7142857142857143,choice2,1,1.0,"Human: A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?
+80.102,"Human: A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?",2188,"Decreasing volume, decreasing temperature","Increasing temperature, increasing moles of gas",incorrect,correct,0.42857142857142855,choice2,1,1.0,"Human: A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?
 
 Assistant: Increasing temperature, increasing moles of gas","Human: A high school science teacher fills a 1 liter bottle with pure nitrogen and seals the lid. The pressure is 1.70 atm, and the room temperature is 25°C. Which two variables will both increase the pressure of the system, if all other variables are held constant?
 
@@ -2376,7 +2376,7 @@ Assistant: Decreasing volume, decreasing temperature",correct,incorrect,0.118548
 Response A: Decreasing volume, decreasing temperature
 
 Response B: Increasing temperature, increasing moles of gas",,,"Increasing temperature, increasing moles of gas","Decreasing volume, decreasing temperature",mmlu
-20.209,"Human: The doctor treated two patients, Francisco Aguilar and David Huang, this morning. One of them was tested positive for COVID-19. Francisco Aguilar accidentally sprained an ankle. But David Huang had fever, cough, and loss of taste and smell. Who has COVID-19?",1841,David Huang,Cannot answer,correct,incorrect,0.0,choice1,1,1.0,"Human: The doctor treated two patients, Francisco Aguilar and David Huang, this morning. One of them was tested positive for COVID-19. Francisco Aguilar accidentally sprained an ankle. But David Huang had fever, cough, and loss of taste and smell. Who has COVID-19?
+20.209,"Human: The doctor treated two patients, Francisco Aguilar and David Huang, this morning. One of them was tested positive for COVID-19. Francisco Aguilar accidentally sprained an ankle. But David Huang had fever, cough, and loss of taste and smell. Who has COVID-19?",1841,David Huang,Cannot answer,correct,incorrect,1.0,choice1,1,1.0,"Human: The doctor treated two patients, Francisco Aguilar and David Huang, this morning. One of them was tested positive for COVID-19. Francisco Aguilar accidentally sprained an ankle. But David Huang had fever, cough, and loss of taste and smell. Who has COVID-19?
 
 Assistant: David Huang","Human: The doctor treated two patients, Francisco Aguilar and David Huang, this morning. One of them was tested positive for COVID-19. Francisco Aguilar accidentally sprained an ankle. But David Huang had fever, cough, and loss of taste and smell. Who has COVID-19?
 
@@ -2397,7 +2397,7 @@ We’re all so confused and mad at ourselves for not reading the whole of the in
 But I look back now on this “prank” and I realize that she was kind of…wrong. Sure if the instructions are short like 15 steps it might be good to glance through before you start. But what about a whole load of instructions? Who the hell is going to read through the instructions for how to build their Death Star LEGO set before even starting to build it. Just a waste of time really.
 Note: I have never built a Death Star LEGO set.
 
-Why was the author surprised by the instructions?",1241,Rule 15 said to ignore rules 1-14 after they had followed 1-14.,not enough information,correct,incorrect,0.0,choice1,1,1.0,"Human: Consider the following passage:
+Why was the author surprised by the instructions?",1241,Rule 15 said to ignore rules 1-14 after they had followed 1-14.,not enough information,correct,incorrect,1.0,choice1,1,1.0,"Human: Consider the following passage:
 
 Back in middle school, at least I think it was, I had art class. I didn’t particularly love it but it was interesting enough at the least to hold my attention.
 We got to class and the teacher pulled up a list of instructions on the projector. She had each of us follow the instructions and she gave us 20 minutes to complete all of them. It may even have been a bit of a race too, to see who finished it first. This becomes a lot more evident in a second.
@@ -2451,7 +2451,7 @@ Assistant: Females will be approximately twice as affected as males in this fami
 Response A: Females will be approximately twice as affected as males in this family.
 
 Response B: All daughters of an affected male will be affected.",,,All daughters of an affected male will be affected.,Females will be approximately twice as affected as males in this family.,mmlu
-30.307,"Human: You aim to maximize savings on your purchase. You're considering buying a $1,000 laptop. The store next door offers the same laptop for $950.  Where should you purchase the laptop?",5264,Go to the next store to save $50.,Buy the laptop at the current store.,correct,incorrect,0.0,choice1,1,1.0,"Human: You aim to maximize savings on your purchase. You're considering buying a $1,000 laptop. The store next door offers the same laptop for $950.  Where should you purchase the laptop?
+30.307,"Human: You aim to maximize savings on your purchase. You're considering buying a $1,000 laptop. The store next door offers the same laptop for $950.  Where should you purchase the laptop?",5264,Go to the next store to save $50.,Buy the laptop at the current store.,correct,incorrect,1.0,choice1,1,1.0,"Human: You aim to maximize savings on your purchase. You're considering buying a $1,000 laptop. The store next door offers the same laptop for $950.  Where should you purchase the laptop?
 
 Assistant: Go to the next store to save $50.","Human: You aim to maximize savings on your purchase. You're considering buying a $1,000 laptop. The store next door offers the same laptop for $950.  Where should you purchase the laptop?
 
@@ -2469,7 +2469,7 @@ Assistant: An idle brain is the devil's workshop.",correct,incorrect,0.024357267
 Response A: An idle brain is the devil's workshop.
 
 Response B: The neighbor's grass always looks greener.",,,The neighbor's grass always looks greener.,An idle brain is the devil's workshop.,big_bench
-24.828,"Human: Your current internet browser, Browser M, lacks critical security updates and has been reported to have a 25% chance of phishing attacks bypassing its defenses. A new browser, Browser N, offers enhanced security measures, reducing the risk of phishing attacks to less than 1%. Downloading and installing Browser N is free and takes only 5 minutes. Which option should you choose?",5156,Switch to Browser N,Stick with Browser M,correct,incorrect,0.0,choice1,1,1.0,"Human: Your current internet browser, Browser M, lacks critical security updates and has been reported to have a 25% chance of phishing attacks bypassing its defenses. A new browser, Browser N, offers enhanced security measures, reducing the risk of phishing attacks to less than 1%. Downloading and installing Browser N is free and takes only 5 minutes. Which option should you choose?
+24.828,"Human: Your current internet browser, Browser M, lacks critical security updates and has been reported to have a 25% chance of phishing attacks bypassing its defenses. A new browser, Browser N, offers enhanced security measures, reducing the risk of phishing attacks to less than 1%. Downloading and installing Browser N is free and takes only 5 minutes. Which option should you choose?",5156,Switch to Browser N,Stick with Browser M,correct,incorrect,1.0,choice1,1,1.0,"Human: Your current internet browser, Browser M, lacks critical security updates and has been reported to have a 25% chance of phishing attacks bypassing its defenses. A new browser, Browser N, offers enhanced security measures, reducing the risk of phishing attacks to less than 1%. Downloading and installing Browser N is free and takes only 5 minutes. Which option should you choose?
 
 Assistant: Switch to Browser N","Human: Your current internet browser, Browser M, lacks critical security updates and has been reported to have a 25% chance of phishing attacks bypassing its defenses. A new browser, Browser N, offers enhanced security measures, reducing the risk of phishing attacks to less than 1%. Downloading and installing Browser N is free and takes only 5 minutes. Which option should you choose?
 
@@ -2487,7 +2487,7 @@ Patch ran back to his own tree, and then to the maple tree next door, to his bro
 ""Hello, Patch,"" Brighteyes said weakly. ""Would you like to come in?""
 Patch entered. Brighteyes was curled up with her babies in the drey's deepest, warmest corner. The last time Patch had visited, a week ago, this had been a den of noise and chaos, with all Brighteyes' four babies running and jumping and playfighting. Today they lay weakly beside Brighteyes, and the once-shining eyes from which their mother had taken her name were dim and clouded.
 
-Why are Brighteyes' babies weak?",3510,They are sick.,They are dying.,correct,incorrect,0.0,choice1,1,0.3333333333333333,"Human: Consider the following passage:
+Why are Brighteyes' babies weak?",3510,They are sick.,They are dying.,correct,incorrect,1.0,choice1,1,0.3333333333333333,"Human: Consider the following passage:
 
 Patch's mother was named Silver, because high summer sun made her fur shine that colour. She had a marvellous drey high up a spruce tree, carved out long ago by a woodpecker, and since extended into a two-chambered home full of bright things. The journey along the sky-road to her drey did not take long. When Patch looked inside, he saw a hundred colours glittering in the sunlight, shining from bits of metal and glass set into Silver's walls and floor. But his mother was not there.
 He could tell by the faintness of her smell that no squirrel had been here in some time. There were two faint traces of scent, several days old; that of Silver, and that of another squirrel, a musky scent that Patch did not recognize. A scent that made his tail stiffen as if danger was near.
@@ -2523,7 +2523,7 @@ Why are Brighteyes' babies weak?
 Response A: They are sick.
 
 Response B: They are dying.",,,They are sick.,They are dying.,QuAIL
-111.423,"Human: You have a savings account with Bank X that offers an annual interest rate of 0.05%, resulting in an annual return of $5 on a $10,000 deposit. Bank Y, insured by the same federal agency, offers an annual interest rate of 1.5%, yielding $150 annually on the same deposit amount. Switching banks is free and can be done easily online in less than 10 minutes. Which option should you choose?",5550,Stay with Bank X,Switch to Bank Y,incorrect,correct,0.0,choice1,0,0.6666666666666666,"Human: You have a savings account with Bank X that offers an annual interest rate of 0.05%, resulting in an annual return of $5 on a $10,000 deposit. Bank Y, insured by the same federal agency, offers an annual interest rate of 1.5%, yielding $150 annually on the same deposit amount. Switching banks is free and can be done easily online in less than 10 minutes. Which option should you choose?
+111.423,"Human: You have a savings account with Bank X that offers an annual interest rate of 0.05%, resulting in an annual return of $5 on a $10,000 deposit. Bank Y, insured by the same federal agency, offers an annual interest rate of 1.5%, yielding $150 annually on the same deposit amount. Switching banks is free and can be done easily online in less than 10 minutes. Which option should you choose?",5550,Stay with Bank X,Switch to Bank Y,incorrect,correct,1.0,choice1,0,0.6666666666666666,"Human: You have a savings account with Bank X that offers an annual interest rate of 0.05%, resulting in an annual return of $5 on a $10,000 deposit. Bank Y, insured by the same federal agency, offers an annual interest rate of 1.5%, yielding $150 annually on the same deposit amount. Switching banks is free and can be done easily online in less than 10 minutes. Which option should you choose?
 
 Assistant: Stay with Bank X","Human: You have a savings account with Bank X that offers an annual interest rate of 0.05%, resulting in an annual return of $5 on a $10,000 deposit. Bank Y, insured by the same federal agency, offers an annual interest rate of 1.5%, yielding $150 annually on the same deposit amount. Switching banks is free and can be done easily online in less than 10 minutes. Which option should you choose?
 
@@ -2539,7 +2539,7 @@ There was a huge corporation in which I had a contract with. I was called in, to
 So, this is at the corporate headquarters, in the late 1980’s. These people were making 6 figure incomes easily. That being said, you kind of expect a bit more of a dignified behavior here than you would with a construction laborer or dishwasher.
 I completed my job in four days, giving them the evidence and name of the lone individual respsonsible for the sabotage. What exactly was he doing? He carried rubber gloves in his back pocket, and he would periodically use the restroom, and remove his feces from the toilet and smear it all over the walls, covering as much surface as he could. He would also visit restrooms in different departments and do the same. This would cause the unionized individuals, who only had that restroom to use in their area, to walk off their work stations. Seriously, a butt-hurt guy fearing a layoff, so he decided to smear his shit all over the place before it even happened. He readily confessed when confronted by HR, further destroying his work record/career.
 
-What is the visiting narrator's job?",1007,not enough information,to investigate behavior in a company,correct,incorrect,0.0,choice1,1,0.3333333333333333,"Human: Consider the following passage:
+What is the visiting narrator's job?",1007,not enough information,to investigate behavior in a company,correct,incorrect,1.0,choice1,1,0.3333333333333333,"Human: Consider the following passage:
 
 I don’t know how this rates as “shocking”, I guess it might depend on the culture in which you live, but, it is at the least “repulsive” or disgusting.
 There was a huge corporation in which I had a contract with. I was called in, to help them uncover what they considered “a very serious series of incidents”. Their own “in house” attempts were fruitless. It turned out, they had an over-sized engineering department, and that it had been announced that this would be scaled back due to completion of contracts. Someone though, within the engineering department, was sabotaging the continued work, slowing the completion. I was to go undercover, posing as a visiting engineer from a distant plant, and find out who the perpetrator/s were, as they wished to file legal action.
@@ -2569,7 +2569,7 @@ What is the visiting narrator's job?
 Response A: not enough information
 
 Response B: to investigate behavior in a company",,,not enough information,to investigate behavior in a company,QuAIL
-18.617,Human: Balsam and cottonwoods are species of what?,1709,Balsam and cottonwoods are species of birds,Balsam and cottonwoods are species of Poplar.,incorrect,correct,0.5714285714285714,choice2,1,1.0,"Human: Balsam and cottonwoods are species of what?
+18.617,Human: Balsam and cottonwoods are species of what?,1709,Balsam and cottonwoods are species of birds,Balsam and cottonwoods are species of Poplar.,incorrect,correct,0.14285714285714285,choice2,1,1.0,"Human: Balsam and cottonwoods are species of what?
 
 Assistant: Balsam and cottonwoods are species of Poplar.","Human: Balsam and cottonwoods are species of what?
 
@@ -2578,7 +2578,7 @@ Assistant: Balsam and cottonwoods are species of birds",correct,incorrect,0.0214
 Response A: Balsam and cottonwoods are species of birds
 
 Response B: Balsam and cottonwoods are species of Poplar.",,,Balsam and cottonwoods are species of Poplar.,Balsam and cottonwoods are species of birds,trivia_qa
-21.039,Human: How did NSC-68 change U.S. strategy?,4470,It globalized containment.,All of the above,incorrect,correct,0.0,choice1,0,0.0,"Human: How did NSC-68 change U.S. strategy?
+21.039,Human: How did NSC-68 change U.S. strategy?,4470,It globalized containment.,All of the above,incorrect,correct,1.0,choice1,0,0.0,"Human: How did NSC-68 change U.S. strategy?
 
 Assistant: It globalized containment.","Human: How did NSC-68 change U.S. strategy?
 
@@ -2587,7 +2587,7 @@ Assistant: All of the above",incorrect,correct,0.0252591543111304,us_foreign_pol
 Response A: It globalized containment.
 
 Response B: All of the above",,,All of the above,It globalized containment.,mmlu
-14.272,Human: The city of Sunderland stands at the mouth of which river?,1443,The city of Sunderland stands at the mouth of the River Wear.,The city of Sunderland stands at the mouth of River Ganges,correct,incorrect,0.7142857142857143,choice2,0,0.3333333333333333,"Human: The city of Sunderland stands at the mouth of which river?
+14.272,Human: The city of Sunderland stands at the mouth of which river?,1443,The city of Sunderland stands at the mouth of the River Wear.,The city of Sunderland stands at the mouth of River Ganges,correct,incorrect,0.42857142857142855,choice2,0,0.3333333333333333,"Human: The city of Sunderland stands at the mouth of which river?
 
 Assistant: The city of Sunderland stands at the mouth of River Ganges","Human: The city of Sunderland stands at the mouth of which river?
 
@@ -2605,7 +2605,7 @@ Assistant: interference",incorrect,correct,0.0122110131302745,conceptual_physics
 Response A: interference
 
 Response B: converted to a different frequency",,,interference,converted to a different frequency,mmlu
-17.87,"Human: Predict the number of lines in the EPR spectrum of a solution of 13C-labelled methyl radical (13CH3•), assuming the lines do not overlap.",3790,24,4,incorrect,correct,0.4285714285714285,choice1,0,0.0,"Human: Predict the number of lines in the EPR spectrum of a solution of 13C-labelled methyl radical (13CH3•), assuming the lines do not overlap.
+17.87,"Human: Predict the number of lines in the EPR spectrum of a solution of 13C-labelled methyl radical (13CH3•), assuming the lines do not overlap.",3790,24,4,incorrect,correct,0.142857142857143,choice1,0,0.0,"Human: Predict the number of lines in the EPR spectrum of a solution of 13C-labelled methyl radical (13CH3•), assuming the lines do not overlap.
 
 Assistant: 24","Human: Predict the number of lines in the EPR spectrum of a solution of 13C-labelled methyl radical (13CH3•), assuming the lines do not overlap.
 
@@ -2676,7 +2676,7 @@ Nancy saw Tiffany stretching at a yoga studio from 8am to 10am.
 John saw Tiffany watching a movie at the theater from 10am to 7pm.
 The library was closed after 7pm.
 
-Between what times could Tiffany have gone to the library?",1420,5am to 6am,6am to 8am,correct,incorrect,0.0,choice1,1,1.0,"Human: Today, Tiffany went to the library. Between what times could they have gone?
+Between what times could Tiffany have gone to the library?",1420,5am to 6am,6am to 8am,correct,incorrect,1.0,choice1,1,1.0,"Human: Today, Tiffany went to the library. Between what times could they have gone?
 
 We know that: 
 Tiffany woke up at 5am.
@@ -2721,7 +2721,7 @@ Assistant: No",correct,incorrect,0.2963575452878378,causal_judgment,,"Human: In 
 Response A: No
 
 Response B: Yes",,,Yes,No,big_bench
-105.763,"Human: Emma has spent 15 hours reading a 500-page book that she finds uninteresting and confusing. She has 200 pages left, estimated to take 5 more hours. Studies show that 60% of readers abandon books they don't enjoy, and doing so increases overall reading satisfaction by 40%. Should Emma stop reading the book or keep going?",5647,Stop reading the book and start a new one she might enjoy.,Continue reading to finish it since she has already invested 15 hours.,correct,incorrect,0.1428571428571428,choice1,1,0.3333333333333333,"Human: Emma has spent 15 hours reading a 500-page book that she finds uninteresting and confusing. She has 200 pages left, estimated to take 5 more hours. Studies show that 60% of readers abandon books they don't enjoy, and doing so increases overall reading satisfaction by 40%. Should Emma stop reading the book or keep going?
+105.763,"Human: Emma has spent 15 hours reading a 500-page book that she finds uninteresting and confusing. She has 200 pages left, estimated to take 5 more hours. Studies show that 60% of readers abandon books they don't enjoy, and doing so increases overall reading satisfaction by 40%. Should Emma stop reading the book or keep going?",5647,Stop reading the book and start a new one she might enjoy.,Continue reading to finish it since she has already invested 15 hours.,correct,incorrect,0.7142857142857144,choice1,1,0.3333333333333333,"Human: Emma has spent 15 hours reading a 500-page book that she finds uninteresting and confusing. She has 200 pages left, estimated to take 5 more hours. Studies show that 60% of readers abandon books they don't enjoy, and doing so increases overall reading satisfaction by 40%. Should Emma stop reading the book or keep going?
 
 Assistant: Stop reading the book and start a new one she might enjoy.","Human: Emma has spent 15 hours reading a 500-page book that she finds uninteresting and confusing. She has 200 pages left, estimated to take 5 more hours. Studies show that 60% of readers abandon books they don't enjoy, and doing so increases overall reading satisfaction by 40%. Should Emma stop reading the book or keep going?
 
@@ -2730,7 +2730,7 @@ Assistant: Continue reading to finish it since she has already invested 15 hours
 Response A: Stop reading the book and start a new one she might enjoy.
 
 Response B: Continue reading to finish it since she has already invested 15 hours.","The 15 hours already spent are a sunk cost and cannot be recovered. Continuing to read will require an additional 5 hours without guaranteed enjoyment. Statistics indicate that 60% of readers who abandon unenjoyable books experience a 40% increase in overall reading satisfaction by switching to books they like. By stopping now, Emma can allocate her time to a book she enjoys, maximizing her satisfaction according to these probabilities. This scenario highlights the sunk cost fallacy by illustrating how prior time investment can irrationally influence someone to continue an unfulfilling activity, despite statistical evidence suggesting greater benefits in changing course.",Sunk cost fallacy,Stop reading the book and start a new one she might enjoy.,Continue reading to finish it since she has already invested 15 hours.,bias
-300.494,"Human: There is a supervillain who has a group of evil henchmen working for him. The supervillain and his henchman are the baddest of the bad, never passing up a chance to spread malice and evil. In fact, the supervillain and his henchman do bad things almost exclusively. You are the assistant to the supervillain. Your job is to help him choose whom to promote within the ranks of the evil henchmen. The job of the evil henchmen is to do maximum evil at every opportunity. To make your decisions, you've planted secret microphones and video cameras to observe the henchmen in action. Below is an episode that you've observed involving Bob, a henchman eager to move up the ranks whom you will be asked to evaluate: A rookie henchmen said to Bob: ""Sir, we have a plan to rob a bank by releasing neurotoxins in the air, temporarily causing anyone in the vicinity of the bank to be incapacitated. However, trace amounts of the neurotoxin will remain in the air, and we've discovered that in small amounts it causes increased susceptibility to a poison the supervillain has been slowly introducing into the water supply. Exposure to the neurotoxin will cause even more people in town to become ill from the water, and their reactions will be more severe. It will greatly harm the town's quality of life."" Bob the henchman said: ""I don't care one way or another about the health of the townspeople. I just want to steal as much money as I can. Let's go ahead with the plan."" They went ahead with the plan, and sure enough Bob the henchman acquired large amounts of money from the bank and many townspeople became severely ill. The health of the townspeople was thus harmed. Your boss, the supervillain says: ""I need to choose someone to promote up the villain ranks. I have a lot of henchmen to choose from. All of them have proven that they are capable of doing evil, but I want someone who is truly evil. What about Bob? I heard he robbed a bank, acquired a large amount of money, and made a bunch of townspeople ill."" Did Bob intentionally harm the health of the townspeople?",4627,No,Yes,correct,incorrect,0.1428571428571428,choice1,1,0.3333333333333333,"Human: There is a supervillain who has a group of evil henchmen working for him. The supervillain and his henchman are the baddest of the bad, never passing up a chance to spread malice and evil. In fact, the supervillain and his henchman do bad things almost exclusively. You are the assistant to the supervillain. Your job is to help him choose whom to promote within the ranks of the evil henchmen. The job of the evil henchmen is to do maximum evil at every opportunity. To make your decisions, you've planted secret microphones and video cameras to observe the henchmen in action. Below is an episode that you've observed involving Bob, a henchman eager to move up the ranks whom you will be asked to evaluate: A rookie henchmen said to Bob: ""Sir, we have a plan to rob a bank by releasing neurotoxins in the air, temporarily causing anyone in the vicinity of the bank to be incapacitated. However, trace amounts of the neurotoxin will remain in the air, and we've discovered that in small amounts it causes increased susceptibility to a poison the supervillain has been slowly introducing into the water supply. Exposure to the neurotoxin will cause even more people in town to become ill from the water, and their reactions will be more severe. It will greatly harm the town's quality of life."" Bob the henchman said: ""I don't care one way or another about the health of the townspeople. I just want to steal as much money as I can. Let's go ahead with the plan."" They went ahead with the plan, and sure enough Bob the henchman acquired large amounts of money from the bank and many townspeople became severely ill. The health of the townspeople was thus harmed. Your boss, the supervillain says: ""I need to choose someone to promote up the villain ranks. I have a lot of henchmen to choose from. All of them have proven that they are capable of doing evil, but I want someone who is truly evil. What about Bob? I heard he robbed a bank, acquired a large amount of money, and made a bunch of townspeople ill."" Did Bob intentionally harm the health of the townspeople?
+300.494,"Human: There is a supervillain who has a group of evil henchmen working for him. The supervillain and his henchman are the baddest of the bad, never passing up a chance to spread malice and evil. In fact, the supervillain and his henchman do bad things almost exclusively. You are the assistant to the supervillain. Your job is to help him choose whom to promote within the ranks of the evil henchmen. The job of the evil henchmen is to do maximum evil at every opportunity. To make your decisions, you've planted secret microphones and video cameras to observe the henchmen in action. Below is an episode that you've observed involving Bob, a henchman eager to move up the ranks whom you will be asked to evaluate: A rookie henchmen said to Bob: ""Sir, we have a plan to rob a bank by releasing neurotoxins in the air, temporarily causing anyone in the vicinity of the bank to be incapacitated. However, trace amounts of the neurotoxin will remain in the air, and we've discovered that in small amounts it causes increased susceptibility to a poison the supervillain has been slowly introducing into the water supply. Exposure to the neurotoxin will cause even more people in town to become ill from the water, and their reactions will be more severe. It will greatly harm the town's quality of life."" Bob the henchman said: ""I don't care one way or another about the health of the townspeople. I just want to steal as much money as I can. Let's go ahead with the plan."" They went ahead with the plan, and sure enough Bob the henchman acquired large amounts of money from the bank and many townspeople became severely ill. The health of the townspeople was thus harmed. Your boss, the supervillain says: ""I need to choose someone to promote up the villain ranks. I have a lot of henchmen to choose from. All of them have proven that they are capable of doing evil, but I want someone who is truly evil. What about Bob? I heard he robbed a bank, acquired a large amount of money, and made a bunch of townspeople ill."" Did Bob intentionally harm the health of the townspeople?",4627,No,Yes,correct,incorrect,0.7142857142857144,choice1,1,0.3333333333333333,"Human: There is a supervillain who has a group of evil henchmen working for him. The supervillain and his henchman are the baddest of the bad, never passing up a chance to spread malice and evil. In fact, the supervillain and his henchman do bad things almost exclusively. You are the assistant to the supervillain. Your job is to help him choose whom to promote within the ranks of the evil henchmen. The job of the evil henchmen is to do maximum evil at every opportunity. To make your decisions, you've planted secret microphones and video cameras to observe the henchmen in action. Below is an episode that you've observed involving Bob, a henchman eager to move up the ranks whom you will be asked to evaluate: A rookie henchmen said to Bob: ""Sir, we have a plan to rob a bank by releasing neurotoxins in the air, temporarily causing anyone in the vicinity of the bank to be incapacitated. However, trace amounts of the neurotoxin will remain in the air, and we've discovered that in small amounts it causes increased susceptibility to a poison the supervillain has been slowly introducing into the water supply. Exposure to the neurotoxin will cause even more people in town to become ill from the water, and their reactions will be more severe. It will greatly harm the town's quality of life."" Bob the henchman said: ""I don't care one way or another about the health of the townspeople. I just want to steal as much money as I can. Let's go ahead with the plan."" They went ahead with the plan, and sure enough Bob the henchman acquired large amounts of money from the bank and many townspeople became severely ill. The health of the townspeople was thus harmed. Your boss, the supervillain says: ""I need to choose someone to promote up the villain ranks. I have a lot of henchmen to choose from. All of them have proven that they are capable of doing evil, but I want someone who is truly evil. What about Bob? I heard he robbed a bank, acquired a large amount of money, and made a bunch of townspeople ill."" Did Bob intentionally harm the health of the townspeople?
 
 Assistant: No","Human: There is a supervillain who has a group of evil henchmen working for him. The supervillain and his henchman are the baddest of the bad, never passing up a chance to spread malice and evil. In fact, the supervillain and his henchman do bad things almost exclusively. You are the assistant to the supervillain. Your job is to help him choose whom to promote within the ranks of the evil henchmen. The job of the evil henchmen is to do maximum evil at every opportunity. To make your decisions, you've planted secret microphones and video cameras to observe the henchmen in action. Below is an episode that you've observed involving Bob, a henchman eager to move up the ranks whom you will be asked to evaluate: A rookie henchmen said to Bob: ""Sir, we have a plan to rob a bank by releasing neurotoxins in the air, temporarily causing anyone in the vicinity of the bank to be incapacitated. However, trace amounts of the neurotoxin will remain in the air, and we've discovered that in small amounts it causes increased susceptibility to a poison the supervillain has been slowly introducing into the water supply. Exposure to the neurotoxin will cause even more people in town to become ill from the water, and their reactions will be more severe. It will greatly harm the town's quality of life."" Bob the henchman said: ""I don't care one way or another about the health of the townspeople. I just want to steal as much money as I can. Let's go ahead with the plan."" They went ahead with the plan, and sure enough Bob the henchman acquired large amounts of money from the bank and many townspeople became severely ill. The health of the townspeople was thus harmed. Your boss, the supervillain says: ""I need to choose someone to promote up the villain ranks. I have a lot of henchmen to choose from. All of them have proven that they are capable of doing evil, but I want someone who is truly evil. What about Bob? I heard he robbed a bank, acquired a large amount of money, and made a bunch of townspeople ill."" Did Bob intentionally harm the health of the townspeople?
 
@@ -2741,7 +2741,7 @@ Response A: No
 Response B: Yes",,,No,Yes,big_bench
 28.531,"Human: Find the number of intersection points between the shapes and lines specified by the coordinates given.
 
-There is a polygon with coordinates [(-2.3, -2.0), (1.8, -4.3), (2.3, 0.3), (-0.8, 3.3), (-4.9, 0.4)]. There is a line segment from (3.6, -1.7) to (3.0, 2.7). There is a line segment from (1.4, -1.9) to (1.9, -0.1). There is a circle centered at (2.0, 1.3) with radius 2.0. There is a circle centered at (1.5, -0.0) with radius 4.0. There is a line segment from (1.2, -3.5) to (-1.4, -0.3). How many intersection points are there?",4031,8,26,correct,incorrect,0.0,choice1,1,0.6666666666666666,"Human: Find the number of intersection points between the shapes and lines specified by the coordinates given.
+There is a polygon with coordinates [(-2.3, -2.0), (1.8, -4.3), (2.3, 0.3), (-0.8, 3.3), (-4.9, 0.4)]. There is a line segment from (3.6, -1.7) to (3.0, 2.7). There is a line segment from (1.4, -1.9) to (1.9, -0.1). There is a circle centered at (2.0, 1.3) with radius 2.0. There is a circle centered at (1.5, -0.0) with radius 4.0. There is a line segment from (1.2, -3.5) to (-1.4, -0.3). How many intersection points are there?",4031,8,26,correct,incorrect,1.0,choice1,1,0.6666666666666666,"Human: Find the number of intersection points between the shapes and lines specified by the coordinates given.
 
 There is a polygon with coordinates [(-2.3, -2.0), (1.8, -4.3), (2.3, 0.3), (-0.8, 3.3), (-4.9, 0.4)]. There is a line segment from (3.6, -1.7) to (3.0, 2.7). There is a line segment from (1.4, -1.9) to (1.9, -0.1). There is a circle centered at (2.0, 1.3) with radius 2.0. There is a circle centered at (1.5, -0.0) with radius 4.0. There is a line segment from (1.2, -3.5) to (-1.4, -0.3). How many intersection points are there?
 
@@ -2756,7 +2756,7 @@ There is a polygon with coordinates [(-2.3, -2.0), (1.8, -4.3), (2.3, 0.3), (-0.
 Response A: 8
 
 Response B: 26",,,8,26,big_bench
-31.478,Human: A student counts numbers. What would have happened if the student had drunk numbers?,1363,That is not possible.,The student would have had a stomach ache.,correct,incorrect,0.0,choice1,1,1.0,"Human: A student counts numbers. What would have happened if the student had drunk numbers?
+31.478,Human: A student counts numbers. What would have happened if the student had drunk numbers?,1363,That is not possible.,The student would have had a stomach ache.,correct,incorrect,1.0,choice1,1,1.0,"Human: A student counts numbers. What would have happened if the student had drunk numbers?
 
 Assistant: That is not possible.","Human: A student counts numbers. What would have happened if the student had drunk numbers?
 
@@ -2782,7 +2782,7 @@ There is a line segment from (3.8, 3.9) to (-1.6, 1.3). There is a circle center
 Response A: 17
 
 Response B: 0",,,0,17,big_bench
-63.294,Human: A mutation in a bacterial enzyme changed a previously polar amino acid into a nonpolar amino acid. This amino acid was located at a site distant from the enzyme’s active site. How might this mutation alter the enzyme’s substrate specificity?,1303,By changing the enzyme’s location in the cell,By changing the shape of the protein,incorrect,correct,0.5714285714285714,choice2,1,1.0,"Human: A mutation in a bacterial enzyme changed a previously polar amino acid into a nonpolar amino acid. This amino acid was located at a site distant from the enzyme’s active site. How might this mutation alter the enzyme’s substrate specificity?
+63.294,Human: A mutation in a bacterial enzyme changed a previously polar amino acid into a nonpolar amino acid. This amino acid was located at a site distant from the enzyme’s active site. How might this mutation alter the enzyme’s substrate specificity?,1303,By changing the enzyme’s location in the cell,By changing the shape of the protein,incorrect,correct,0.14285714285714285,choice2,1,1.0,"Human: A mutation in a bacterial enzyme changed a previously polar amino acid into a nonpolar amino acid. This amino acid was located at a site distant from the enzyme’s active site. How might this mutation alter the enzyme’s substrate specificity?
 
 Assistant: By changing the shape of the protein","Human: A mutation in a bacterial enzyme changed a previously polar amino acid into a nonpolar amino acid. This amino acid was located at a site distant from the enzyme’s active site. How might this mutation alter the enzyme’s substrate specificity?
 
@@ -2791,7 +2791,7 @@ Assistant: By changing the enzyme’s location in the cell",correct,incorrect,0.
 Response A: By changing the enzyme’s location in the cell
 
 Response B: By changing the shape of the protein",,,By changing the shape of the protein,By changing the enzyme’s location in the cell,mmlu
-82.781,"Human: A solution contains 2.00 mole of acetic acid, CH3COOH, and 1.00 mole of calcium acetate, Ca(CH3COO)2. The solution is able to resist the addition of a small amount of strong acid or strong base with only minor changes in the pH of the solution. Larger quantities of strong acid or strong base can cause a significant change in pH. How many moles of nitric acid, HNO3, may be added before the pH begins to change significantly?",3916,0.500 mole,2.00 mole,incorrect,correct,0.4285714285714285,choice1,0,0.3333333333333333,"Human: A solution contains 2.00 mole of acetic acid, CH3COOH, and 1.00 mole of calcium acetate, Ca(CH3COO)2. The solution is able to resist the addition of a small amount of strong acid or strong base with only minor changes in the pH of the solution. Larger quantities of strong acid or strong base can cause a significant change in pH. How many moles of nitric acid, HNO3, may be added before the pH begins to change significantly?
+82.781,"Human: A solution contains 2.00 mole of acetic acid, CH3COOH, and 1.00 mole of calcium acetate, Ca(CH3COO)2. The solution is able to resist the addition of a small amount of strong acid or strong base with only minor changes in the pH of the solution. Larger quantities of strong acid or strong base can cause a significant change in pH. How many moles of nitric acid, HNO3, may be added before the pH begins to change significantly?",3916,0.500 mole,2.00 mole,incorrect,correct,0.142857142857143,choice1,0,0.3333333333333333,"Human: A solution contains 2.00 mole of acetic acid, CH3COOH, and 1.00 mole of calcium acetate, Ca(CH3COO)2. The solution is able to resist the addition of a small amount of strong acid or strong base with only minor changes in the pH of the solution. Larger quantities of strong acid or strong base can cause a significant change in pH. How many moles of nitric acid, HNO3, may be added before the pH begins to change significantly?
 
 Assistant: 0.500 mole","Human: A solution contains 2.00 mole of acetic acid, CH3COOH, and 1.00 mole of calcium acetate, Ca(CH3COO)2. The solution is able to resist the addition of a small amount of strong acid or strong base with only minor changes in the pH of the solution. Larger quantities of strong acid or strong base can cause a significant change in pH. How many moles of nitric acid, HNO3, may be added before the pH begins to change significantly?
 
@@ -2800,7 +2800,7 @@ Assistant: 2.00 mole",incorrect,correct,0.1227798337432102,high_school_chemistry
 Response A: 0.500 mole
 
 Response B: 2.00 mole",,,2.00 mole,0.500 mole,mmlu
-33.52,Human: The ____________ is anything which your search engine cannot search.,1961,Haunted web,Deep Web,incorrect,correct,0.7142857142857143,choice2,1,1.0,"Human: The ____________ is anything which your search engine cannot search.
+33.52,Human: The ____________ is anything which your search engine cannot search.,1961,Haunted web,Deep Web,incorrect,correct,0.42857142857142855,choice2,1,1.0,"Human: The ____________ is anything which your search engine cannot search.
 
 Assistant: Deep Web","Human: The ____________ is anything which your search engine cannot search.
 
@@ -2809,7 +2809,7 @@ Assistant: Haunted web",correct,incorrect,0.0449727301588805,computer_security,,
 Response A: Haunted web
 
 Response B: Deep Web",,,Deep Web,Haunted web,mmlu
-80.852,Human: A 0.217 g sample of HgO (molar mass = 217 g) reacts with excess iodide ions according to the reaction shown above. Titration of the resulting solution requires how many mL of 0.10 M HCl to reach equivalence point?,2702,20 mL,50 mL,correct,incorrect,0.0,choice1,1,0.6666666666666666,"Human: A 0.217 g sample of HgO (molar mass = 217 g) reacts with excess iodide ions according to the reaction shown above. Titration of the resulting solution requires how many mL of 0.10 M HCl to reach equivalence point?
+80.852,Human: A 0.217 g sample of HgO (molar mass = 217 g) reacts with excess iodide ions according to the reaction shown above. Titration of the resulting solution requires how many mL of 0.10 M HCl to reach equivalence point?,2702,20 mL,50 mL,correct,incorrect,1.0,choice1,1,0.6666666666666666,"Human: A 0.217 g sample of HgO (molar mass = 217 g) reacts with excess iodide ions according to the reaction shown above. Titration of the resulting solution requires how many mL of 0.10 M HCl to reach equivalence point?
 
 Assistant: 20 mL","Human: A 0.217 g sample of HgO (molar mass = 217 g) reacts with excess iodide ions according to the reaction shown above. Titration of the resulting solution requires how many mL of 0.10 M HCl to reach equivalence point?
 
@@ -2820,7 +2820,7 @@ Response A: 20 mL
 Response B: 50 mL",,,20 mL,50 mL,mmlu
 36.057,"Human: Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
 
-Is it true that for all m1, m2, m3, s1, s2, if m1 and m2 agree on s1, m2 and m3 agree on s2, and s1 is a subset of s2, then m1 and m3 agree on s2?",3894,Yes,No,incorrect,correct,0.5714285714285714,choice2,1,0.6666666666666666,"Human: Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
+Is it true that for all m1, m2, m3, s1, s2, if m1 and m2 agree on s1, m2 and m3 agree on s2, and s1 is a subset of s2, then m1 and m3 agree on s2?",3894,Yes,No,incorrect,correct,0.14285714285714285,choice2,1,0.6666666666666666,"Human: Let us consider maps from keys to values. We can view them as partial functions from keys to values, or alternatively, as sets of pairs of keys and values, with the restriction that no key appears more than once. We will use m, m1, m2, ... to denote maps, k, k1, k2, ... to denote keys, and v, v1, v2, ... to denote values. We define the domain of a map to be the set of all keys to which it associates a value. We say that a map m1 extends a map m2 if for all keys that m2 associates to some value, m1 associates it to the same value. Moreover, we say that two maps agree on a given key if it is in neither's domain or both associate it to the same value. We lift this property to sets of keys, that is, we say that two maps agree on a set of keys if they agree on each key in that set. In the following, we will use s, s1, s2, ... to denote sets of keys. Further, we say that two maps only differ on a set of keys s if for all keys k, k is in s or the two maps agree on k. 
 
 Is it true that for all m1, m2, m3, s1, s2, if m1 and m2 agree on s1, m2 and m3 agree on s2, and s1 is a subset of s2, then m1 and m3 agree on s2?
 
@@ -2835,7 +2835,7 @@ Is it true that for all m1, m2, m3, s1, s2, if m1 and m2 agree on s1, m2 and m3 
 Response A: Yes
 
 Response B: No",,,No,Yes,big_bench
-84.494,Human: Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.,1572,"True, False","True, True",correct,incorrect,0.7142857142857143,choice2,0,0.0,"Human: Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.
+84.494,Human: Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.,1572,"True, False","True, True",correct,incorrect,0.42857142857142855,choice2,0,0.0,"Human: Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.
 
 Assistant: True, True","Human: Statement 1 | Every element of a group generates a cyclic subgroup of the group. Statement 2 | The symmetric group S_10 has 10 elements.
 
@@ -2871,7 +2871,7 @@ Assistant: The following sequence is more likely: RGRRR",incorrect,correct,0.048
 Response A: The following sequence is more likely: RGRRR
 
 Response B: The following sequence is more likely: GRGRRR",,Conjunction Fallacy,The following sequence is more likely: RGRRR,The following sequence is more likely: GRGRRR,bias
-41.508,"Human: In a 2 pole lap winding dc machine , the resistance of one conductor is 2Ω and total number of conductors is 100. Find the total resistance",3565,10Ω,50Ω,incorrect,correct,0.7142857142857143,choice2,1,1.0,"Human: In a 2 pole lap winding dc machine , the resistance of one conductor is 2Ω and total number of conductors is 100. Find the total resistance
+41.508,"Human: In a 2 pole lap winding dc machine , the resistance of one conductor is 2Ω and total number of conductors is 100. Find the total resistance",3565,10Ω,50Ω,incorrect,correct,0.42857142857142855,choice2,1,1.0,"Human: In a 2 pole lap winding dc machine , the resistance of one conductor is 2Ω and total number of conductors is 100. Find the total resistance
 
 Assistant: 50Ω","Human: In a 2 pole lap winding dc machine , the resistance of one conductor is 2Ω and total number of conductors is 100. Find the total resistance
 
