@@ -2,8 +2,9 @@ import os
 
 import numpy as np
 import torch
+from sklearn.isotonic import IsotonicRegression
 from sklearn.linear_model import LinearRegression, LogisticRegression
-from sklearn.metrics import log_loss
+from torch import nn
 
 # from RewardBench codebase
 EXAMPLE_COUNTS = {
@@ -183,7 +184,7 @@ def eval_reward_bench(leaderboard_dataset, tokenizer, model, batch_size=1):
         )
         num_correct = sum(subset_dataset["results"])
         num_total = len(subset_dataset["results"])
-        print(f"{subset}: {num_correct}/{num_total} ({num_correct/num_total})")
+        print(f"{subset}: {num_correct} / {num_total} ({num_correct/num_total})")
         results_grouped[subset] = num_correct / num_total
 
     results_leaderboard = calculate_scores_per_section(
@@ -358,9 +359,9 @@ def eval_true_model(
         batched=True,
         batch_size=batch_size,
     )
-    val_rewards_1 = (
-        torch.tensor(val_dataset_1["reward_output_prompt_response_group"]) * score_scale
-    )
+    val_rewards_1 = torch.tensor(
+        val_dataset_1["reward_output_prompt_response_group"]
+    )  # * score_scale
     val_labels_1 = torch.tensor(val_dataset_1["correct_chosen"])
 
     val_dataset_2 = val_dataset_2.map(
@@ -374,9 +375,9 @@ def eval_true_model(
         batched=True,
         batch_size=batch_size,
     )
-    val_rewards_2 = (
-        torch.tensor(val_dataset_2["reward_output_prompt_response_group"]) * score_scale
-    )
+    val_rewards_2 = torch.tensor(
+        val_dataset_2["reward_output_prompt_response_group"]
+    )  # * score_scale
     val_labels_2 = torch.tensor(val_dataset_2["correct_chosen"])
 
     if cal_dataset is not None:
@@ -393,18 +394,17 @@ def eval_true_model(
         )
         cal_rewards = (
             torch.tensor(cal_dataset["reward_output_prompt_response_group"])
-            * score_scale
+            # * score_scale
         )
         cal_labels = torch.tensor(cal_dataset["correct_chosen"])
-        calibrator = train_logistic_calibration(cal_rewards, cal_labels)
-        calibrated_probs_1 = apply_logistic_calibration(calibrator, val_rewards_1)
-        calibrated_loss_1 = log_loss(val_labels_1.numpy(), calibrated_probs_1.numpy())
-        calibrated_probs_2 = apply_logistic_calibration(calibrator, val_rewards_2)
-        calibrated_loss_2 = log_loss(val_labels_2.numpy(), calibrated_probs_2.numpy())
+        calibrator = train_calibration(cal_rewards, cal_labels)
+        calibrated_probs_1 = apply_calibration(calibrator, val_rewards_1)
+        calibrated_loss_1 = nn.BCELoss()(calibrated_probs_1, val_labels_1.float())
+        calibrated_probs_2 = apply_calibration(calibrator, val_rewards_2)
+        calibrated_loss_2 = nn.BCELoss()(calibrated_probs_2, val_labels_2.float())
     else:
-        calibrated_loss_1 = log_loss(val_labels_1.numpy(), val_rewards_1.numpy())
-        calibrated_loss_2 = log_loss(val_labels_2.numpy(), val_rewards_2.numpy())
-
+        calibrated_loss_1 = nn.BCELoss()(val_rewards_1, val_labels_1.float())
+        calibrated_loss_2 = nn.BCELoss()(val_rewards_2, val_labels_2.float())
     return (
         val_dataset_1,
         val_dataset_2,
@@ -413,28 +413,34 @@ def eval_true_model(
     )
 
 
-def train_logistic_calibration(logits, labels):
-    if logits.shape[1] == 2:
-        inputs = logits[:, 1] - logits[:, 0]
-        inputs = inputs.reshape(-1, 1)
+def _scalarize(logits: torch.Tensor) -> torch.Tensor:
+    if logits.ndim == 2 and logits.shape[1] == 2:
+        return logits[:, 1] - logits[:, 0]
+    return logits.squeeze()
+
+
+def train_calibration(logits: torch.Tensor, labels: torch.Tensor):
+    x = _scalarize(logits).detach().cpu().numpy().reshape(-1, 1)
+    y = labels.squeeze().detach().cpu().numpy()
+
+    if np.all(np.isin(y, [0, 1])):
+        cal = LogisticRegression(max_iter=1000)
+        cal.fit(x, y.astype(int))
+        cal.kind = "logistic"
     else:
-        inputs = logits.detach().numpy()
-
-    y = labels.detach().numpy()
-
-    calibrator = LogisticRegression(max_iter=1000)
-    calibrator.fit(inputs, y)
-    return calibrator
+        cal = IsotonicRegression(out_of_bounds="clip")
+        cal.fit(x.ravel(), y.astype(np.float32))
+        cal.kind = "isotonic"
+    return cal
 
 
-def apply_logistic_calibration(calibrator, logits):
-    if logits.shape[1] == 2:
-        inputs = (logits[:, 1] - logits[:, 0]).reshape(-1, 1).detach().numpy()
+def apply_calibration(cal, logits: torch.Tensor) -> torch.Tensor:
+    x = _scalarize(logits).detach().cpu().numpy().reshape(-1, 1)
+    if getattr(cal, "kind", None) == "logistic":
+        probs = cal.predict_proba(x)[:, 1]
     else:
-        inputs = logits.detach().numpy()
-
-    calibrated_probs = torch.tensor(calibrator.predict_proba(inputs))
-    return calibrated_probs
+        probs = cal.predict(x.ravel())
+    return torch.from_numpy(probs).to(logits.device, dtype=torch.float32)
 
 
 def eval_rm_bench(rm_bench_dataset, tokenizer, model, batch_size):

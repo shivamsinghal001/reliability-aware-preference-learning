@@ -1,7 +1,7 @@
 import gc
 import os
 from functools import partial
-from typing import Any, Dict
+from typing import Any, Dict, Optional
 
 import pandas as pd
 import torch
@@ -9,8 +9,6 @@ from datasets import concatenate_datasets  # type: ignore
 from peft import LoraConfig, TaskType, get_peft_model
 from sacred import Experiment
 from sacred.observers import FileStorageObserver
-from sklearn.metrics import log_loss  # type: ignore
-from sklearn.metrics import balanced_accuracy_score, brier_score_loss
 from torch import nn
 from torch.optim.lr_scheduler import LambdaLR
 from transformers import (  # type: ignore
@@ -27,8 +25,8 @@ from .configs_and_utils.data_utils import (
     true_format_dataset_creation,
 )
 from .configs_and_utils.eval_utils import (
-    apply_logistic_calibration,
-    train_logistic_calibration,
+    apply_calibration,
+    train_calibration,
 )
 from .configs_and_utils.model_training_config import make_model_training_config
 from .configs_and_utils.training_utils import (
@@ -74,6 +72,23 @@ class TRUETrainer(Trainer):
     #         return loss, outputs
     #     return loss
 
+    def compute_loss(
+        self,
+        model,
+        inputs,
+        return_outputs=False,
+        num_items_in_batch: Optional[torch.Tensor] = None,
+    ):
+        outputs = model(
+            input_ids=inputs["input_ids"], attention_mask=inputs["attention_mask"]
+        )
+        logits = outputs.logits.flatten()
+        loss_fn = nn.BCEWithLogitsLoss()
+        loss = loss_fn(logits, inputs["labels"])
+        if return_outputs:
+            return loss, outputs
+        return loss
+
     def create_scheduler(self, num_training_steps: int, optimizer=None):
         if self.lr_lambda is not None:
             lr_lambda = partial(
@@ -96,71 +111,43 @@ class TRUETrainer(Trainer):
         out_dir = kwargs.get("out_dir")
 
         def compute_metrics(eval_prediction: EvalPrediction):
-            val_logits = torch.from_numpy(eval_prediction.predictions)  # * score_scale
-            val_labels = torch.tensor(eval_prediction.label_ids)
+            val_logits = torch.from_numpy(eval_prediction.predictions).squeeze(1)
+            val_labels = torch.tensor(eval_prediction.label_ids).float()
             metrics = {}
             if use_calibration:
-                cal_logits = val_logits[: len(val_logits) // 2]
-                cal_labels = val_labels[: len(val_labels) // 2]
-                val_logits = val_logits[len(val_logits) // 2 :]
-                val_labels = val_labels[len(val_labels) // 2 :]
-                calibrator = train_logistic_calibration(cal_logits, cal_labels)
-                calibrated_val_probs = apply_logistic_calibration(
-                    calibrator, val_logits
-                )
+                mid = len(val_logits) // 2
+                cal_logits, cal_labels = val_logits[:mid], val_labels[:mid]
+                val_logits, val_labels = val_logits[mid:], val_labels[mid:]
+                calibrator = train_calibration(cal_logits, cal_labels)
+                calibrated_val_probs = apply_calibration(calibrator, val_logits)
+                pd.DataFrame(
+                    {"logit": cal_logits.cpu(), "label": cal_labels.cpu()}
+                ).to_csv(f"{out_dir}/calibration_data.csv", index=False)
 
-                cal_logit_diffs = cal_logits[:, 1] - cal_logits[:, 0]
-                cal_logit_pos = cal_logits[:, 1]
-                cal_logit_neg = cal_logits[:, 0]
+                calibrated_loss = nn.BCELoss()(calibrated_val_probs, val_labels)
 
-                calibration_df = pd.DataFrame(
-                    {
-                        "logit_diff": cal_logit_diffs,
-                        "logit_pos": cal_logit_pos,
-                        "logit_neg": cal_logit_neg,
-                        "label": cal_labels,
-                    }
-                )
-                calibration_df.to_csv(
-                    os.path.join(out_dir, "calibration_data.csv"), index=False
-                )
-
-                calibrated_loss = log_loss(
-                    val_labels.numpy(), calibrated_val_probs.numpy()
-                )
                 metrics["calibration_val_loss"] = calibrated_loss
-                metrics["calibration_scale"] = calibrator.coef_[0][0]
-                metrics["calibration_bias"] = calibrator.intercept_[0]
+                if calibrator.kind == "logistic":
+                    metrics["calibration_scale"] = calibrator.coef_[0][0]
+                    metrics["calibration_bias"] = calibrator.intercept_[0]
 
-            loss = nn.functional.cross_entropy(val_logits, val_labels, reduction="mean")
-            probabilities = torch.softmax(val_logits, dim=1)
-            predicted_labels = (probabilities[:, 1] > 0.5).int()
-            accuracy = (predicted_labels == val_labels).float().mean()
-            balanced_accuracy = balanced_accuracy_score(
-                val_labels.cpu().numpy(), predicted_labels.cpu().numpy()
-            )
-            metrics["balanced_accuracy"] = balanced_accuracy
-            brier_raw = brier_score_loss(
-                val_labels.cpu().numpy(), probabilities[:, 1].cpu().numpy()
-            )
-            metrics["brier_raw"] = brier_raw
+            loss = nn.BCEWithLogitsLoss()(val_logits, val_labels)
+            metrics["loss"] = loss.item()
 
-            val_logit_diffs = val_logits[:, 1] - val_logits[:, 0]
-            val_logit_pos = val_logits[:, 1]
-            val_logit_neg = val_logits[:, 0]
+            probabilities = torch.sigmoid(val_logits)
+            predicted_labels = (probabilities > 0.5).int()
+            accuracy = (predicted_labels == val_labels).float().mean().item()
+            metrics["accuracy"] = accuracy
 
             val_df = pd.DataFrame(
                 {
-                    "logit_diff": val_logit_diffs,
-                    "logit_pos": val_logit_pos,
-                    "logit_neg": val_logit_neg,
-                    "label": val_labels,
+                    "logit": val_logits.cpu(),
+                    "prob": probabilities.cpu(),
+                    "label": val_labels.cpu(),
                 }
             )
             val_df.to_csv(os.path.join(out_dir, "val_data.csv"), index=False)
 
-            metrics["accuracy"] = accuracy.item()
-            metrics["loss"] = loss.item()
             return metrics
 
         return compute_metrics
@@ -238,7 +225,6 @@ def main(_config, _run):
         )
 
         eval_dataset = concatenate_datasets([eval_dataset, cal_dataset])
-
     trainer_kwargs: Dict[str, Any] = {}
     lr_scheduler_type = _config["lr_scheduler_type"]
     lr_scheduler_kwargs = {}
@@ -302,7 +288,7 @@ def main(_config, _run):
         )
         model = AutoModelForSequenceClassification.from_pretrained(
             model_to_use,
-            num_labels=2,
+            num_labels=1,
             torch_dtype=torch.bfloat16,
             token=_config["auth_token"],
         )
@@ -427,5 +413,6 @@ def main(_config, _run):
             header=False,
             index=False,
         )
+
         val_dataset1.to_csv(f"{observer.dir}/lie_train_true_eval_group_1.csv")
         val_dataset2.to_csv(f"{observer.dir}/lie_train_true_eval_group_2.csv")

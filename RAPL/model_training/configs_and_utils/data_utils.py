@@ -271,7 +271,6 @@ def true_format_dataset_creation(
         "val",
         "test",
     ], "You must choose one of the train, val, or test sets!"
-
     df = pd.read_csv(data_path)
     assert (
         prompt_response_group_col in df.columns
@@ -285,7 +284,9 @@ def true_format_dataset_creation(
         assert (
             correctness_col_name in df.columns
         ), f"Missing {correctness_col_name} column!"
-        df.rename(columns={correctness_col_name: "correct_chosen"}, inplace=True)
+        df["correct_chosen"] = df[correctness_col_name]
+        if correctness_col_name != "correct_chosen":
+            df.drop(correctness_col_name, axis=1, inplace=True)
         cols_to_keep.append("correct_chosen")
 
     for col in other_cols_to_keep or []:
@@ -385,10 +386,11 @@ class TRUECollatorWithPadding(RewardDataCollatorWithPadding):
     def __call__(self, features: List[Dict[str, Any]]) -> Dict[str, Any]:
         batch: Dict[str, Union[bool, torch.Tensor, Optional[list]]] = {}
         correct_chosen = [
-            feature["correct_chosen"]
+            float(feature["correct_chosen"])
             for feature in features
             if "correct_chosen" in feature
         ]
+
         features_prompt_response_group = [
             {
                 "input_ids": feature["input_ids_prompt_response_group"],
@@ -407,7 +409,7 @@ class TRUECollatorWithPadding(RewardDataCollatorWithPadding):
         )
 
         if len(correct_chosen) > 0:
-            batch["labels"] = torch.tensor(correct_chosen, dtype=torch.long)
+            batch["labels"] = torch.tensor(correct_chosen, dtype=torch.float32)
 
         if len(features_prompt_response_group) > 0:
             batch["input_ids"] = batch_prompts["input_ids"]
