@@ -402,6 +402,13 @@ def eval_true_model(
         calibrated_loss_1 = nn.BCELoss()(calibrated_probs_1, val_labels_1.float())
         calibrated_probs_2 = apply_calibration(calibrator, val_rewards_2)
         calibrated_loss_2 = nn.BCELoss()(calibrated_probs_2, val_labels_2.float())
+        breakpoint()
+        val_dataset_1 = val_dataset_1.add_column(
+            "TRUE_calibrated_probabilities", calibrated_probs_1
+        )
+        val_dataset_2 = val_dataset_2.add_column(
+            "TRUE_calibrated_probabilities", calibrated_probs_2
+        )
     else:
         calibrated_loss_1 = nn.BCELoss()(val_rewards_1, val_labels_1.float())
         calibrated_loss_2 = nn.BCELoss()(val_rewards_2, val_labels_2.float())
