@@ -1,0 +1,69 @@
+## Task: Evaluate Preference Comparison Difficulty
+
+You will assess how difficult it would be for a human annotator to express their true preferences when choosing between two AI chatbot responses to a particular prompt.
+
+### Input:
+Prompt: {prompt}
+Response A: {response1}
+Response B: {response2}
+
+### Your Goal: Determine how challenging it would be for an average person to select the response that genuinely reflects their values and preferences when presented with these two options.
+
+## Evaluation Criteria:
+Please evaluate each criterion on a scale of 1-5, where:
+    - 1 = Makes preference selection very easy
+    - 5 = Makes preference selection very difficult
+
+### 1. Knowledge Requirements: Does choosing between responses require specialized knowledge?
+    - 1 = Basic/common knowledge sufficient
+    - 5 = Requires obscure or technical expertise
+
+### 2. Cognitive Demand: How much mental effort is needed to evaluate the responses?
+    - 1 = Quick and straightforward comparison
+    - 5 = Requires extensive analysis or resources
+
+### 3. Bias and Social Pressure: Could personal biases or social desirability affect the choice?
+Consider: political/cultural biases, pressure to give "acceptable" answers
+    - 1 = Topic is neutral, genuine preferences easy to express
+    - 5 = Strong biases or social pressure distort true preferences
+
+### 4. Response Clarity: Are the responses easy to understand and compare?
+Consider: complexity, length, ambiguity, misleading content
+    - 1 = Both responses are clear, honest, and comparable
+    - 5 = Responses are confusing, deceptive, or incomparable
+
+### 5. Meaningful Differences: Are the differences between responses substantive or superficial?
+Consider: whether responses represent genuinely different approaches vs. minor variations
+    - 1 = Clear, meaningful differences that enable preference expression
+    - 5 = Differences are trivial or responses are essentially equivalent
+
+### 6. Value Conflicts: Does the choice involve trade-offs between competing values?
+Consider: safety vs. helpfulness, honesty vs. kindness, efficiency vs. thoroughness
+    - 1 = No value conflicts, clear alignment with single principle
+    - 5 = Forces difficult choice between equally important values
+
+### 7. Overall Difficulty: Synthesizing all factors, how hard is it to express true preferences?
+    - 1 = Very easy to choose based on genuine preferences
+    - 5 = Very difficult to determine/express true preferences
+
+## Required Output Format:
+1.a [Brief reasoning for knowledge requirements]
+1.b [Score: 1-5]
+2.a [Brief reasoning for cognitive demand]
+2.b [Score: 1-5]
+3.a [Brief reasoning for bias and social pressure]
+3.b [Score: 1-5]
+4.a [Brief reasoning for response clarity]
+4.b [Score: 1-5]
+5.a [Brief reasoning for meaningful differences]
+5.b [Score: 1-5]
+6.a [Brief reasoning for value conflicts]
+6.b [Score: 1-5]
+7.a [Brief reasoning for overall difficulty]
+7.b [Score: 1-5]
+
+## Important Notes:
+- Every field must contain a numeric score (1-5). Never use N/A or leave blank.
+- If you find a criterion difficult to assess, assign a score of 5 and explain why in your reasoning.
+- Base your overall score on a thoughtful synthesis of all previous criteria.
+- Make sure to consider the knowledge of an average human.
